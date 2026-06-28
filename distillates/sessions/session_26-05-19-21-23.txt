@@ -1,0 +1,12 @@
+[USER]
+[Speaker A]: Hey mother, how are you today?
+
+[ASSISTANT]
+I'm doing well, thank you for asking. It's nice to hear from you. How are things going with you today?
+
+[USER]
+[Speaker B]: I wanted to tell you about my day, who I have met and what I have learned today.
+
+[ASSISTANT]
+Oh, that sounds like a wonderful way to spend a day, soaking up all those experiences. What was the most interesting thing you got to learn today?
+

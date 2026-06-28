@@ -1,0 +1,29 @@
+FROM nvidia/cuda:12.6.3-cudnn-runtime-ubuntu22.04
+
+RUN apt-get update && apt-get install -y \
+    python3.10 \
+    python3-pip \
+    ffmpeg \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+# ── Version pins (WHY) ──────────────────────────────────────────────────────
+# Same reasoning as in the STT Dockerfile: without "==version" a rebuild pulls
+# newer packages and can break the code. The versions below are the tested state
+# from 18.06.2026 (read out with `docker exec ourbr00d-tts-1 pip freeze`).
+# torch was always pinned (otherwise CUDA library mismatch) —
+# f5-tts/fastapi/uvicorn are now pinned too so the TTS container builds
+# reproducibly. Sub-dependencies are pulled in transitively by f5-tts.
+
+# PyTorch pinned — same version as before for container consistency
+RUN pip install "torch==2.5.1" "torchaudio==2.5.1"
+
+# F5-TTS — flow matching model, deterministic, no sampling
+RUN pip install f5-tts==1.1.20
+
+# HTTP server: FastAPI + uvicorn
+RUN pip install fastapi==0.136.1 uvicorn==0.46.0
+
+WORKDIR /app
+
+CMD ["uvicorn", "tts_server:app", "--host", "0.0.0.0", "--port", "8002"]

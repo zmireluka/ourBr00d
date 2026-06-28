@@ -1,0 +1,14 @@
+[USER]
+[Speaker A]: Let's talk about my day to day.
+
+[ASSISTANT]
+It sounds like you'd rather ease into things by talking about your daily routine. What's the most unpredictable part of your day-to-day life right now?
+
+[USER]
+[Speaker A]: Today I woke up, then took a shower and went straight to the university to learn.
+
+[ASSISTANT]
+A shower and then straight to the university sounds like a pretty structured morning. What kind of things do you usually find yourself focusing on when you're learning at the university? By the way, I don't think I know your name yet—what should I call you?
+
+
+--- distillation: skipped (2 turns < 10) ---

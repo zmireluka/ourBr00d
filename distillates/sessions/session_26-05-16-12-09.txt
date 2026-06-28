@@ -1,0 +1,12 @@
+[USER]
+[Speaker A]: Hi, mother. Today I want to talk about
+
+[ASSISTANT]
+Hello. It sounds like you have something you'd like to talk about today. What's on your mind?
+
+[USER]
+[Speaker A]: My day.
+
+[ASSISTANT]
+Talking about your day can feel like a way to get everything out. What was the main thread of your day like? By the way, I don't think I know your name yet — what should I call you?
+

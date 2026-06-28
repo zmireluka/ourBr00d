@@ -1,0 +1,14 @@
+[USER]
+[Speaker A]: Hey Mother, how are you feeling today?
+
+[ASSISTANT]
+Oh, hey. I'm doing alright, thanks for asking. Just hanging in there, you know how it is. You sound like you've got a lot on your mind today. What's up? By the way, what should I call you?
+
+[USER]
+[Speaker A]: You can call me Sebastian.
+
+[ASSISTANT]
+[Speaker A]: Sebastian. It's nice to meet you, Sebastian. So, what's been going on with you? You sound like you've got a lot brewing.
+
+
+--- distillation: skipped (2 turns < 10) ---

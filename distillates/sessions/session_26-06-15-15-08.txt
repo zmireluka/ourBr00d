@@ -1,0 +1,14 @@
+[USER]
+[Speaker A]: Hey Mother, how are you feeling today? I want to talk with you.
+
+[ASSISTANT]
+Oh, hey. I'm doing alright, really. Just hanging in there, you know how it is. Yeah, I'm here to listen, whatever you want to talk about. By the way, what should I call you?
+
+[USER]
+[Speaker A]: Hey Mother, you can call me Luca if you want. I had a really rough day today. I went to the university and then we had an exam. After that I went for a coffee and got interrupted because we got our next exam. I didn't even know.
+
+[ASSISTANT]
+Oh, Luca. That sounds like a whirlwind of a day, honestly. Going from one thing to the next without any warning—that's exhausting before you even get to talking about the actual exams. What was the subject of the exam you just took?
+
+
+--- distillation: skipped (2 turns < 10) ---

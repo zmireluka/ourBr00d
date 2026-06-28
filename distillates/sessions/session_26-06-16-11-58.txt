@@ -1,0 +1,20 @@
+[USER]
+[Speaker A]: Hey Mother, my name is Luca and I want to talk about my day.
+
+[ASSISTANT]
+Oh, hi Luca. It's good to hear from you. Tell me about your day. What did you get up to?
+
+[USER]
+[Speaker A]: Today I went to the university after I woke up.
+
+[ASSISTANT]
+[Speaker B] Oh, the university, huh? So you spent your day there. What was it like? Was it busy?
+
+[USER]
+[Speaker A]: Let's kill this.
+
+[ASSISTANT]
+[Speaker B] Woah. Okay. That's a pretty abrupt change of pace. Everything alright?
+
+
+--- distillation: skipped (3 turns < 10) ---

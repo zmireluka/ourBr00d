@@ -1,0 +1,1619 @@
+James Bridle
+
+New Dark Age
+Der Sieg der Technologie und
+das Ende der Zukunft
+
+Aus dem Englischen
+von Andreas Wirthensohn
+
+unkorrigierte Leseprobe
+
+Pressesperrfrist: 19.09.2019
+Wir bitten Sie, Rezensionen nicht vorher zu veröffentlichen.
+Vielen Dank für Ihr Verständnis.
+
+C.H.Beck
+
+ Titel der englischen Originalausgabe:
+«New Dark Age. Technology and the End of the Future»
+© James Bridle, 2018
+Die Originalausgabe ist 2018 bei Verso, London, erschienen.
+
+Mit 25 Abbildungen
+
+Für die deutsche Ausgabe:
+© Verlag C.H.Beck oHG, München 2019
+Satz: Fotosatz Amann, Memmingen
+Druck und Bindung: Beltz, Bad Langensalza
+Umschlaggestaltung: Geviert, Grafik & Typographie, Nastassja Abel
+Gedruckt auf säurefreiem, alterungsbeständigem Papier
+(hergestellt aus chlorfrei gebleichtem Zellstoff)
+Printed in Germany
+Werbemittel-Nummer: 257741
+
+www.chbeck.de
+
+ Über das Buch
+E
+
+ine japanische Touristenfamilie folgt an der Küste Australiens
+ihrem Navi bis in den Ozean, obwohl die Straße längst verschwunden ist. Auch die Ranger im Death Valley in Arizona kennen dieses Phänomen, dass Ortsfremde der Technik mehr vertrauen
+als den eigenen Sinnen. Sie haben sogar einen eigenen Begriff dafür:
+«Tod durch GPS ».
+Doch dieser makabre «automation bias» ist nur ein Gleichnis für
+die Lage, in der sich die Menschheit heute befindet. Während neue
+Technologien immer schneller und immer massiver bis in die letzten Winkel unseres Lebens vordringen, sind wir immer weniger
+dazu in der Lage, sie unseren Erfordernissen anzupassen. Sie sind
+längst zu einer Bedrohung für humane Lebensformen geworden. In
+einer rasanten Tour de Force führt uns James Bridle, der «Orwell des
+21. Jahrhunderts», durch die technologischen Dystopien der Gegenwart – vom Klimawandel und dem Internet bis zur Automatisierung der Arbeitswelt und der omnipräsenten Datenerfassung. Doch
+er zeigt noch mehr: Wir müssen eine unberechenbar gewordene
+Welt anders denken lernen, wenn wir uns in unserem «New Dark
+Age» noch zurecht finden wollen. Bridle ist ein junger Harari noir –
+kompetent, funkelnd und düster wie ein Roman von H.P. Lovecraft.
+
+  Über den Autor
+J
+
+ames Bridle (*1980) ist Künstler und Autor. Er hat Computer Science und Cognitive Science am University College, London, studiert und über Künstliche Intelligenz promoviert. Seine künstlerischen Arbeiten und Installationen wurden in Galerien und Museen
+in Europa, Nord- und Südamerika, Asien und Australien ausgestellt. Seine Texte sind in «Wired», «Frieze», «The Atlantic», dem
+«Guardian» und «Observer» erschienen. 2015 wurde er vom Magazin «Wired» zu den 100 einflussreichsten Menschen in Europa gezählt. «New Dark Age» ist sein erstes Buch.
+
+ Pressestimmen
+«New Dark Age gehört zu den klügsten und zugleich beunruhigendsten Büchern über die digitale Welt, die ich jemals gelesen
+habe, was nichts anderes heißt als dass es zu den klügsten und erhellendsten Büchern über das Leben von heute gehört, die ich jemals gelesen habe.»
+The New Yorker
+
+«Höchste Zeit, dass jemand mal die Fenster aufreißt und ein wenig
+Dunkelheit ins Zimmer lässt. Bridles Buch ist die beste App dafür.»
+Frankfurter Allgemeine Sonntagszeitung
+
+ Inhalt
+1. Kluft
+2. Computerisierung
+3. Klima
+4. Kalkulation
+5. Komplexität
+6. Kognition
+7. Komplizenschaft
+8. Konspiration
+9. Kollaterale
+10. Cloud
+
+Dank
+Anmerkungen
+Bildnachweis
+Register
+
+7
+25
+9
+37
+69
+49
+77
+109
+42
+73
+
+85
+73
+
+xx
+89
+
+  Kapitel 3
+
+Klima
+A
+
+uf YouTube gab es ein Video, das ich mir immer und immer
+wieder anschaute, bis es aus dem Netz genommen wurde. Daraufhin entdeckte ich GIFs davon, die auf Nachrichtenseiten gepostet ­worden waren, und schaute mir stattdessen die an: konzentrierte Linien des Schlüsselmoments, destilliert aus dem Unheimlichen. Ein Mann in Gummistiefeln und Tarnkleidung, mit einem
+Jagd­gewehr über der rechten Schulter, marschiert im Frühjahr durch
+die ungeheuren Weiten der sibirischen Tundra. Der Boden ist grün
+und braun, dicht mit Gras bewachsen, und erstreckt sich vollkommen flach in alle Richtungen bis zum blassen Blau des Horizonts,
+der ewig weit entfernt scheint. Mit langen, gleichmäßigen Schritten
+läuft er dahin, ein Tempo, das ihn jeden Tag ein großes Stück Territorium erkunden lässt. Doch während er so dahingeht, glänzt der
+Boden feucht und gerät in Schwingung; die dicke Erde wird flüssig
+und bewegt sich wellenförmig.1 Was wie fester Boden wirkt, ist
+nur ein dünner Teppich aus pflanzlicher Materie, eine organische
+Kruste über einem sich neuerdings verändernden, suppigen Meer.
+Der Perma­frost unter der Tundra taut auf. In dem Video hat es den
+Anschein, als könnte der Boden jeden Moment aufbrechen, der Stiefel des Schreitenden die Oberfläche durchstoßen und der Mann vom
+Sog verschlungen werden, verloren unter den grünen Blättern.
+Viel wahrscheinlicher jedoch ist die entgegengesetzte Richtung:
+Der Boden wird nach oben aufbrechen, wird feuchte Erde und
+warme Gase in die Luft schleudern. 2013 war im hohen Norden
+­Sibiriens eine mysteriöse Explosion zu hören, und noch einhundert
+
+9
+
+ Kilometer entfernt berichteten Bewohner von einem hellen Leuchten am Himmel. Wissenschaftler, die einige Monate später an dem
+Ort auf der abgeschiedenen Taimyrhalbinsel eintrafen, entdeckten
+einen riesigen frischen Krater, vierzig Meter breit und dreißig Meter
+tief.
+In Taimyr erreicht das Thermometer im Sommer höchstens fünf
+Grad Celsius, während es im Winter auf minus 30° C absackt. Über
+die karge Landschaft verstreut finden sich sogenannte Pingos: kleine
+Erdhügel, die entstehen, wenn hydrostatischer Druck Eiskerne
+Richtung Erdoberfläche drückt. Wenn die Pingos wachsen, werfen
+sie die Oberflächenvegetation und das zerbrochene Eis ab, sie erinnern dann an gedrungene Vulkane mit geborstenen Kratern. Doch
+die Pingos tauen genauso auf wie der Permafrost – und in manchen
+Fällen explodieren sie. Im April 2017 installierten Forscher auf der
+nahe gelegenen sibirischen Halbinsel Jamal (was so viel wie «Ende
+der Welt» bedeutet) das erste Netzwerk seismischer Sensoren. In
+der Nähe des nagelneuen Hafens Sabetta an der Mündung des Ob
+können diese Sensoren in einem Umkreis von 200 Kilometern
+­Bodenbewegungen erfassen: Sie sollen frühzeitig vor explodierenden Pingos warnen, denn diese könnten die industrielle Infrastruktur des Hafens oder der örtlichen Flüssiggaslager in Bowanenkowo
+und Kharasavay beschädigen.
+Dass Sabetta als Ausgangspunkt für den Export der riesigen sibirischen Erdgasvorräte errichtet wurde, war der gleichen Entwicklung zu verdanken, die auch zur Explosion der Pingos führte: dem
+globalen Temperaturanstieg. Da das Eis der Arktis schmilzt, lassen
+sich bislang unzugängliche Öl- und Gasreserven erschließen. Schätzungen zufolge befinden sich 30 Prozent der noch verbleibenden
+Erdgasvorräte dieser Welt in der Arktis.2 Sie liegen zumeist draußen
+im Meer, in knapp 500 Metern Tiefe, und sind jetzt ausgerechnet
+wegen der katastrophalen Folgen zugänglich, die ein Jahrhundert
+Ausbeutung fossiler Brennstoffe und Abhängigkeit davon zeitigen.
+Die Sensoren, welche die industrielle Infrastruktur schützen sollen,
+sind erforderlich aufgrund der Situation, die gerade durch diese
+­Infrastruktur herbeigeführt wurde. Das ist positive Rückkopplung:
+
+10
+
+ nicht positiv für das Leben – von Menschen, Tieren und Pflanzen –,
+nicht positiv für den Verstand; sondern akkumulierend, expandierend, akzelerierend.
+Die regionalspezifische Form positiver Rückkopplung, die hier am
+Werk ist, ist die Freisetzung von Methan aufgrund des auftauenden
+Permafrostbodens: der matschigen, zitternden Tundra. Der unter
+dieser Tundra befindliche Permafrost kann mehr als einen Kilometer tief reichen und besteht aus dauerhaft gefrorenen Schichten aus
+Erde, Fels und Sedimentgestein. In diesem Eis sind Jahrmillionen
+des Lebens eingeschlossen, das nun wieder an die Oberfläche zurückkehrt. Als im Sommer 2016 bei einem Milzbrandausbruch auf
+der Jamal-Halbinsel ein junger Mann starb und mehr als 40 im Krankenhaus behandelt werden mussten, machte man dafür im Boden
+vergrabene Rentierkadaver verantwortlich, die durch den auftauenden Permafrost freigelegt wurden. Sie waren mit Anthraxbakterien
+infiziert, die seit Jahrzehnten oder Jahrhunderten im Eis schlummerten und unter der Tundra in der Zeit eingefroren waren.3 Eng
+verbunden mit diesen tödlichen Bakterien ist tote Materie, die nun,
+da das Eis schmilzt, verwest und dabei Methangaswolken freisetzt –
+ein Treibhausgas, das wirksamer als Kohlendioxid die Hitze in der
+Erdatmosphäre hält. 2006 setzte der sibirische Permafrost schätzungsweise 3,8 Millionen Tonnen Methan in die Atmosphäre frei;
+2013 war dieser Wert auf 17 Millionen Tonnen gestiegen. Es ist –
+mehr als alles andere – dieses Methan, das die Tundra erzittern und
+explodieren lässt.
+Natürlich gibt es in einer vernetzten Welt so etwas wie einen rein
+lokalen Effekt nicht. Was wir als Wetter wahrnehmen, verdunkelt
+im gleichen Moment den Globus als Klima: winzige Augenblicke
+turbulenter Aktivität, durch die wir notdürftig eine unsichtbare,
+unbegreifliche Totalität erfassen. Der Künstler Roni Horn hat das so
+beschrieben: «Das Wetter ist das zentrale Paradoxon unserer Zeit.
+Schönes Wetter ist oft falsches Wetter. Schön ist es momentan und
+für den Einzelnen, falsch ist es mit Blick auf das ganze System.»4
+Was in der Tundra als stetig wachsende Unsicherheit des Untergrunds erscheint, ist die Destabilisierung des gesamten Planeten.
+
+11
+
+ Landschaft der Tuktoyaktuk-Halbinsel, Sibirien.
+
+Ebenjener Boden zittert, verfault, reißt auf und stinkt. Man kann
+sich nicht mehr auf ihn verlassen.
+Aus der Luft betrachtet erinnern die explodierten Pingos und
+offenen Schmelzwasserseen der sibirischen Weite an Gehirnauf­
+­
+nahmen von Patienten, die an spongiformer Enzephalopathie leiden
+und deren Kortex durch den Tod von Nervenzellen degeneriert und
+vernarbt. Die Prionkrankheiten, die zu spongiformer Enzephalo­
+pathie führen – Scrapie, Kuru, Rinderwahnsinn, Creutzfeldt-Jakob
+und ihre Unterformen –, sind das Ergebnis «umgeklappter», fehl­
+gefalteter Proteine, von Grundgewebeteilchen, die ihre Konformation ändern. Sie breiten sich durch den Körper aus, indem sie ihre
+ordnungsgemäß gefalteten Pendants nach dem eigenen Bild umwandeln. Erreichen Prioninfektionen das Gehirn, führen sie zu
+rasch fortschreitender Demenz, Gedächtnisverlust, Persönlichkeitsveränderungen, Halluzinationen, Angstzuständen, Depressionen und schließlich zum Tod. Das Hirn selbst ähnelt immer mehr
+einem Schwamm, es ist ausgehöhlt und denaturiert und nicht mehr
+
+12
+
+ Lichtmikrografische Aufnahme von Gehirngewebe (hundertfach vergrößert),
+das von der Creutzfeldt-Jakob-Krankheit (CJK) befallen ist.
+
+in der Lage, den eigenen Sinn und Zweck zu verstehen. Der Permafrost – der dauerhafte Frost – taut auf. Die Wörter ergeben keinen
+Sinn mehr, und mit ihnen schwinden unsere Möglichkeiten, die
+Welt zu denken.
+Am 19. Juni 2006 versammelten sich Vertreter aus fünf nordischen Ländern auf der entlegenen arktischen Insel Spitzbergen, die
+Teil des Svalbard-Archipels ist, um den Grundstein für eine Zeit­
+maschine zu legen. Im Verlauf der folgenden beiden Jahre gruben
+sich Arbeiter 120 Meter tief in einen Sandsteinberg, wo sie noch
+einmal 150 Meter lange und zehn Meter breite Hohlräume anlegten. Die Zeitmaschine soll eine der wertvollsten Ressourcen der
+Menschheit in eine ungewisse Zukunft befördern, indem sie einige
+Schrecken der Gegenwart umgeht. In heißversiegelten Folienpäckchen, verpackt in Plastikkisten, die sich in Industrieregalen stapeln,
+
+13
+
+ lagert dort abermillionenfach konserviertes Saatgut – Nutzpflanzenproben aus regionalen Sammlungen überall auf der Welt.
+Gerade einmal 1120 Kilometer vom Nordpol entfernt, ist Svalbard die nördlichste ganzjährig bewohnte Siedlung auf Erden, und
+obwohl sie so abgelegen ist, ist sie seit langem ein internationaler
+Treffpunkt. So wurde sie mindestens seit dem 12. Jahrhundert von
+nordischen Fischern und Jägern aufgesucht, doch erst ihre «Entdeckung» durch niederländische Seefahrer 1596 öffnete die Inseln für
+den Walfang und die Gewinnung von Mineralien. Die Briten landeten 1604 dort und begannen mit der Walrossjagd; gegen Ende des
+Jahrhunderts trafen die Russen auf der Suche nach Eisbär- und
+­Polarfuchsfellen dort ein. Zwar wurden sie in den 1820er Jahren
+durch britische Überfälle in der Barentssee wieder vertrieben, doch
+sie sollten schließlich, wie alle anderen, wegen der Kohle wieder
+­zurückkehren. Während des Zweiten Weltkriegs wurde der Archipel evakuiert und von einer Abordnung deutscher Truppen besetzt,
+die dort eine Wetterstation betrieben. Sie wurden im Mai 1945 abgeschnitten und erst Ende September von einem norwegischen Robbenjagdschiff aufgegriffen; sie waren damit die letzten deutschen
+Soldaten, die sich den Alliierten ergaben.
+Die Entdeckung von Kohlevorkommen Ende des 19. Jahrhunderts verschärfte Souveränitätsfragen, die zuvor ungeklärt geblieben ­waren. Jahrhundertelang hatte der Archipel als freies Territorium ohne Gesetze oder Regulierungen funktioniert, das außerhalb
+der Rechtsprechung irgendeiner Nation stand. Der Svalbard-Vertrag
+von 1920, der im Zuge der Friedensverhandlungen in Versailles formuliert wurde, übertrug die Souveränität an Norwegen, erlaubte
+­jedoch allen Unterzeichnerstaaten gleichermaßen, auf den Inseln
+kommerzielle Aktivitäten – in erster Linie Bergbau – zu betreiben.
+Der Archipel sollte entmilitarisiert werden und ist bis heute eine
+ganz besondere visafreie Zone: Jeder kann sich auf den Inseln niederlassen und dort arbeiten, ganz gleich, woher er kommt oder welche Staatsangehörigkeit er hat, vorausgesetzt, er verfügt über gewisse finanzielle Mittel. Neben gut 2000 Norwegern und fast
+500 Russen und Ukrainern sind in Svalbard auch mehrere hundert
+
+14
+
+ nicht-nordische Menschen zu Hause, darunter Arbeiter aus Thailand und Iran. In den letzten Jahren kamen eine Reihe von Asyl­
+bewerbern, deren Anträge in Norwegen abgelehnt worden waren,
+nach Svalbard, um dort die siebenjährige Residenzpflicht abzusitzen, die erforderlich ist, um die norwegische Staatsangehörigkeit zu
+erhalten.5
+Der Svalbard Global Seed Vault – mitunter auch nur «Arche Noah
+der Pflanzen» oder «Weltuntergangstresor» genannt – wurde 2008
+eröffnet. Als Sicherungseinrichtung, die die Arbeit von Genbanken
+überall auf der Welt unterstützen soll, eignet sich der Ort Svalbad in
+doppelter Weise. Seine geopolitische Ausnahmestellung macht es
+deutlich leichter, nationale Organisationen davon zu überzeugen,
+ihre wertvollen – und oftmals vertraulichen – Sammlungen dort zu
+lagern. Zum Zweiten ist die unter dem Permafrost begrabene Schatzkammer auch eine natürliche Tiefkühltruhe: Dank Energie aus der
+vor Ort geförderten Kohle wird er auf minus 18° C heruntergekühlt,
+und selbst wenn diese Kühlmaschinen ausfallen sollten, bleibt das
+örtliche Grundgestein das ganze Jahr unter dem Gefrierpunkt. Der
+Seed Vault ist der Versuch, einen Zufluchtsort zu schaffen, der sowohl geographisch als auch zeitlich isoliert ist: aufgehoben in neu­
+tralem Territorium und der tiefen Zeit des arktischen Winters.
+Samenbanken sind wichtig, um zumindest den Anschein gene­
+tischer Biodiversität aufrechtzuerhalten. Sie sind Ergebnis einer
+­Bewegung, die in den 1970er Jahren entstand, ausgehend von der
+­Erkenntnis, dass die Grüne Revolution in der Landwirtschaft dazu
+führte, dass Bauern ihr übliches Saatgut, das sich vor Ort über
+­Jahrhunderte entwickelt hatte, zugunsten neuer Hybridsorten aufgaben. Indien verfügte vor hundert Jahren angeblich über 100 000 Reissorten; heute sind es nur noch ein paar tausend. Die Zahl der Apfelsorten auf dem amerikanischen Doppelkontinent ist von 5000 auf
+ein paar hundert gesunken. Insgesamt, so schätzt die Ernährungsund Landwirtschaftsorganisation der Vereinten Nationen (FAO),
+sind 75 Prozent der Artenvielfalt bei Nutzpflanzen verloren gegangen.6 Diese Diversität ist jedoch wichtig, um der Gefahr neuer
+Krankheiten oder Schädlinge zu begegnen, die entstehen könnten
+
+15
+
+ und homogene Varietäten auszulöschen drohen. Die Sammlung in
+Svalbard soll verschiedene Saatgutstämme im Katastrophenfall
+­sicher lagern: Technisch auf Langfristigkeit angelegt, soll ihr Inhalt
+erst zugänglich gemacht werden, wenn alle anderen Quellen versiegt sind. Im Januar 2012 wurde die nationale Samenbank der Philippinen durch ein Feuer zerstört, sechs Jahre, nachdem sie durch
+ein Hochwasser schwer beschädigt worden war, während die Saatgutbanken in Afghanistan und im Irak durch Kampfhandlungen
+vollständig zerstört wurden.7 Im Jahr 2015 erbat das International
+Center for Agricultural Research in the Dry Areas (ICARDA) die
+erste Rückgabe aus dem Tresor: 130 der 325 Kisten, die es dort
+­deponiert hatte und die insgesamt 116 000 Proben enthielten.
+ICARDA war 1977 gegründet worden, mit der Zentrale im syrischen Aleppo und Zweigstellen überall im Nahen und Mittleren
+Osten, in Nordafrika sowie in Zentralasien. Seine Arbeit konzen­
+triert sich auf die besonderen Bedürfnisse und Risiken für die
+­Nahrungsmittelsicherheit in dieser Region: die Entwicklung neuer
+Pflanzensorten, Wassermanagement, Naturschutz und Bildung für
+die Landbevölkerung, insbesondere für die Frauen. 2012 eroberten
+Rebellen im syrischen Bürgerkrieg die Genbank des Zentrums knapp
+30 Kilometer südlich von Aleppo, die eine einzigartige Sammlung
+von 150 000 verschiedenen Populationen Weizen, Hafer, Linsen und
+Puffbohnen aus 128 Ländern beherbergte. Zwar durfte ein Teil des
+Personals bleiben und die Einrichtung weiterführen, doch ICARDA
+war gezwungen, das Hauptquartier nach Beirut zu verlegen, und der
+Zugang zur Sammlung war versperrt.
+Die ICARDA-Sammlung – die bislang in Svalbard als «Backup»
+gesichert war und demnächst wieder nach Marokko, in die Türkei
+und anderswohin gehen soll – hat sich auf Nutzpflanzen spezialisiert, die sich an die schwierigen Umweltbedingungen des Nahen
+Ostens und Nordafrikas angepasst haben. Nützlich ist die biologische Vielfalt, die in diesem Archiv enthalten ist und die von Bauern
+und der Natur über Generationen entwickelt und verändert wurde,
+nicht wegen der Resistenz gegenüber Krankheiten und Schädlingen,
+sondern aufgrund der Klimaresilienz. Aus dieser Ressource hoffen
+
+16
+
+ Wissenschaftler neue genetische Merkmale entwickeln zu können,
+welche die verheerenden Auswirkungen des Klimawandels abmildern können – indem sie beispielsweise hitze- und dürreresistente
+Nutzpflanzen wie Kichererbsen und Linsen mit Mais und Soja­
+bohnen kreuzen, um Letztere in sich rasant verändernden und aufheizenden Ökosystemen lebensfähig zu machen.8
+Diese Veränderung vollzieht sich so rasend schnell, dass sie sogar
+die Global Seed Vault überrascht hat. Das Jahr 2016 war das heißeste seit Beginn der Wetteraufzeichnungen – das dritte Jahr hintereinander, und Forschungsergebnisse deuten darauf hin, dass die
+Erde seit 115 000 Jahren nicht mehr so warm war. Im November berichteten Wissenschaftler, die Temperaturen in der Arktis lägen um
+bis zu 20° C über dem Durchschnitt, und die Dicke des Meereises
+liege 20 Prozent unter dem 25-jährigen Mittel. In Svalbard gab es
+statt leichtem Schneefall heftigen Regen, und der Permafrost begann aufzutauen. Bei einer Inspektion des Lagers im Mai 2017 fand
+man heraus, dass der Eingangstunnel mit Schmelzwasser geflutet
+war, das auf dem weiteren Weg ins Erdinnere wieder gefror und dort
+einen Gletscher bildete, der erst zerhackt werden musste, um die
+Saatgutbank wieder zugänglich zu machen. Der Tresor, der eigentlich über lange Zeiträume ohne menschliches Eingreifen funktionieren sollte, steht nun rund um die Uhr unter Beobachtung, der
+Zugangstunnel ist notdürftig abgedichtet, und ringsum hat man
+Gräben ausgehoben, damit das Schmelzwasser abfließen kann. «Die
+Arktis und insbesondere Svalbard erwärmen sich schneller als der
+Rest der Welt. Das Klima verändert sich dramatisch, und wir sind
+alle erstaunt, wie schnell das geschieht», erklärte Ketil Isaksen, ein
+norwegischer Meteorologe, gegenüber Reportern.9
+Der Klimawandel ist bereits in vollem Gange, und seine Auswirkungen sind in den Landschaften der Geopolitik genauso sichtbar
+und drängend wie in denen der Geographie. Der Konflikt in Syrien,
+der die Wissenschaftler vom ICARDA dazu zwang, nach Beirut zu
+fliehen und den Seed Vault um Hilfe zu bitten, hat selbst zum Teil
+mit Umweltveränderungen zu tun.10 Zwischen 2006 und 2011 hatte
+mehr als die Hälfte Syriens unter der schlimmsten Dürre aller Zei-
+
+17
+
+ ten zu leiden. Sie war intensiver und dauerte länger, als dass man
+sie allein durch natürliche Wetterschwankungen erklären konnte,
+weshalb man sie mit dem sich beschleunigenden Klimawandel in
+Verbindung brachte; binnen weniger Jahre verendeten fast 25 Prozent des Tierbestands, während die Nutzpflanzen verdorrten. Präsident Baschar al-Assad vergab traditionelle Wasserrechte neu an
+­ olitische Verbündete, was die Bauern dazu zwang, illegale Brunp
+nen zu bohren, während diejenigen, die dagegen protestierten, Inhaf­
+tierung, Folter und Tod fürchten mussten. Mehr als eine Million
+Landbewohner flohen in die Städte. Als diese Verbitterung der Land­
+bevölkerung und der demographische Druck auf die totalitäre
+­Unterdrückung trafen, unter der die Städte bereits zu leiden hatten,
+war das der letzte Auslöser für einen Aufstand, der sich in den am
+stärksten von der Dürre betroffenen Gegenden rasant ausbreitete.
+Medienberichte und Aktivisten haben den Konflikt in Syrien als
+den ersten großen Klimakrieg des 21. Jahrhunderts bezeichnet und
+das Klima unmittelbar mit der ungeheuren Zahl an Flüchtlingen in
+Verbindung gebracht, die nach Europa kamen. Wissenschaftler sind
+vorsichtig, explizit Verbindungen zwischen Konflikt und Klima
+herzustellen – für den Klimawandel selbst aber gilt das nicht. Selbst
+wenn sich Syrien in den nächsten Jahren politisch erholt, wird es
+bis 2050 fast 50 Prozent seiner landwirtschaftlichen Erträge verlieren. Es gibt keinen Weg zurück mehr.
+Warum sollten wir uns um den Seed Vault so viele Gedanken machen? Er ist deshalb von vitaler Bedeutung, weil er eine Bastion
+nicht nur der Vielfalt, sondern auch der Vielfalt-im-Wissen und der
+Vielfalt-als-Wissen ist. Der Seed Vault befördert Dinge – Material,
+Wissen und Wissensformen – aus einer ungewissen Gegenwart in
+eine noch ungewissere Zukunft. Er nährt sich nicht nur von dem
+Material, sondern auch von der schieren Vielfalt des Materials, das
+er transportiert. Der Treibstoff des Seed Vault ist heterogen; er ist
+bunt zusammengewürfelt und unvollständig – aber genau so sind
+das Wissen und die Welt beschaffen. Er ist ein notwendiger Gegensatz zur Monokultur – in diesem Fall nicht einmal in einem metaphorischen, sondern im wörtlichen Sinne: nämlich zu einer Mono-
+
+18
+
+ kultur von Pflanzenarten, die für bestimmte geographische und
+zeitliche Aufgaben verändert werden und, wenn man sie verallgemeinert, in keinster Weise zur chaotischen Inkohärenz der Welt,
+wie sie tatsächlich ist, passen. Die Klimakrise ist auch eine Krise
+der Erkenntnis und des Verständnisses; sie ist eine Krise der Kommunikation und des Wissens, in der Vergangenheit, in der Gegenwart und in der Zukunft.
+In der Arktis ist jeder ein Klimaforscher. Archäologen, die nach
+den Überresten alter Kulturen suchen, graben sich tief hinein in die
+Geschichte des Planeten, um Belege zu finden, die uns helfen könnten beim Verständnis dessen, wie sich die Erde – und die Menschen – in früheren Perioden rasanten Klimawandels verhielten und
+wie wir dem Klimawandel heute begegnen könnten. An der Westküste Grönlands, an den Ufern des großen Ilulissat-Eisfjords, bewahrt der Permafrost, der die alte Siedlung von Qajaa umgibt, die
+Relikte dreier Zivilisationen, die in den vergangenen dreieinhalbtausend Jahren jeweils den gleichen Ort besiedelten. Es handelt sich
+dabei um die Saqqaq-, die Dorset- und die Thule-Kultur, deren erste
+sich um 2500 v. u. Z. im Süden Grönlands niederließ, während die
+nachfolgenden Gruppen ihre Vorgänger allmählich ablösten, bis
+sich der Kontakt zu den Europäern im 18. Jahrhundert intensivierte.
+Die Geschichte jeder dieser Kulturen wird uns durch Müll übermittelt: durch Schichten von Küchen- und Jagdabfällen, die über Generationen weggeworfen wurden, in der Erde versunken sind und da­
+rauf warten, dass Archäologen sie ausgraben.
+Diese Müllhalden haben uns dabei geholfen, Bevölkerungsbewegungen und frühere Umweltereignisse zu verstehen. Was in den Kulturen Grönlands geschah, ist nicht kulturell einzigartig, aber es ist
+archäologisch einzigartig. Anders als steinzeitliche Stätten überall
+auf der Welt, wo nichts als Stein übrig ist, bewahren die Orte in der
+Arktis, dank des Permafrosts tiefgefroren, weit mehr Informationen
+über alte materielle Kulturen der Menschheit. In den Müllhalden von
+Qajaa finden sich Bogen aus Holz und Knochen, geschäftete Messer,
+Speere, Nähnadeln und andere Gegenstände, die anderswo auf dem
+Planeten nicht überdauert haben. Sie enthalten auch DNA-Spuren.11
+
+19
+
+ Ähnlich wie die verwickelte Geschichte und Zukunft der Saatgutbanken stellt das Verständnis dessen, wie frühere Zivilisationen
+und Kulturen sich in vergangenen Perioden des Umweltstresses anpassten, veränderten, damit arrangierten oder auch nicht, eine Möglichkeit dar, wie wir auf unseren eigenen Klimastress reagieren
+könnten – wenn dieses Verständnis nicht seinerseits zerstört wird,
+bevor wir überhaupt dorthin gelangen.
+Im nächsten Jahrhundert werden diese einzigartigen archäolo­
+gischen Bestände – Aufbewahrungsorte von Wissen und Information – nach Jahrtausenden der Stabilität völlig verschwinden. Forscher des Center for Permafrost an der Universität Kopenhagen
+­ aben in der Erde rings um die Müllhalden von Qajaa und an einem
+h
+weiteren Ort im Nordosten Grönlands gebohrt und Proben gefrorenen Bodens genommen, die, in Plastiksäcke verpackt, in gefrorenem Zustand ins Labor gebracht wurden, wo sie auf Anzeichen von
+Hitzeerzeugung untersucht wurden. Wenn sich die Erde erwärmt,
+erwachen Bakterien, die lange im Boden schlummerten, zum Leben
+und werden aktiv. Die Bakterien selbst erzeugen Hitze, was den
+­Boden weiter erwärmt, was wiederum weitere Bakterien auftaut
+und zum Leben erweckt – mehr positive Rückkopplung. Wenn das
+Eis schmilzt und das Wasser abfließt, gelangt Sauerstoff in die
+­Bodenschichten, was sie aufbrechen und verfaulen lässt. Die frisch
+erwachten Bakterien beginnen sich von den organischen Überresten
+zu ernähren, wobei sie nichts als Stein hinterlassen und mehr wärmenden Kohlenstoff freisetzen, wenn sie absterben. «Wenn das Eis
+schmilzt und das Wasser abfließt», so schreibt Professor Bo Elberling, Leiter der Studie und Direktor des Zentrums für Permafrost,
+«gibt es kein Zurück mehr.»12
+In einem Bericht vom grönländischen Eisschild vom Oktober 2016
+schildert Thomas McGovern, Professor für Archäologie, der seit
+Jahrzehnten an den Müllhaufen arbeitet, detailliert, wie das rasante
+Abschmelzen des Eisschilds ein archäologisches Archiv, das Jahrtausende zurückreicht und das wir gerade erst zu verstehen begonnen haben, zu Brei und Matsch werden lässt:
+
+20
+
+ «In früheren Zeiten waren diese Orte den Großteil des Jahres über
+gefroren. Als ich den Süden Grönlands in den 1980er Jahren besuchte, konnte ich in Gräben springen, die Kollegen in den 1950er
+und 1960er Jahren offengelassen hatten und an deren Rändern Haare,
+Federn, Wolle und unglaublich gut erhaltene Tierknochen zu sehen
+waren. Wir verlieren gerade alles. Man kann das im Grunde als eine
+Art Bibliothek von Alexandria im Boden betrachten, und die steht in
+Flammen.»13
+
+McGoverns Aussage ist vor allem in zweierlei Hinsicht zutiefst besorgniserregend. Da ist zum einen das fürchterliche Verlustgefühl,
+weil uns die Möglichkeit, Zugang zu unserer eigenen Vergangenheit
+zu gewinnen und mehr darüber zu erfahren, gerade in dem Augenblick entgleitet, da sie möglicherweise so nützlich ist wie nie zuvor.
+Der zweite Punkt ist existenziellerer Natur: Er hat mit unserem
+tiefsitzenden Bedürfnis zu tun, immer mehr über die Welt zu erfahren, immer mehr Daten darüber zu sammeln und zu verarbeiten,
+damit die Modelle, die wir daraus entwickeln, robuster, genauer
+und brauchbarer werden.
+Doch nun ist das genaue Gegenteil der Fall: Unsere Datenquellen
+entgleiten uns und mit ihnen die Strukturen, mit denen wir die
+Welt geordnet haben. Das Schmelzen des Permafrosts ist sowohl
+Warnsignal als auch Sinnbild: ein sich beschleunigender Zusammenbruch sowohl unserer ökologischen als auch unserer kogni­
+tiven Infrastruktur. Die Gewissheiten der Gegenwart gründen auf
+der Annahme stetig wachsender, stetig sich kristallisierender Geologien des Wissens; es ist beruhigend, sich eine kühler werdende
+Erde vorzustellen, die Form annimmt und sich in spezifischen, festen Formen manifestiert. Doch die Tatsache, dass auch die Landschaft Grönlands wie in Sibirien mehr und mehr einem Schwamm
+gleicht, bekräftigt eine Rückkehr zum Flüssigen: zum Sumpfigen
+und Morastigen, zum Undifferenzierten und Gasförmigen. Ein New
+Dark Age wird mehr flüssige, flüchtige Formen des Wissens erfordern, als sich allein aus den Bibliotheken der Vergangenheit gewinnen lässt.
+
+21
+
+ Erkenntnis, die sich aus der Vergangenheit herleitet oder aus ihr
+gewonnen wird, ist eine Möglichkeit, mit den katastrophalen Folgen des Klimawandels fertig zu werden. Doch unsere vorhandenen
+Technologien und Verfahren sollten ebenfalls in der Lage sein, uns
+zumindest bis zu einem gewissen Grad vor den Exzessen der globalen Erwärmung zu schützen – sofern diese Technologien und kognitiven Strategien nicht zu den ersten Opfern des Klimawandels ge­
+hören.
+Der Council for Science and Technology, der die britische Regierung berät, veröffentlichte 2009 einen Bericht mit dem Titel «A National Infrastructure for the 21st Century», in dem er die Zukunft
+der Kommunikations-, Energie-, Verkehrs- und Wassernetze des
+Landes untersucht. Dabei betonte er, dass die nationale Infrastruktur des Vereinigten Königreichs, wie etwa das Internet, ein «Netzwerk von Netzwerken» bilde – und zwar ein fragiles Netz, das in
+Versorgung und Steuerung aufgeteilt ist, Zuständigkeiten und Verantwortlichkeiten nicht klar regelt, weitgehend nicht erfasst und
+chronisch unterfinanziert ist. Als die eigentlichen Ursachen für
+diese Situation nannte die Studie die «Versäulung» von Regierung
+und Verwaltung, zu geringe staatliche und private Investitionen sowie allgemein ein fehlendes Verständnis dafür, wie derart komplexe
+Netzwerke aus Materie und Wissen überhaupt funktionieren – geschweige denn dafür, wie sie versagen können.
+Eindeutig war der Bericht jedoch im Hinblick auf eine Herausforderung, die alle anderen Belange in den Hintergrund drängen werde
+und drängen müsse – das sich verändernde Klima:
+«Resilienz gegen den Klimawandel ist die wichtigste und komplexeste langfristige Herausforderung. Zu den prognostizierten Folgen
+des Klimawandels gehören höhere Temperaturen im Sommer wie im
+Winter, ein Anstieg der Meeresspiegel, eine größere Intensität von
+Stürmen, Waldbränden und Dürren, vermehrte Hochwasser, Hitzewellen sowie eine veränderte Verfügbarkeit von Ressourcen wie
+etwa Wasser. Die Herausforderungen für die gegenwärtige Infrastruktur bestehen darin, sich an derartige Auswirkungen anzupassen
+
+22
+
+ und den radikalen Übergang zu einer emissionsarmen Ökonomie
+zu unterstützen. Die Nationale Sicherheitsstrategie der Regierung,
+die im März 2008 veröffentlicht wurde, betrachtet den Klimawandel
+angesichts der erwarteten weltweiten Auswirkungen als die poten­
+tiell größte Herausforderung für die globale Stabilität und Sicherheit.
+Wirksame Anpassung ist ein Schlüssel, um dieses Risiko mit Blick
+auf die Infrastruktur und andere Bereiche zu verringern.»14
+
+An den unmittelbaren Auswirkungen des Klimawandels, die in diesem Bericht prognostiziert werden, fällt erneut vor allem eines auf,
+nämlich ihre Fluidität und Unvorhersehbarkeit:
+«Leitungssysteme für die Trinkwasserversorgung wie für das Abwasser werden tendenziell eher Schaden nehmen, da der Klimawandel
+infolge veränderter Zyklen von Nässe und Trockenheit zu größeren
+Erdbewegungen führen wird. (…) Staudämme werden aufgrund vermehrter Bodenerosion zunehmend verschlammen, und auch das
+­Risiko, dass Erddämme aufgrund von Starkregenereignissen ins Rutschen geraten, wird zunehmen.»
+
+Ein weiterer Bericht für die britische Regierung, der im Jahr darauf
+von der Umweltberatungsagentur AEA veröffentlicht wurde, fragt
+nach den spezifischen Auswirkungen des Klimawandels auf Informations- und Kommunikationstechnologien (ICT).15 Sie werden in
+diesem Kontext definiert als «die Gesamtheit der Systeme und
+­Artefakte, welche die Übertragung, den Empfang, die Erfassung,
+Speicherung und Bearbeitung von Sprach- und Datenverkehr auf
+und mittels elektronischen Geräten ermöglicht» – das heißt alles,
+was wir als Teil oder Artefakt unseres gegenwärtigen digitalen Universums betrachten könnten, von Glasfaserkabeln, Funk- und Fernsehantennen bis zu Computern, Rechenzentren, Telefonzentralen
+und Satelliten. Nicht erfasst wurden von der Studie beispielsweise
+Stromleitungen, obwohl ihre Dienste für die ICT entscheidend sind.
+(Die Studie des Council for Science and Technology verweist an­
+dererseits darauf, dass «einer der limitierenden Faktoren für den
+
+23
+
+ Stromtransfer mittels Überlandleitungen deren Wärmekapazität ist,
+die durch die Umgebungslufttemperatur beeinflusst wird. Höhere
+globale Spitzentemperaturen werden diese Limits und damit die
+­Kapazität des Netzwerks für den Stromtransfer verringern.»)16
+Für Regierungen verfasste Berichte sind häufig nüchterner und
+klarer als die regierungsamtlichen Verlautbarungen und politischen
+Maßnahmen. So hat beispielsweise das Militär in den Vereinigten
+Staaten Zehnjahrespläne für die Anpassung an den Klimawandel in
+Kraft gesetzt, obwohl Klimawandelleugner jüngst in Regierungsverantwortung gekommen sind. Auch die britischen Berichte nehmen
+die Ergebnisse der Klimaforschung ernst und vertreten mit Blick auf
+den Wert von Netzwerken eine auffallend deutliche Meinung:
+«Vor allem anderen arbeiten Artefakte als System zusammen – vernetzt, interdependent und vollständig miteinander verflochten, funktionieren sie nach absoluten Regeln der Interoperabilität. ICT ist der
+einzige Infrastrukturbereich, der jeden Nutzer mit jedem anderen
+Nutzer unmittelbar über Raum und Zeit verbindet, indem er gleichzeitig verschiedene Pfade nutzt und zu dynamischer Umleitung in
+Echtzeit in der Lage ist. Insofern ist der nationale Vermögenswert in
+diesem Fall das Netzwerk und nicht irgendeine der einzelnen Komponenten – und der funktionierende Betrieb des Netzwerks beruht
+auf der gesamten Infrastruktur und ermöglicht erst die Wertschöpfung (…) Während das Netzwerk der Vermögenswert auf der Ebene
+der Infrastruktur ist, liegt der Wert des Netzwerks nicht im Asset
+selbst, sondern in der Information, die über dieses Netzwerk unterwegs ist. Fast die gesamte Ökonomie beruht auf der Fähigkeit, digitale Datenströme in beinahe Echtzeit zu übermitteln, zu empfangen
+und zu konvertieren – ob es sich dabei um das Geldabheben am
+Automaten, die Verwendung einer Kreditkarte, das Verschicken
+­
+­einer E-Mail, die Fernwartung einer Pumpe oder einer Weiche, die
+Abfertigung oder die Landung eines Flugzeugs oder einen ganz banalen Telefonanruf handelt.»17
+
+24
+
+ Gegenwärtige Informationsnetzwerke sind sowohl ökonomischer
+wie kognitiver Rahmen der Gesellschaft. Wie also werden sie sich
+in einer Epoche des Klimawandels bewähren? Und welchen Schaden richten sie in der Gegenwart an?
+Steigende globale Temperaturen werden insbesondere die Dateninfrastrukturen unter Druck setzen, die bereits heiß laufen, wie
+auch die Menschen, die in diesen Infrastrukturen und in ihrem Umfeld arbeiten. Rechenzentren und individuelle Computer erzeugen
+ungeheure Mengen an Abwärme und bedürfen entsprechender Mengen an Kühlung, von den opulenten Klimaanlagen an Industrie­
+gebäuden bis zu den Ventilatoren, die Ihren Laptop kühlen, wenn
+ein Katzenvideo auf YouTube den Prozessor übertaktet. Höhere
+Lufttemperaturen führen zu höheren Kühlungskosten – und mög­
+licherweise zu vollständigen Ausfällen. Auf dem jüngsten iPhone
+von Apple taucht, wenn die Temperatur im Umfeld über 45° C
+steigt, folgende Fehlermeldung auf: «Das iPhone muss abkühlen,
+bevor Sie es benutzen können.» Zu dieser Reaktion kann es kommen, wenn man das Gerät heute in Europa in einem heißen Auto
+liegen lässt, doch in den Golfregionen wird das Prognosen zufolge
+in der zweiten Hälfte des 21. Jahrhunderts eine alltägliche
+­ rscheinung sein, zumindest wenn man die Rekordhitzewellen des
+E
+Jahres 2015 zum Maßstab nimmt, als Irak, Iran, Libanon, Saudi-­
+Arabien und die Emirate unter Tagestemperaturen von fast 50° C zu
+leiden hatten.
+Der AEA-Bericht über die ICT und das Klima benennt eine Reihe
+von Auswirkungen, die insbesondere Informationsnetzwerke zu
+spüren bekommen werden. Auf der Ebene der physischen Infrastruktur beruhe ein Großteil dieses Netzwerks parasitär auf Strukturen, die weder für ihre aktuelle Nutzung noch für die Auswir­
+kungen des Klimawandels ausgelegt seien: Mobilfunkmasten, die
+Kirchtürmen aufgepfropft wurden, Rechenzentren, die in alten Industriegebäuden untergebracht sind, Telefonzentralen, die in viktorianischen Postämtern sitzen. Unter der Erde verlaufen Glasfaserkabel durch Abwasserkanäle, die nicht mehr in der Lage sind,
+Sturmfluten und extreme Niederschläge zu bewältigen; die Orte, an
+
+25
+
+ denen das Internet von Unterwasserdatenverbindungen wieder an
+Land kommt, sind bedroht vom Anstieg des Meeresspiegels, der
+sich vor allem im Südosten und Osten Englands verheerend
+­auswirken wird, wo wichtige Verbindungen zum Kontinent verlaufen. Einrichtungen an den Küsten werden anfällig für die Korrosion
+durch Salz, während Türme und Sendemasten umknicken und umfallen, wenn der Boden angesichts von Dürren und Fluten aufreißt
+und nachgibt.
+Was das elektromagnetische Spektrum angeht, werden sich Stärke
+und Leistungsfähigkeit der Drahtlosübertragung mit steigenden
+Temperaturen verringern. Der Brechungsindex der Atmosphäre
+hängt in hohem Maße von der Luftfeuchtigkeit ab und beeinflusst
+die Krümmung elektromagnetischer Wellen nachhaltig, aber auch
+ihre «Fading»-Rate. Steigende Temperaturen und Regen werden die
+Strahlen von Punkt-zu-Punkt-Datenverbindungen – wie etwa Mi­
+krowellenübertragungen – verschieben und Rundfunksignale dämpfen. Wenn sich die Erde erwärmt und feuchter wird, wird es einer
+immer größeren Dichte von Sendemasten bedürfen, und deren Instandhaltung wird schwieriger werden. Auch Vegetationsveränderungen können die Weitergabe von Information beeinflussen.
+Kurz: Die kabellose Übertragung wird sich nicht verbessern, sondern verschlechtern. In einem Szenario kann der sich verändernde
+Untergrund sogar die Zuverlässigkeit von Referenzdaten für die
+Berechnungen von Telekommunikations- und Satellitenübertra­
+gung reduzieren. Die Genauigkeit lässt nach; Signale überlappen
+und stören sich; Lärm verdrängt das Signal. Die Systeme, die wir gebaut ­haben, um Zeit und Raum zum Einsturz zu bringen, werden
+von Raum und Zeit attackiert.
+Die Computerisierung ist sowohl Opfer wie auch Mitverursacher
+des Klimawandels. Im Jahr 2015 waren die Rechenzentren dieser
+Welt, in denen Exabyte an digitaler Information gespeichert und
+verarbeitet werden, für rund drei Prozent des weltweiten Strom­
+verbrauchs verantwortlich – und für zwei Prozent der globalen Gesamtemissionen. Das entspricht in etwa dem CO2-Fußabdruck der
+Luftfahrtindustrie. Die 416,2 Terawattstunden Strom, die von den
+
+26
+
+ globalen Rechenzentren 2015 verbraucht wurden, überstiegen den
+Verbrauch des gesamten Vereinigten Königreichs, der bei 300 Terawattstunden lag.18
+Prognosen zufolge soll dieser Verbrauch massiv ansteigen, was sowohl mit dem Anwachsen der digitalen Infrastruktur als auch mit
+der positiven Rückkopplung durch global steigende Temperaturen
+zu tun hat. Als Reaktion auf die ungeheuren Zuwächse bei Datenspeicherung und Rechenkapazität im letzten Jahrzehnt hat sich die
+von den Rechenzentren verbrauchte Energiemenge alle vier Jahre
+verdoppelt, und man geht davon aus, dass sie sich in den nächsten
+zehn Jahren verdreifacht. Eine Studie in Japan kam zu dem Schluss,
+dass der Energiebedarf allein für digitale Dienstleistungen im Jahr
+2030 die heutige Stromerzeugungskapazität des gesamten Landes
+übersteigen werde.19 Selbst Technologien, die ausdrücklich für sich
+in Anspruch nehmen, die Gesellschaft radikal zu verändern, sind
+davon nicht ausgenommen. Die Kryptowährung Bitcoin etwa, die
+hierarchische und zentralisierte Finanzsysteme aufbrechen soll, benötigt für jede einzelne Transaktion die Energie von neun US-Haushalten; wenn ihr Wachstum so weitergeht, wird sie 2019 die jähr­
+liche Energieerzeugung der gesamten Vereinigten Staaten benötigen,
+um zu funktionieren.20
+Diese Zahlen spiegeln zudem nur die Rechenleistung wider, sie
+berücksichtigen noch nicht das viel umfassendere Netzwerk digitaler Aktivitäten, die durch Computerisierung ermöglicht werden.
+Diese Aktivitäten – verstreut, fragmentiert und oftmals virtuell –
+verschlingen ebenfalls ungeheure Ressourcen und sind, wie es der
+Natur heutiger Netzwerke entspricht, schwer zu erkennen und miteinander in Verbindung zu bringen. Der unmittelbare und lokale
+Energiebedarf, der für den Einzelnen leicht erkennbar und quanti­
+fizierbar ist, ist vernachlässigbar im Vergleich zu den Kosten des
+Netzwerks, so wie die individuelle Müllproduktion und Abfallentsorgung, die durch bewusstes Einkaufen und Recycling angeblich
+verbessert wird, im Vergleich zu den globalisierten industriellen
+Kreisläufen verblasst.
+Ein Bericht von 2013 mit dem Titel «The Cloud Begins with
+
+27
+
+ Coal – Big Data, Big Networks, Big Infrastructure, and Big Power»
+hat ausgerechnet, dass «das Aufladen eines einzelnen Tablets oder
+Smartphones eine vernachlässigbare Menge an Energie erfordert;
+nutzt man die Geräte allerdings, um wöchentlich eine Stunde lang
+Videos anzuschauen, so verbraucht das in den rechnerfernen Netzwerken jährlich mehr Strom als zwei Kühlschränke in einem ganzen Jahr.»21 Dieser Bericht stammt im Übrigen nicht von einer
+e­ hrenwerten, wohlmeinenden Umweltschutzorganisation. Er wurde
+vielmehr von der National Mining Association und der American
+Coalition for Clean Coal Electricity in Auftrag gegeben: zwei Lobby­
+gruppen, die damit ihre Forderung nach dem Einsatz von mehr fossilen Energieträgern untermauern, um so die unvermeidliche Nachfrage zu bedienen.
+Worauf die Kohleriesen damit, möglicherweise unwillentlich,
+hinweisen, ist die Tatsache, dass Datennutzung eine qualitative
+und eine quantitative Seite hat. Was wir uns anschauen, spielt eine
+größere Rolle als die Frage, wie wir es anschauen – und nicht nur für
+die Umwelt. In den Zeitungen wurde ein Berater aus der Industrie
+mit den folgenden Worten zitiert: «Wir müssen mehr Verantwortung dafür zeigen, wofür wir das Internet nutzen … Rechenzentren
+sind nicht die Sündenböcke – die eigentlichen treibenden Kräfte
+sind soziale Medien und Handys. Es sind Filme, Pornographie,
+Spiele, Dating, Shopping – alles, was Bilder umfasst.»22 Ähnlich wie
+bei den meisten Forderungen aus der Frühzeit des Umweltschutzes
+verlangen die vorgeschlagenen Lösungen entweder nach Regulierung (der Besteuerung von Daten), konservativen Rückschritten
+(etwa einem Verbot der Pornographie oder einem Wechsel von Farbzu Schwarz-Weiß-Bildern, um Übertragungskosten zu sparen) oder
+glücklosen technischen Tricks (etwa dem Wundermaterial Graphen) – all das ist lächerlich, ungeeignet und undenkbar, wenn man
+das Ausmaß der Netzwerke betrachtet, um die es dabei geht.
+Da die digitale Kultur schneller wird, größere Bandbreiten benötigt und stärker auf Bilder setzt, wird sie auch kostspieliger und zerstörerischer – und zwar im wörtlichen wie im übertragenen Sinne.
+Sie erfordert mehr Input und Energie und bestärkt die Vorherrschaft
+
+28
+
+ des Bildes – der visuellen Darstellung von Daten – als Repräsenta­
+tionsform der Welt. Aber diese Bilder stimmen nicht mehr, und
+Gleiches gilt für unser Bild von der Zukunft. Während die Vergangenheit mit dem Permafrost schmilzt, wird die Zukunft durch die
+Atmosphäre ins Wanken gebracht. Der Klimawandel erschüttert
+nicht nur unsere Erwartungen, sondern auch unsere Fähigkeit,
+überhaupt eine Zukunft vorherzusagen.
+Am 1. Mai 2017 geriet der Aeroflot-Linienflug SU 270 von Moskau nach Bangkok kurz nach Mitternacht beim Anflug auf sein
+Ziel in heftige Turbulenzen.23 Ohne jede Vorwarnung wurden Passagiere aus ihren Sitzen geschleudert, einige von ihnen krachten gegen die Decke des Flugzeugs, bevor sie auf ihre Sitznachbarn oder in
+die Gänge stürzten. Handybilder von Bord zeigen völlig verwirrte
+und blutende Passagiere, die in den Gängen liegen, umgeben von
+zerstörten Servierwagen und Gepäckstücken.24 Nach der Landung
+wurden 27 Passagiere ins Krankenhaus gebracht, einige mit Frakturen oder Knochenbrüchen.
+«Wir wurden gegen die Decke des Flugzeugs geschleudert, es war
+praktisch unmöglich, sich festzuhalten», berichtete einer der Passagiere gegenüber Reportern. «Ich hatte das Gefühl, das Rütteln und
+Beben würde gar nicht mehr aufhören, wir würden einfach abstürzen.» Die russische Botschaft erklärte gegenüber der Nachrichtenagentur Reuters, «Ursache für die Verletzungen war, dass einige
+Passagiere nicht angeschnallt gewesen sind».25 In einer Pressemitteilung versicherte Aeroflot, dass eine erfahrene Crew die Maschine
+geflogen habe. «Der Pilot hat mehr als 23 000 Flugstunden, der
+­Copilot mehr als 10 500 Flugstunden. Doch die Turbulenz, welche
+die Boeing 777 erfasste, war unmöglich vorherzusehen.»
+Im Juni 2016 verletzte «ein kurzer Augenblick heftiger Turbulenzen» über der Bucht von Bengalen 34 Passagiere und sechs Besatzungsmitglieder des Malaysian-Air-Fluges MH1 auf dem Weg von
+London nach Kuala Lumpur.26 Essenstabletts kamen aus der Bordküche geschossen, und Nachrichtenagenturen zeigten, wie Passagiere auf Krankenbahren aus dem Flugzeug getragen wurden und
+Halskrausen trugen.
+
+29
+
+ Drei Monate später musste eine Boeing 767 von United Airlines
+auf dem Flug von Houston nach London auf dem Shannon Airport
+in Irland notlanden, nachdem mitten auf dem Atlantik «eine heftige und unerwartete Turbulenz» aufgetreten war. «Das Flugzeug
+sackte viermal hintereinander durch», sagte ein Passagier.
+«Auf den Körper wirkten ungeheure Fliehkräfte ein. Beim dritten
+oder vierten Mal wachten Kleinkinder auf und brüllten, Menschen
+schreckten verwirrt aus dem Schlaf. Ich dachte: Das ist keine Turbulenz. So fühlt sich ein lebensbedrohlicher Höhenabfall an. So ein Gefühl hatte ich noch nie gehabt. Das ist irgendwie so, als würde man
+aus einer Kanone abgefeuert. Es zieht unglaublich an einem, dann
+hört es eine Sekunde lang auf, dann geht das viermal hintereinander
+so. Wenn ich nicht angeschnallt gewesen wäre, hätte es mir den
+Schädel zerschmettert.»27
+
+Auf der Landebahn wurde das Flugzeug von zahlreichen Ambulanzen erwartet, 16 Menschen wurden ins Krankenhaus gebracht.
+Der heftigste bislang verzeichnete Fall einer Klarluftturbulenz
+traf 1997 den United-Airlines-Flug 826 auf dem Weg von Tokio nach
+Honolulu. Nach zwei Flugstunden, wenige Minuten, nachdem der
+Kapitän als Reaktion auf die Warnungen eines anderen Flugzeugs
+das Zeichen zum Anschnallen wieder aktiviert hatte, sackte die Boeing 747 nach unten durch und schnellte dann mit solcher Wucht
+wieder nach oben, dass der Chefsteward, der sich an einer Arbeitsplatte festgehalten hatte, plötzlich mit den Füßen in der Luft hing.
+Eine Passagierin, die nicht angeschnallt war, wurde aus dem Sitz
+geschleudert, knallte gegen die Decke und fiel auf den Gang. Sie war
+bewusstlos und blutete heftig, trotz sofortiger Wiederbelebungs­
+versuche durch Flugbegleiter und einen zufällig an Bord befind­
+lichen Arzt wurde sie kurz darauf für tot erklärt. Bei ihrer Autopsie
+zeigten sich heftige Rückgratverletzungen. Nachdem das Flugzeug
+umgekehrt und sicher wieder in Tokio gelandet war, wurden 15 Passagiere wegen Wirbel- und Nackenfrakturen behandelt, weitere 87
+wegen Prellungen, Verstauchungen und kleineren Verletzungen.
+
+30
+
+ Die Flugzeugzelle wurde stillgelegt und kam nie wieder zum Einsatz.
+Ein Bericht des US National Transportation Safety Board fand
+später heraus, dass Sensoren im Flugzeug beim ersten scharfen
+Steigflug eine normale maximale Beschleunigungskraft von 1,814 g
+gemessen hatten, bevor sie auf einen extrem negativen Wert von
+-0,824 g absackte. Die Maschine vollführte zudem eine unkontrollierte Rolle um 18 Grad – ohne dass der Pilot irgendeinen visuellen
+oder mechanischen Hinweis darauf hatte, was da gleich mit der
+­Maschine geschehen sollte.28
+Turbulenzen lassen sich bis zu einem gewissen Grad durch die
+Wetterbeobachtung bestimmen. Die International Civil Aviation
+Organisation (ICAO) gibt jeden Tag sogenannte «significant weather
+charts» (SWC) heraus, die Informationen über Wolkenhöhe und Bedeckungsgrad, Windgeschwindigkeit, Wetterfronten und mögliche
+Turbulenzen enthalten. Der wichtigste Indikator, um die Möglichkeit einer Turbulenz zu ermitteln, ist die sogenannte RichardsonZahl – benannt nach dem schon erwähnten Lewis Fry Richardson,
+der diese Messgröße in einer Reihe meteorologischer Untersuchungen in den 1920er Jahren entwickelte, als er an der numerischen
+Wettervorhersage arbeitete. Indem man die relativen Temperaturen
+und Windgeschwindigkeiten in unterschiedlichen Bereichen der
+Atmosphäre untersucht, kann man die potentielle Turbulenz dazwischen bestimmen, wenn solche Messdaten denn verfügbar sind.
+Die Klarluftturbulenz (clear-air turbulence, CAT) heißt so, weil
+sie im Wortsinne aus heiterem Himmel kommt. Sie tritt auf, wenn
+Luftmassen, die in höchst unterschiedlicher Geschwindigkeit unterwegs sind, aufeinanderprallen: Bei solchen Scherwinden werden
+starke Luftwirbel und chaotische Luftbewegungen erzeugt. Solche
+Turbulenzen sind zwar gut erforscht, insbesondere in der höheren
+Troposphäre, wo Langstreckenflugzeuge unterwegs sind, aber es ist
+nach wie vor fast unmöglich, sie zu erkennen oder vorherzusagen.
+Aus diesem Grund sind sie viel gefährlicher als die vorhersehbaren
+Formen von Turbulenzen, die an den Rändern von Stürmen und
+großen Wettersystemen auftreten, denn Piloten können sich nicht
+
+31
+
+ darauf vorbereiten oder sie umfliegen. Und solche Klarluftturbulenzen treten Jahr für Jahr häufiger auf.
+Zwar wird über Augenzeugenberichte von Turbulenzen wie die
+oben zitierten viel berichtet, aber zahlreiche Zwischenfälle, die
+global signifikant sind, werden nicht gemeldet, und an Zahlen ist
+schwer zu kommen. Ein Rundschreiben zur Verhinderung von turbulenzbedingten Verletzungen, das 2006 von der US-Luftfahrtbehörde herausgegeben wurde, stellt fest, dass die Häufigkeit von
+Turbulenzzwischenfällen seit mehr als einem Jahrzehnt stetig
+­zunimmt, von 0,3 Zwischenfällen je 1 Million Starts 1989 auf 1,7
+im Jahr 2003.29 Und diese Zahlen sind bereits wieder ziemlich veraltet.
+Grund für die zunehmenden Turbulenzen ist der steigende Kohlendioxidgehalt in der Atmosphäre. In einem 2013 in der Zeitschrift
+Nature Climate Change veröffentlichten Aufsatz skizzieren Paul
+Williams vom National Centre for Atmospheric Science an der University of Reading und Manoj Joshi von der School of Environmental Sciences an der University of East Anglia die Auswirkungen
+einer wärmer werdenden Atmosphäre auf den transatlantischen
+­
+Flugverkehr:
+«Wir zeigen mit Hilfe von Klimamodellsimulationen, dass sich die
+Klarluftturbulenzen innerhalb des transatlantischen Flugkorridors
+signifikant verändern, wenn sich die Kohlendioxidkonzentration
+in der Atmosphäre verdoppelt. Auf Reiseflughöhen innerhalb von
+50–70° N und 10–60° W im Winter zeigen die meisten Klarluftturbulenzmessungen einen Anstieg um 10–40 % bei der mittleren Stärke
+von Turbulenzen und von 40–170 % bei der Auftretenshäufigkeit
+von gemäßigten oder größeren Turbulenzen. Unsere Ergebnisse lassen darauf schließen, dass der Klimawandel bis Mitte des Jahrhunderts zu deutlich wackligeren Transatlantikflügen führen wird. Die
+Reisezeiten werden sich vermutlich verlängern, Treibstoffverbrauch
+und Emissionen könnten steigen.»30
+
+32
+
+ Significant Weather Chart für Europa und Asien, ausgegeben vom
+World Area Forecast Centre in London, 24. Oktober 2017.
+Quelle: World Area Forecast Centre.
+
+33
+
+ Die Verfasser der Turbulenz-Studie betonen erneut, um welche Art
+von Rückkopplung es sich bei dieser Zunahme von Turbulenzen
+handelt: «Die Luftfahrt ist mitverantwortlich für den Klimawandel,
+doch unsere Erkenntnisse zeigen zum ersten Mal, inwiefern der
+Klima­wandel sich auf die Luftfahrt auswirken könnte.» Am stärksten werden diese Auswirkungen in den viel genutzten Flugkorridoren Asiens und des Nordatlantiks zu spüren sein – in Gestalt von
+Störungen, Verzögerungen und Schäden. Die Zukunft wird wacklig
+sein, und wir verlieren unsere Fähigkeit, die Erschütterungen auch
+nur vorherzusagen.
+Ich bin in den Vorstädten im Süden Londons aufgewachsen, genau
+unter der Einflugschneise des Flughafens Heathrow. Jeden Abend um
+6:30 Uhr rumpelte die Concorde, aus New York kommend, über unsere Köpfe und brachte die Türen und Fensterrahmen wie ein Raketenschiff zum Wackeln. Sie war zu diesem Zeitpunkt seit mehr als
+einem Jahrzehnt unterwegs; der erste Flug fand 1969 statt, der regelmäßige Flugbetrieb wurde 1976 aufgenommen. Ein Transatlantikflug dauerte mit ihr gerade einmal dreieinhalb Stunden – wenn man
+sich das Ticket leisten konnte, dessen niedrigster Preis für einen
+Hin- und Rückflug sich im Bereich von 2000 £ bewegte.
+1997 präsentierte der Fotograf Wolfgang Tillmans eine Serie von
+65 Fotografien der Concorde, die auf fast vollkommene Weise meiner eigenen Erinnerung entsprechen: eine dunkle Pfeilspitze, die
+über den Himmel poltert, gesehen nicht aus der Luxuskabine, sondern vom Boden aus. Im zugehörigen Ausstellungskatalog bemerkte
+Tillmans:
+«Die Concorde ist vielleicht das letzte Beispiel einer techno-utopischen Erfindung aus den sechziger Jahren, die heute noch in Betrieb
+und voll funktionsfähig ist. Ihre futuristische Form, ihre Geschwindigkeit und ihr ohrenbetäubender Lärm ergreifen noch heute die
+Phantasie der Leute, wie schon bei ihrem Jungfernflug 1969. Vom
+ökologischen Standpunkt aus betrachtet, ist sie ein Alptraum, 1962
+erdacht, als in Technologie und Fortschritt die Antwort auf alles gesehen wurde und der Himmel keine Grenzen mehr zog. (…) Für die
+
+34
+
+ Concorde, Detail aus Concorde Grid (1997), Wolfgang Tillmans.
+Mit freundlicher Genehmigung von Tate Galleries/Maureen Paley, London.
+
+35
+
+ wenigen Auserwählten, die mit ihr reisen, ist das eine glamouröse,
+wenn auch beengte und mitunter etwas langweilige Sache. Die Beo­bachtung der Concorde in der Luft, landend oder startend, ist ein
+merkwürdiges und kostenloses Spektakel – ein supermoderner Anachronismus und ein Bild für den Wunsch, Zeit und Entfernung durch
+Technologie zu überwinden.»31
+
+Ihren letzten Flug unternahm die Concorde 2003; sie fiel dem eigenen elitären Anspruch ebenso zum Opfer wie dem verheerenden
+Absturz von Air-France-Flug 4590 in Paris drei Jahre zuvor. Für
+viele war das Ende der Concorde das Ende einer ganz bestimmten
+Zukunftsvorstellung.
+In heutigen Flugzeugen ist von der Concorde kaum etwas übrig.
+Vielmehr sind die jüngsten Passagiermaschinen das Ergebnis inkrementeller Weiterentwicklungen – bessere Materialien, effizientere Triebwerke, Anpassung bei der Tragflächengestaltung – und
+weniger eines radikalen Fortschritts, wie er mit der Concorde beabsichtigt war. Die jüngste dieser Neuerungen ist meine liebste
+Ergänzung: die «Winglets», die heute die Flügelspitzen der meisten Flugzeuge zieren. Sie sind eine Erfindung aus jüngster Zeit, die
+von der NASA als Reaktion auf die Ölkrise von 1973 entwickelt
+und allmählich in der kommerziellen Luftfahrt nachgerüstet
+wurde, um den Treibstoffverbrauch effizienter zu gestalten. Sie erinnern mich immer an die Inschrift, die auf dem Grabstein von
+Buckminster Fuller in Cambridge, Massachusetts zu lesen ist:
+«Call me trimtab», nennt mich Trimmfläche. Winzige Fluganpassungen, ausgeführt im großen Maßstab. Allein dazu sind wir noch
+imstande.
+Die Geschichte – der Fortschritt – läuft nicht immer aufwärts und
+in die richtige Richtung: Sie ist nicht nur sonnenbeschienenes
+Hochland. Und das hat nichts mit Nostalgie zu tun, kann auch gar
+nichts damit zu tun haben. Vielmehr geht es darum, eine Gegenwart anzuerkennen, die sich aus einer linearen Zeitlichkeit ausgekoppelt hat, die auf bedeutsame, aber doch irritierende Weise von
+der Geschichtsidee als solcher abweicht. Nichts ist mehr klar, kann
+
+36
+
+ es auch nicht mehr sein. Nicht die Dimensionalität der Zukunft hat
+sich verändert, sondern ihre Berechenbarkeit.
+In einem Leitartikel für die New York Times nannte der Computermeteorologe und ehemalige Präsident der American Meteorological Society William B. Gail eine Reihe von Mustern, mit denen
+sich die Menschheit jahrhundertelang eingehend beschäftigt hat,
+die nun aber durch den Klimawandel zerstört werden: langfristige
+Wettertrends, das Laichen und die Wanderungen von Fischen, die
+Bestäubung von Pflanzen, die Monsun- und Gezeitenzyklen, das
+Auftreten von Extremwetterereignissen. Diese Zyklen waren in der
+bisherigen Menschheitsgeschichte zumeist grob vorhersagbar, und
+wir haben ungeheure Wissensbestände angehäuft, auf die wir zurückgreifen können, um unsere immer enger vernetzte Zivilisation
+besser zu schützen. Auf der Basis dieser Untersuchungen haben wir
+unsere Prognosefähigkeiten allmählich erweitert, wir wissen nun
+nicht mehr nur, welche Pflanzen wir zu welcher Jahreszeit anbauen
+sollen, sondern können auch Dürren und Waldbrände, die RäuberBeute-Beziehung sowie zu erwartende Agrar- und Fischereierträge
+vorhersagen.
+Die Zivilisation als solche hängt von derartigen präzisen Vorhersagen ab, und doch schwindet unsere Fähigkeit, sie zu erstellen, in
+dem Maße, in dem Ökosysteme kollabieren und uns immer wieder
+Jahrhundertstürme heimsuchen. Ohne genaue Langzeitprognosen
+können Bauern nicht die richtigen Getreidesorten anpflanzen; Fischer können keine Fanggründe finden; Vorrichtungen zum Schutz
+gegen Überflutungen und Waldbrände lassen sich nicht planen;
+Energie- und Nahrungsmittelressourcen lassen sich nicht festlegen
+und können die Nachfrage nicht befriedigen. Gail sieht eine Zeit
+auf uns zukommen, in der unsere Enkelkinder möglicherweise weniger über die Welt, in der sie leben, wissen, als wir das heute tun –
+mit den entsprechenden katastrophalen Folgen für komplexe Gesellschaften.32 Vielleicht, so fragt er sich, haben wir den «Gipfel des
+Wissens» bereits hinter uns, so wie wir schon über den «Peak Oil»
+hinaus sind. Es dräut ein neues, finsteres Zeitalter.
+Der Philosoph Timothy Morton bezeichnet die Erderwärmung als
+
+37
+
+ «Hyperobjekt»: eine Sache, die uns umgibt, umfängt und umschlingt,
+aber im Wortsinne zu groß ist, um sie in ihrer Gänze zu erkennen.
+Hyperobjekte nehmen wir zumeist durch ihren Einfluss auf andere
+Dinge wahr – einen schmelzenden Eisschild, ein absterbendes Meer,
+das Wackelige eines Transatlantikflugs. Hyperobjekte kommen
+überall gleichzeitig vor, aber wir können sie nur im lokalen Umfeld
+unmittelbar erleben. Wir können Hyperobjekte als persönliche
+wahrnehmen, denn sie betreffen uns direkt, oder sie uns als Produkte wissenschaftlicher Theorie vorstellen; tatsächlich stehen sie
+außerhalb unserer Wahrnehmung wie unserer Fähigkeit, sie quantitativ zu erfassen. Sie existieren ohne uns. Weil sie so nahe und doch
+so schwer zu erkennen sind, entziehen sie sich unserer Fähigkeit,
+sie rational zu beschreiben und sie im herkömmlichen Sinne zu
+­bewältigen oder zu überwinden. Der Klimawandel ist ein solches
+Hyperobjekt, aber das gilt genauso für die atomare Strahlung, die
+Evolution oder das Internet.
+Zu den besonderen Merkmalen von Hyperobjekten gehört, dass
+wir lediglich den Abdruck wahrnehmen, den sie auf anderen Dingen hinterlassen, und will man ein Modell des Hyperobjekts erstellen, bedarf es dazu einer Unmenge an Berechnung. Es lässt sich nur
+auf Netzwerkebene erfassen, nur über riesige verzweigte Sensorensysteme, über Exabyte an Daten und Rechenleistung, die zeitlich
+wie räumlich arbeiten, wahrnehmbar machen. Wissenschaftliche
+Dokumentation wird somit zu einer Form von außersinnlicher
+Wahrnehmung: einer vernetzten, gemeinschaftlichen, zeitreisenden Wissensgewinnung. Genau dieses Charakteristikum macht sie
+zu einem Non-Thema für eine bestimmte Art von Denken – für ein
+Denken, das auf der Fähigkeit beharrt, Dinge zu berühren und zu
+spüren, die nicht greifbar und nicht spürbar sind, und das folglich
+die Dinge ausblendet, die es nicht denken kann. Streitigkeiten darum, ob es den Klimawandel gibt, sind in Wirklichkeit Auseinandersetzungen über das, was wir denken können.
+Und wir werden nicht mehr viel länger denken können. In vor­
+industriellen Zeiten, von etwa 1000 bis 1750 unserer Zeitrechnung,
+schwankte der Kohlendioxidgehalt in der Atmosphäre zwischen
+
+38
+
+ 410
+400
+390
+
+CO2-Konzentration (ppm)
+
+380
+370
+360
+350
+340
+330
+320
+310
+
+1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015
+
+Zeit
+Die Keeling-Kurve vom 21. Oktober 2017.
+Quelle: Daten der Scripps Institution of Ocenaography.
+
+2015
+
+275 und 285 parts per million (ppm) – das wissen wir aus der Untersuchung von Eiskernen, also genau den Wissensbatterien, die heute
+in der Arktis dahinschmelzen. Mit Anbruch des industriellen Zeitalters beginnt dieser Wert zu steigen und erreicht Anfang des
+20. Jahrhunderts 295 ppm und 1950 dann 310 ppm. Die Entwicklung – die den Namen Keeling-Kurve trägt, benannt nach dem Wissenschaftler, der 1958 mit den modernen Messungen am MaunaLoa-Observatorium auf Hawaii begann – verläuft stetig nach oben
+und beschleunigt sich. 325 ppm im Jahr 1970, 350 im Jahr 1988, 375
+im Jahr 2004.
+2015 hat der CO2-Gehalt in der Atmosphäre erstmals seit mindestens 800 000 Jahren den Wert von 400 ppm überschritten. Geht
+das so weiter – und es gibt keinerlei Anzeichen dafür, dass sich diese
+
+39
+
+ Entwicklung abschwächt oder wir damit aufhören –, wird das CO2
+in der Atmosphäre gegen Ende des Jahrhunderts die Schwelle von
+1000 ppm überschreiten.
+Bei 1000 ppm reduziert sich die kognitive Fähigkeit des Menschen um 21 Prozent.33 Noch höhere CO2-Konzentrationen in der
+Atmosphäre sorgen dafür, dass wir nicht mehr klar denken können.
+Im Freien erreicht der CO2-Gehalt in Industriestädten regelmäßig
+bereits einen Wert von 500 ppm: In geschlossenen Räumen, in
+schlecht gelüfteten Häusern, Schulen und Arbeitsplätzen kann der
+Wert regelmäßig 1000 ppm überschreiten – bei Messungen in Kalifornien und Texas durchbrach eine Reihe von Schulen 2012 die
+Schallmauer von 2000 ppm.34
+Kohlendioxid vernebelt den Geist: Es schwächt ganz unmittelbar
+unsere Fähigkeit, klar zu denken, und wir mauern es in unseren Bildungsstätten ein und pumpen es in die Atmosphäre. Die Krise der
+Erderwärmung ist eine Krise des Geistes, eine Krise des Denkens,
+eine Krise unserer Fähigkeit, eine andere Seinsweise zu denken.
+Schon bald werden wir überhaupt nicht mehr denken können.
+Der Abbau unserer kognitiven Fähigkeiten spiegelt sich im Zusammenbruch der transatlantischen Flugrouten, in der Untergrabung von Kommunikationsnetzwerken, der Vernichtung von Vielfalt, dem Wegschmelzen historischer Wissensbestände – das alles
+sind Zeichen und Menetekel einer allgemeineren Unfähigkeit, auf
+Netzwerkebene zu denken, weiterhin in zivilisatorischem Maßstab
+zu denken und zu handeln. Die Strukturen, die wir geschaffen haben,
+um unsere eigenen Lebenssysteme, unsere kognitiven und haptischen Schnittstellen mit der Welt zu erweitern, sind die einzigen
+Instrumente, mit denen wir eine von der Entstehung von Hyper­
+objekten beherrschte Welt spüren können. Gerade jetzt, da wir sie
+wahrzunehmen beginnen, entgleitet uns die Fähigkeit dazu.
+Das Nachdenken über den Klimawandel wird durch den Klimawandel selbst eingeschränkt, so wie Kommunikationsnetzwerke
+durch den aufweichenden Boden untergraben werden, so wie unsere
+Fähigkeit, den eng miteinander verwobenen Umwelt- und Technologiewandel zu diskutieren und zu gestalten, verringert wird durch
+
+40
+
+ unsere Unfähigkeit, komplexe Systeme begrifflich zu denken. Das
+Herzstück unserer gegenwärtigen Krise bildet jedoch das Hyper­
+objekt des Netzwerks: das Internet sowie die Lebens- und Denk­
+weisen, die es miteinander verwebt. Das Netzwerk, das unter den
+Hyperobjekten vielleicht einzigartig ist, ist eine im Entstehen begriffene Kulturform, entstanden aus unseren bewussten und unbewussten Sehnsüchten im Dialog mit Mathematik und Elektronen
+und Silizium und Glasfaser. Dass dieses Netzwerk, wie wir in den
+nachfolgenden Kapiteln sehen werden, gegenwärtig dazu genutzt
+(bzw. missbraucht) wird, die Krise zu beschleunigen, heißt nicht,
+dass es sein erhellendes, aufklärerisches Potenzial verloren hätte.
+Das Netzwerk ist die beste Darstellung der Wirklichkeit, die wir
+geschaffen haben, gerade weil es so schwer zu denken ist. Wir tragen es in unseren Taschen herum, wir errichten Masten, um es zu
+transportieren, und Datenpaläste, um es zu verarbeiten, aber es
+lässt sich nicht auf separate Einheiten reduzieren; es ist nicht-lokal
+und es ist in sich widersprüchlich – und genau so ist die Lage der
+Welt. Das Netzwerk wird fortwährend, bewusst und unwissentlich
+geschaffen. Das Leben in einem New Dark Age verlangt, dass wir
+solche Widersprüche und Ungewissheiten, solche Zustände prak­
+tischen Nichtwissens anerkennen. Deshalb kann das Netzwerk,
+richtig verstanden, uns anleiten, andere Ungewissheiten zu denken;
+solche Ungewissheiten sichtbar zu machen ist gerade deshalb notwendig, damit sie gedacht werden können. Der Umgang mit Hyperobjekten verlangt den Glauben an das Netzwerk als eine Form des
+Sehens, des Denkens und des Handelns. Es verweigert sich den Bindungen von Zeit, Ort und individueller Erfahrung, die unsere Unfähigkeit, die Herausforderungen eines New Dark Age zu denken,
+charakterisieren. Es beharrt auf einer Affinität mit dem Noumenalen und dem Ungewissen. Angesichts von Atomisierung und Entfremdung bekräftigt das Netzwerk unablässig die Unmöglichkeit
+der Separation.
+
+ Kapitel 9
+
+Kollaterale
+A
+
+uf dem Bildschirm drehen die Hände eines Mannes langsam
+eine Schachtel mit 24 Überraschungseiern aus der Reihe Cars.
+Er entfernt die Verpackungsfolie und dreht die Schachtel im Kreis,
+dann hebt er sie vorsichtig an, um Ober- und Unterseite zu zeigen.
+Nach einem Schnitt zeigt das Video ein Dutzend Eier, die fein säuberlich auf einem Tisch angeordnet sind. Die Hände greifen sich eines davon und ziehen die rote und silberne Folie ab, so dass das
+Schokoladen­ei zum Vorschein kommt. Das Ei wird auseinandergebrochen, und sichtbar wird ein kleiner Plastikbehälter, der, wenn
+man ihn öffnet, ein kleines Plastikspielzeug enthält. Sind dem
+Spielzeug noch Aufkleber oder anderes Beiwerk beigefügt, werden
+diese sorgfältig a­ ppliziert, und dann wird das Spielzeug vor der Kamera langsam ­betätigt, alles untermalt vom sanften Klang knisternder Alufolie, knackender Schokolade und schabenden Plastiks.
+Nachdem sie ­ausreichend gewürdigt wurden, werden das Ei und
+sein Inhalt beiseitegelegt, und der ganze Vorgang wiederholt sich
+beim nächsten Ei und beim nächsten und so fort, bis alle geöffnet
+sind. Nach einem kurzen Panoramaschwenk auf sämtliche Spielzeuge ist das Video zu Ende. Es dauert sieben Minuten, und auf YouTube wurde es 26 Millionen Mal angeklickt.
+Kinderüberraschung ist eine Süßigkeit aus Italien, die aus Milchund weißer Schokolade besteht und innen drin ein verpacktes Plastikspielzeug enthält. Seit ihrer Einführung 1974 wurden diese Überraschungseier weltweit millionenfach verkauft – obwohl sie in den
+USA verboten sind, denn dort dürfen Süßigkeiten keine Gegen-
+
+42
+
+ stände enthalten. Cars, ein Zeichentrickfilm aus der Disney-Werkstatt, der die Abenteuer von Lightning McQueen und seinen Autofreunden erzählt, spielte weltweit 450 Millionen US-Dollar ein und
+fand bislang zwei Fortsetzungen sowie fast unbegrenzt damit zusammenhängende Werbeartikel – darunter Kinderüberraschung.
+Warum aber verdient von allen Süßigkeiten und allen Produktwerbungen auf dieser Welt ausgerechnet diese eine so ehrfürchtige Begutachtung?
+Das stimmt natürlich gar nicht. Dieses Video mit dem Titel
+«Cars 2 Silver Lightning McQueen Racer Surprise Eggs Disney Pixar
+Zaini Silver Racers by ToyCollector» ist überhaupt nichts Besonderes. Es ist nur eines von Abermillionen Überraschungseier-Videos
+auf YouTube. Jedes Video folgt dem gleichen Schema: Das hier ist
+ein Ei; es enthält eine Überraschung; diese Überraschung wird enthüllt. Doch aus dieser schlichten Prämisse ergeben sich unendlich
+viele Kombinationen. Es gibt natürlich noch viel mehr Kinderüberraschungs-Videos, in allen möglichen «Geschmacksrichtungen»:
+Superhelden-Eier, Disney-Eier, Weihnachts-Eier und so weiter und
+so fort. Und dann gibt es die ganzen Nachahmerprodukte, kinder­
+überraschungsähnliche Eier, Ostereier, Eier aus Play-Doh-Knetmasse, Lego-Eier, Ballon-Eier und so weiter und so fort. Es gibt eierähnliche Gegenstände wie Spielzeuggaragen oder Puppenhäuser, die
+sich öffnen lassen und ihren Inhalt mit dem gleichen gedämpften
+Aha-Erlebnis preisgeben. Es gibt Überraschungsei-Videos, die länger
+als eine Stunde dauern, und es gibt mehr Überraschungsei-Videos,
+als ein menschliches Wesen in einem einzigen Leben je anschauen
+könnte.
+Auspackvideos sind fester Bestandteil des Internets, seit ruckelfreies Streamen von Videos möglich ist. Ihren Ursprung haben sie
+in der Tech-Community, und sie fetischisieren neue Produkte mitsamt dem Erlebnis, sie auszupacken: lange Nahaufnahmen von
+iPhones und Spielekonsolen, die aus den Verpackungen geholt werden. Um 2013 weitete sich dieser Trend auf Kinderspielzeug aus,
+und fortan passierte etwas Bizarres. Kinder, die diese Videos zu sehen
+bekommen, bleiben mit lasergleicher Konzentration dabei hängen
+
+43
+
+ und spielen sie immer wieder von vorn an, so wie frühere Genera­
+tionen unablässig die Videokassetten mit ihren liebsten Disney-Filmen laufen ließen. Je jünger die Kinder sind, desto weniger wichtig
+scheint der tatsächliche Inhalt dieser Videos zu sein. Die Wieder­
+holung des Prozesses schlägt sie zusammen mit den hellen Farben
+und dem ständigen Gefühl der Enthüllung offenbar in ihren Bann.
+Auf YouTube können sie stundenlang durch solche Videos surfen,
+sie werden dabei durch bestärkende Wiederholung und unablässige
+Überraschungen bei Laune gehalten, ihre Wünsche und Sehnsüchte
+erhalten durch die Empfehlungsalgorithmen des Systems fortwährend neue Nahrung.1
+Kinderfernsehen, vor allem wenn es sich an Kinder im Vorschulalter richtet, wirkt auf Erwachsene immer seltsam. Bevor es aus den
+Mainstreamsendern verschwand und auf eigenen Digitalkanälen
+und online ein neues Leben begann, drehte sich die letzte große
+Kontroverse aus der Zeit des Kinderfernsehens um die Teletubbies,
+fünf Wesen, die wie eine Mischung aus Baby und Bär aussehen, auf
+ihrem Kopf eine Antenne und auf ihrem Bauch einen Bildschirm
+­haben, durch grüne Felder und Hügel tapsen, Spiele spielen und
+­immer wieder mal ein Nickerchen machen. Die Sendung war ein
+Riesenerfolg, ärgerte jedoch auch Menschen, die der Ansicht waren,
+Fernsehen für Kinder solle zumindest einen gewissen Bildungs­
+anspruch haben. Die Teletubbies kommunizierten in einer vereinfachten «Ah-Oh»-Sprache, die nach Ansicht von Eltern und Zeitungen die kindliche Sprachentwicklung behinderte. Tatsächlich war
+die Sprache der Teletubbies von Sprachwissenschaftlern entwickelt
+worden und hatte ihre ganz eigene Logik. Sie umfasste auch viele
+Aspekte, die durch die Überraschungseier-Videos automatisiert
+werden sollten: zahlreiche Call-and-Response-Einstellungen und
+die Rufe «Nomal, nomal» (also «Nochmal, nochmal»), wenn eine
+Sequenz nochmal wiederholt werden sollte.2 Was Erwachsenen als
+bizarr, unsinnig und irgendetwas zwischen langweilig und bedrohlich erschien, erzeugte für kleine Kinder eine sichere und beruhigende Welt. Ob wissentlich oder nicht, sind es gerade diese psychologischen Eigenschaften, die die Überraschungseier-Videos und
+
+44
+
+ ihre Ableger auf YouTube heute so populär machen. Doch in ihrer
+­Mischung aus kindischer Anmutung, versprochener Belohnung und
+algorithmischer Variation machen sie diese Videos auch so beängstigend.
+Die Empfehlungsalgorithmen von YouTube funktionieren, indem sie herausfinden, was die Betrachter mögen. Gänzlich neuer
+und nicht kategorisierter Content muss es auf der Plattform ganz
+allein schaffen, er existiert in einer Art Schwebezustand, der nur
+durch eingehende Links und äußere Empfehlungen gestört werden
+kann. Doch wenn er ein Publikum findet, wenn er Views zu sammeln beginnt, können die Algorithmen sich dazu herablassen, ihn
+in ihre empfohlenen Videos aufzunehmen – also ihn in der Seitenleiste anderer Videos aufführen, regelmäßigen Zuschauern dadurch anpreisen und so seine «Auffindbarkeit» steigern. Noch besser ist es, wenn dieser neue Content eine Beschreibung enthält,
+wenn er richtig betitelt und so verschlagwortet ist, dass die Algorithmen ihn problemlos etikettieren können; dann nämlich kann
+das System ihn zu anderen, ähnlichen Videos gruppieren. Es ist
+­eigentlich recht einfach: Wenn Sie das mögen, werden Sie auch das
+mögen, und schon sind Sie gefangen. Sie können die Website sogar
+auf Autoplay einstellen, so dass, wenn das eine Video zu Ende ist,
+das nächste in der Empfehlungsschlange beginnt, und so weiter
+bis in alle Ewigkeit. Kinder erzeugen recht schnell Empfehlungsprofile, und sie verfestigen sich rasant, wenn Kinder bei einer bestimmten Art von Video gebannt hängen bleiben und es immer
+und immer wieder abspielen. Die Algorithmen lieben das: Ein solches Verhalten zeugt von einem eindeutigen Bedürfnis, und sie
+versuchen, diesem Bedürfnis immer wieder neue Nahrung zu
+­geben.
+Auf der anderen Seite des Bildschirms sind diejenigen, die die
+­Videos erstellen. Videos zu drehen ist ein Geschäft, und es gibt dabei vor allem einen schlichten Anreiz: Je mehr Aufrufe man hat,
+desto mehr Geld bekommt man. YouTube, ein Unternehmen von
+Google, ist Partner von AdSense, ebenfalls ein Google-Unternehmen. Seitlich neben – und zunehmend innerhalb, vor, nach und so-
+
+45
+
+ gar während – Videos bietet AdSense Werbeanzeigen an. Werden die
+Anzeigen, welche die Videos begleiten, angeklickt, werden die Urheber der Videos bezahlt – üblicherweise in «cost per mille» (CPM
+oder je 1000 Aufrufe). Der CPM eines bestimmten Urhebers variiert
+stark, denn nicht alle Videos und nicht alle Seitenaufrufe werden
+von Werbung begleitet, und die CPM-Rate selbst kann sich aufgrund einer Vielzahl von Faktoren ändern. Doch Videos können ein
+Vermögen wert sein: Der koreanische Pop-Hit «Gangnam Style»,
+der als Erster die Schallgrenze von einer Milliarde Aufrufe auf YouTube durchbrach, bekam für seine ersten 1,23 Milliarden Views
+acht Millionen US-Dollar von AdSense, was etwa 0,65 Cent pro
+Aufruf entspricht.3 Man muss nicht derartigen Erfolg haben, um
+von YouTube leben zu können, obwohl es offenkundig leichter ist,
+höhere Erlöse zu erzielen, wenn man immer mehr Videos dreht und
+versucht, dafür immer mehr Zuseher zu finden – und auf Märkte
+wie Kinder zielt, die Videos immer wieder anschauen.
+In den offiziellen Richtlinien von YouTube ist zu lesen, dass die
+Seite für Menschen ab 13 gedacht ist, und wer unter 18 ist, braucht
+die elterliche Erlaubnis, doch es gibt so gut wie nichts, was einen
+13-Jährigen vom Zugang zur Seite abhalten würde. Überdies muss
+man überhaupt kein Benutzerkonto haben; wie die meisten Web­
+seiten trackt YouTube einzelne Besucher über ihre IP-Adresse, das
+Browser- und Geräteprofil sowie das Verhalten, und es kann ein
+­detailliertes demographisches Präferenzprofil erstellen, mit dem es
+die Empfehlungsmaschinen füttert, ohne dass der Zuschauer je bewusst irgendeine Information über sich selbst preisgibt. Das gilt
+selbst dann, wenn der Zuschauer ein dreijähriges Kind ist, dem man
+das elterliche iPad in die Hand gedrückt hat und das den Bildschirm
+mit geballter Faust bearbeitet.
+Wie häufig eine solche Situation vorkommt, zeigt sich in den
+hauseigenen Zuschauerstatistiken von YouTube. Ryan’s Toy Review,
+ein Kanal, der sich auf Auspackvideos und andere Kinder­themen
+spezialisiert hat, ist der sechstpopulärste Kanal auf der Plattform,
+knapp hinter Justin Bieber und dem World Wrestling Entertainment
+(WWE).4 2016 stand er sogar einmal ganz oben auf der Beliebtheits-
+
+46
+
+ skala. Ryan ist sechs Jahre alt, er ist ein YouTube-Star, seit er drei
+ist, und er hat 9,6 Millionen Abonnenten. Seine Familie verdient
+schätzungsweise eine Million US-Dollar pro Monat mit ihren
+V
+­ ideos.5 Der Nächste in der Liste ist Little Baby Bum, der sich auf
+Lieder für Kinder im Vorschulalter spezialisiert hat. Mit gerade einmal 515 Videos hat er es auf 11,5 Millionen Abonnenten und 13 Milliarden Aufrufe gebracht.
+YouTube für Kinder ist eine riesige und lukrative Branche, weil
+Video-on-Demand Katzenminze für Eltern und ihre Kinder gleichermaßen ist – und somit auch für die Contenterzeuger und die Werbetreibenden. Kleine Kinder, die von vertrauten Charakteren und
+­Liedern, hellen Farben und beruhigenden Klängen fasziniert sind,
+können stundenlang ruhiggestellt und unterhalten werden. Die beliebte Strategie, zahlreiche Kinderlieder- oder Comic-Episoden zu
+stundenlangen Kompilationen zusammenzustellen und in den Videobeschreibungen und Titeln aus dieser Länge eine Tugend zu
+­ achen, lässt darauf schließen, wie viel Zeit manche Kinder damit
+m
+verbringen.
+Infolgedessen haben YouTube-Kanäle eine ganze Reihe von Strategien entwickelt, um die Aufmerksamkeit von Eltern und Kindern
+auf ihre Videos (und die damit einhergehenden Werbeeinnahmen)
+zu lenken. Eine davon ist, wie sich an den «Vermanschungen» bei
+den Überraschungseiern gezeigt hat, eine Art Schlagwortexzess,
+bei dem man so viele Suchbegriffe wie möglich in den Titel eines
+Videos packt. Das Ergebnis ist ein veritabler Wortsalat; so hat eine
+Zufallsauswahl aus nur einem einzigen Kanal etwa Folgendes zu
+bieten: «ÜBERRASCHUNGSEIER MIT DISNEY PIXAR CARS DISNEY
+PRINCESS VAIANA UND TROLLS – ALLE FÜR PAW PATROL»;
+«ÜBERRASCHUNGSEIER KINDER SURPRISE SCHOKOLADE EIER
+DISNEY PIXAR CARS VAIANA TROLLS SUPER SPIELZEUGE»;
+«ÜBERRASCHUNGSEIER MIT BUDDEL BAGGI UND BOB – EIER
+AUS SCHOKOLADE UND FORMEN AUS KINETISCHES SAND»;
+«ZURU RAINBOCORNS SEQUIN SURPRISE ÜBERRASCHUNGSEIER MIT PAILLETTE UNBOXING – NIEDLICHE EINHÖRNER»; sowie «SUPER GROßE ÜBERRASCHUNGSEIER MIT PEPPA WUTZ
+
+47
+
+ MAMA WUTZ PAPA WUTZ SCHORSCH ZOE ZEBRA UND VIELE
+ANDERE».6
+
+Diese unverständlichen Ansammlungen aus Markennamen, Figuren und Schlagwörtern verweisen auf das eigentliche Publikum
+für diese Beschreibungen: Sie richten sich nicht an die Zuschauer,
+sondern an die Algorithmen, die darüber entscheiden, wer welches
+Video sieht. Je mehr Schlagwörter man in einen Titel stopfen
+kann, desto wahrscheinlicher ist es, dass dieses Video seinen Weg
+in die Empfehlungen findet oder, noch besser, schlicht automatisch startet, wenn ein ähnliches Video zu Ende ist. Das Ergebnis
+sind Millionen Videos mit wasserfallartigen, unsinnigen Titeln –
+aber YouTube ist nun einmal eine Videoplattform, und weder die
+Algorithmen noch das avisierte Publikum scheren sich um Sinn
+und Bedeutung.
+Es gibt noch andere Möglichkeiten, um Views für den eigenen
+­Kanal zu bekommen, und die einfachste und zeitsparendste Methode besteht darin, schlicht andere Inhalte zu kopieren und zu
+klauen. Eine schnelle Suche nach «Peppa Wutz» bzw. «Peppa Pig»
+auf YouTube erbringt mehr als zehn Millionen Resultate – und die
+Eingangsseite stammt fast immer vom «Offiziellen Peppa Pig Youtube Kanal«, der von den Schöpfern der Sendung betrieben wird und
+in unterschiedlichen Sprachen verfügbar ist. Doch schnell füllt sich
+die Trefferliste mit anderen Kanälen, wenngleich sie dadurch, dass
+YouTube die Suchergebnisse einheitlich darstellt, schwer zu erkennen sind. Ein solcher Kanal ist der nicht verifizierte Play Go Toys,
+der über 10 000 Abonnenten hat und aus raubkopierten Peppa-PigEpisoden, Auspackvideos, aber auch offiziellen Peppa-Pig-Folgen
+besteht, die mit Markenfiguren nachgespielt werden und wie echte
+Folgen betitelt sind.7 Dazwischen finden sich Videos, in denen die –
+vermutlich – eigenen Kinder der Kanalbetreiber mit den Spiel­sachen
+spielen und in den Park gehen.
+Zwar betreibt dieser Kanal nur eine recht harmlose Form von
+­Piraterie, aber sein Fall zeigt, wie sehr die Struktur von YouTube die
+«Ablösung» des Inhalts von seinem Urheber erleichtert und wie
+sich das auf unser Bewusstsein für die Quelle und unser Vertrauen
+
+48
+
+ darauf auswirkt. Eine der traditionellen Funktionen von branded
+content, also markengeschütztem Inhalt, besteht darin, die Quelle
+als vertrauenswürdig auszuweisen. Ob es sich nun um Peppa Wutz
+im Kinderfernsehen oder um einen Disney-Film handelt – was immer man von der industriellen Form der Unterhaltungsproduktion
+halten mag, so sind diese Produkte doch sorgfältig produziert und
+überwacht, so dass Kinder sie im Grunde bedenkenlos anschauen
+können, und deshalb als solche vertrauenswürdig. Das gilt nicht
+mehr, wenn Marke und Inhalt von der Plattform getrennt werden,
+und insofern bildet bekannter und vertrauenswürdiger Content
+­einen nahtlosen Zugang zu ungeprüften und potentiell schädlichen
+Inhalten.
+Das ist genau der gleiche Prozess wie die «Ablösung» der Nachrichten von ihrer Quelle auf Facebook-Feeds und in Google-Such­
+ergebnissen, die gegenwärtig unserem kognitiven und politischen
+System so großen Schaden zufügt. Wenn ein auf Fakten überprüfter
+Artikel aus der New York Times auf Facebook geteilt wird oder bei
+einer Google-Suche unter der Rubrik «related content» auftaucht,
+wirkt der Link fast identisch mit einem, der zu NewYorkTimes­
+Politics.com führt, einer Website, die von einem Teenager in Ost­
+europa betrieben wird und ausschließlich erfundene, aufwiegelnde
+und hochgradig parteiliche Geschichten über die US-Wahlen enthält.8 Wir werden auf diese Seiten weiter unten gleich noch zurückkommen, doch auf YouTube führt das dazu, dass befremdlicher und
+unangemessener Inhalt sich unglaublich leicht mit bekannten
+Quellen verknüpfen – und kaum noch davon unterscheiden – lässt.
+Ein weiteres bemerkenswertes Beispiel für die Eigenartigkeit von
+Kindervideos ist die Finger Family. 2007 lud ein YouTube-Nutzer
+namens Leehosok ein Video hoch, in dem zwei Gruppen von Fingerpuppen zum blechernen Klang eines Kinderlieds, das im Hintergrund abgespielt wird, tanzen: «Papa Finger, Papa Finger, wo bist
+du? Hier bin ich, hier bin ich, wie geht’s dir?» und immer so weiter
+mit Mama Finger, Bruder Finger, Schwester Finger bis zu Baby Finger. Zwar ist das Lied eindeutig älter als das Video, doch auf YouTube ist es hier zum ersten Mal zu hören.9 Ende 2017 gab es dann
+
+49
+
+ schon mindestens 17 Millionen Versionen des Finger-Family-Songs
+auf YouTube. Wie die Überraschungseier-Videos decken sie jedes
+nur mögliche Genre ab und sind zusammengenommen milliardenfach aufgerufen worden. Allein eine Variante auf dem beliebten
+­Kanal ChuChu hat eine halbe Milliarde Views. Weil die Prämisse so
+schlicht ist, eignet sich die Sache prima für die Automatisierung:
+Die Basissoftware kann die Finger einer animierten Hand mit jedem
+Gegenstand oder Charakter besetzen, und so füllen Finger Families
+mit Superhelden, Disneyfiguren, Gummibärchen, Lollis und ihre
+unzähligen Varietäten die Seite und häufen weitere Abermillionen
+an Aufrufen an. Zu Tausenden finden sich Standardanimationen,
+Audiotracks und Schlagwortlisten und sorgen für einen unablässigen Strom an Videos. Es ist schwierig, solche Prozesse richtig zu
+­erfassen, ohne einfach ihre endlosen Varianten aufzuzählen, aber
+wir müssen begreifen, wie riesig dieses System ist und wie unbestimmt seine Handlungen, sein Verfahren und sein Publikum sind.
+Es ist zudem international: Videos für Fingerspiele und fürs Farbenlernen («Learn Colors») gibt es auch in Varianten mit tamilischen
+Filmhelden und malaysischen Comicfiguren, die bei einer englischen oder deutschen Suchanfrage vermutlich gar nicht auftauchen.
+Diese Unschärfe und Reichweite ist der entscheidende Punkt für
+die Existenz des Systems und seine Folgen. Seine Vieldimensionalität macht es schwer, es zu begreifen oder auch nur wirklich darüber
+nachzudenken.
+Die Klickzahlen für diese Videos sollte man allerdings mit einer
+gewissen Vorsicht zur Kenntnis nehmen. Eine riesige Zahl dieser
+Videos wird nicht nur durch automatisierte Software – Bots – produziert, sondern auch von Bots angeschaut und kommentiert. Den
+Rüstungswettlauf zwischen den Bot-Herstellern und Googles lernenden Algorithmen hat Google schon vor langer Zeit auf den meisten seiner Felder verloren. Es gibt für Google allerdings keinen wirklichen Grund, das besonders ernst zu nehmen: Öffentlich mag es
+das Treiben von Bots verurteilen und herunterspielen, aber sie steigern die Zahl der angezeigten Ads massiv – und damit die Einnahmen, die Google generiert. Doch diese Komplizenschaft sollte nicht
+
+50
+
+ darüber hinwegtäuschen, dass auch viele echte Kinder, die an ihren
+iPhones oder Tablets hängen, diese Videos immer wieder anschauen – was zum Teil für die aufgeblähten View-Zahlen verantwortlich ist –, während sie lernen, im Browser grundlegende Suchbegriffe einzugeben, oder schlicht auf die Seitenleiste patschen, um
+ein weiteres Video zu starten. Zudem werden stimmaktivierte
+Kommandos zunehmend allein die Aufgabe übernehmen, Content
+aufzurufen.
+Noch bizarrer wird die ganze Sache, wenn in der Schleife wieder
+Menschen auftauchen. Finger Families mit Pringles-Dosen oder
+dem «Unglaublichen Hulk» in 3D dürften, zumindest was das Verfahren angeht, noch leicht zu verstehen sein, aber bekannte Kanäle
+mit menschlichen Akteuren beginnen diese Logik ebenfalls zu
+­reproduzieren, weil sie darauf angewiesen sind, Seitenaufrufe zu
+­ ekommen. Ab einem bestimmten Punkt lässt sich unmöglich beb
+stimmen, wie viel Automatisierung dabei am Werk ist oder wie
+man den Übergang zwischen Mensch und Maschine genau festmachen soll.
+Bounce Patrol ist ein Unternehmen für Kinderentertainment
+aus Melbourne und steht in der farbenfrohen Tradition vordigitaler Kinderhits wie den ebenfalls aus Australien stammenden Wiggles. Sein YouTube-Kanal Bounce Patrol Kids hat über sechs Mil­
+lio­
+nen Abonnenten, und dort werden ungefähr einmal in der
+­Woche pro­fessionell produzierte Videos mit einer Truppe menschlicher Schauspieler gepostet.10 Doch die Produktionen von Bounce
+Patrol orientieren sich in hohem Maße an der unmenschlichen
+­Logik algorithmischer Empfehlung. Das Ergebnis ist zutiefst ver­
+störend: Eine Gruppe von Menschen führt szenisch auf, was eine
+Kombination algorithmisch generierter Schlagwörter impliziert.
+«Halloween Finger Family & more Halloween Songs for Children
+Kids Halloween Songs Collection»; «Australian Animals Finger Family Song | Finger Family Nursery Rhymes»; «Farm Animals Finger
+Family and more Animals Songs | Finger Family Collection – Learn
+Animals Sounds»; «Safari Animals Finger Family Song | Elephant,
+Lion, Giraffe, Zebra & Hippo! Wild Animals for kids»; «Superheroes
+
+51
+
+ Finger Family and more Finger Family Songs! Superhero Finger Family Collection»; «Batman Finger Family Song – Superheroes and
+Villains! Batman, Joker, Riddler, Catwoman»; und so weiter und so
+fort. Präsentiert wird dabei Improvisation der alten Schule, nur die
+Stichwörter werden von einem Computer gerufen, der mit den Aufforderungen einer Milliarde hyperaktiver Daddler gefüttert wird.
+So sieht Contentproduktion im Zeitalter algorithmisch gesteuerter
+Suchergebnisse aus: Selbst als Mensch ist man irgendwann gezwungen, die Maschine nachzuahmen.
+Wir sind weiter oben schon recht aussagekräftigen Beispielen für
+die Ergebnisse vollständiger Automatisierung begegnet, etwa den
+Handyhüllen bei Amazon oder den «Rape»-T-Shirts. Niemand hat
+sich explizit vorgenommen, Handyhüllen mit Arzneimitteln und
+Sanitätsartikeln drauf zu produzieren; sie sind nichts weiter als ein
+zutiefst befremdliches Ergebnis von Wahrscheinlichkeitsrechnung.
+Auch der Fall der «Keep calm and rape a lot»-T-Shirts ist zwar deprimierend – und peinlich –, aber verständlich. Niemand hat sich
+vorgenommen, diese T-Shirts herzustellen; es wurden lediglich
+­
+nicht weiter geprüfte Listen von Verben und Pronomen mit einem
+Online-Bildgenerator gepaart. Es ist durchaus möglich, dass keines
+dieser T-Shirts jemals physisch existierte oder je gekauft und getragen wurde; insofern wurde damit kein Schaden angerichtet. Es ist
+jedoch auffallend und bezeichnend, dass die Menschen, die diese
+­Artikel herstellten, nichts bemerkten, ebenso wenig wie die, die sie
+vertrieben. Sie hatten im Wortsinne keine Vorstellung, was sie da
+taten.
+Allmählich wird deutlich, dass Ausmaß und Logik des Systems
+mitschuldig an diesen Ergebnissen sind und uns dazu zwingen,
+gründlich über ihre Auswirkungen nachzudenken. Diese Ergebnisse
+schleppen die allgemeineren gesellschaftlichen Effekte früherer
+­Beispiele mit sich mit, etwa rassen- oder geschlechtsbedingte Verzerrungen in Systemen, die auf Big Data und maschineller Intelligenz beruhen, und ebendeshalb gibt es auch für sie keine einfachen
+oder auch nur wünschenswerten Lösungen.
+Wie wäre es mit einem Video mit dem Titel «Wrong Heads Dis-
+
+52
+
+ ney Wrong Ears Wrong Legs Kids Learn Colors Finger Family 2017
+Nursery Rhymes»? Allein schon der Titel verrät die automatisierte
+Herkunft. Woher die Wendung «Wrong Heads» stammt, bleibt fürs
+Erste rätselhaft. Aber man kann sich wie beim Finger Family Song
+leicht vorstellen, dass es irgendwo eine ursprüngliche, völlig harmlose Version gibt, die so viele Kinder zum Lachen brachte, dass sie
+in den algorithmisch erzeugten Rankings nach oben kletterte, bis
+sie es auf die Wortsalatlisten schaffte. Dort vermischte sie sich mit
+Learn Colors, Finger Family, Nursery Rhymes und all den anderen
+Ausdrücken – nicht nur als Wörter, sondern auch als Bilder, Prozesse und Handlungen – zu dieser ganz spezifischen Assemblage.
+Das Video besteht aus einem Finger-Family-Lied, das zu einer
+Animation aus rotierenden Köpfen und Körpern von Figuren aus
+Disneys Aladdin erklingt. Das Ganze wirkt zunächst recht harmlos, wenn Kopf und Körper nicht zueinanderpassen, doch befremdlich wird es, als eine Figur auftaucht, die nicht aus Aladdin stammt –
+Agnes, das kleine Mädchen aus dem Universal-Zeichentrickfilm
+Ich – Einfach unverbesserlich. Agnes ist so eine Art Schiedsrichterin des Vorgangs. Passt der Kopf auf den Körper, freut sie sich; passt
+er nicht, bricht sie in simulierte Tränen aus. Zwar ist der Mechanismus klar, aber das Ergebnis ist reiner Blödsinn: ein Minimum an
+Anstrengung, um ein Minimum an Sinn zu erzeugen.
+Der Video-Kanal BABYFUN TV hat viele ähnliche Videos produziert, die alle auf genau die Weise funktionieren. Freude, eine Figur
+aus Disneys Animationsfilm Alles steht Kopf, heult sich durch die
+rotierenden Köpfe von Schlümpfen und Trollen. Wonder Woman
+vergießt Tränen für die X-Men. Und so geht das immer weiter.
+B
+­ ABYFUN TV hat gerade einmal 400 Abonnenten und sehr niedrige
+Klickzahlen, aber es gibt Abertausende solcher Kanäle. Die Aufrufzahlen bei YouTube und anderen Plattformen für Masseninhalte
+sind für sich genommen nicht weltbewegend, in der Summe aber
+durchaus beeindruckend. Der Mechanismus, der «Wrong Heads»
+zugrunde liegt, ist klar, doch die fortwährende Überlagerung und
+Vermischung verschiedener Themenfelder irritiert die Empfindsamkeiten von Erwachsenen: Sie beschleicht das Gefühl, dass hier
+
+53
+
+ etwas Unmenschliches am Werke ist, dass hier eine beklemmende
+Kluft besteht zwischen uns und einem System, das solche Inhalte
+produziert. Es fühlt sich an, als laufe hier etwas ganz gehörig falsch,
+irgendwo weit unterhalb der Contentoberfläche.
+In den «Wrong Heads»-Filmchen von BABYFUN TV taucht in jedem Video das identische, quäkende digitale Exemplar eines weinenden Kindes auf. Auf uns wirkt das vielleicht irritierend, aber
+möglicherweise liefert dieser Klang – wie bei den Teletubbies das
+fröhlich glucksende Baby in der Sonne – den Rhythmus, die Kadenz
+oder den Bezug zur eigenen Erfahrung, weshalb sich echte Babys so
+zu diesem Inhalt hingezogen fühlen. Doch niemand hat diese Entscheidung getroffen: Sie ist durch algorithmische Wiederholung auf
+eine Weise verzerrt und auseinandergezogen worden, die niemand
+intendiert, niemand wirklich gewollt hat. Und was passiert, wenn
+dieser Dauerumlauf und diese endlose Vergrößerung wieder zum
+Menschen zurückschwingen?
+Toy Freaks war ein überaus beliebter YouTube-Kanal – Rang 68
+auf dieser Plattform, mit 8,4 Millionen Abonnenten –, auf dem ein
+Vater und seine beiden Töchter viele der Themen und Elemente, die
+wir bislang kennen gelernt haben, nachspielten, und zwar nach den
+gleichen Prinzipien wie Bounce Patrol: Die Mädchen öffneten Überraschungseier und sangen saisonal unterschiedliche Varianten des
+Finger-Family-Songs. Neben Kinderliedern und Farbenlernen hatte
+sich Toy Freaks auf Ekel erregende Situationen spezialisiert, bei
+­denen sich die Beteiligten mit Essen bewerfen oder die Badewanne
+mit Insektenattrappen füllen. Toy Freaks war deshalb höchst umstritten, sehr viele Zuschauer hatten das Gefühl, die Videos grenzten an Missbrauch und Ausbeutung (wenn sie diese Grenze nicht
+sogar überschritten), und beschwerten sich unter anderem über
+­Videos, in denen die Kinder sich übergaben, bluteten und Schmerzen hatten.11 Toy Freaks war ein von YouTube geprüfter Kanal, auch
+wenn diese Verifizierung lediglich darin besteht, dass ein Kanal
+über mehr als 100 000 Abonnenten verfügt.12
+Dabei war Toy Freaks noch recht harmlos im Vergleich zu seinen
+Nachahmern. Eine vietnamesische Variante namens Freak Family
+
+54
+
+ präsentiert ein junges Mädchen, das Badeprodukte zu sich nimmt
+und sich mit einer Rasierklinge ritzt.13 Anderswo fischen Kinder
+bunte automatische Waffen aus schlammigen Flüssen. Elsa aus Die
+Eiskönigin ertrinkt in einem Liverollenspiel in einem Swimmingpool. Spiderman dringt in eine Ferienanlage an einem thailändischen Strand ein und lehrt die Farben mit Hilfe eines Klebebands,
+mit dem er nur mit einem Bikini bekleidete Teenager umwickelt.
+Polizisten mit überdimensionierten Babyköpfen und Joker-Masken
+terrorisieren die Besucher eines russischen Freizeitbads. Und so
+geht das immer weiter. Die Ausweitung der Themen in beliebten,
+von Menschen betriebenen Kanälen wie Toy Freaks führt dazu, dass
+sie überall im Netz in immer absonderlicheren und verzerrteren
+Neuzusammensetzungen wiederholt werden. Durchzogen aber ist
+das Ganze von einer Unterströmung der Gewalt und Erniedrigung,
+die, so hoffen wir noch immer, nicht den finsteren Fantasiewelten
+echter, das Ekelhafte liebender Kinder entspringt.
+Teile von YouTube wie auch das übrige Internet sind seit langem
+Plattform für eine Kultur des gewaltsamen Affronts, der nichts heilig ist. Eine derartige Subkultur ist YouTube Poop, wo zumeist
+harmlose, aber bewusst anzügliche Remixes anderer Videos zu sehen
+sind, bei denen ordinäre Schimpftiraden und Drogenanspielungen
+als Overdubs über Fernsehsendungen für Kinder gelegt werden. Das
+ist häufig die erste Ebene der befremdlichen Eigenartigkeit, mit der
+auch Eltern konfrontiert sind. Ein offiziellen Peppa-Wutz-Video, in
+dem Peppa zum Zahnarzt geht, scheint recht beliebt zu sein – doch
+was wie eine echte Episode wirkt, ist irritierenderweise nur auf
+­einem inoffiziellen Kanal verfügbar. In der offiziellen Timeline wird
+Peppa, wie es sich gehört, von einem freundlichen Zahnarzt beruhigt. In einer Version hingegen, die bei der Suche nach «Peppa Pig
+Dentist» als eines der ersten Ergebnisse aufscheint, wird sie im
+Grunde gefoltert, denn zum Klang von Schreien werden ihr blutig
+die Zähne gezogen. Verstörende Peppa-Wutz-Videos, die zu extremer Gewalt und Angst neigen, etwa wenn Peppa ihren Vater auffrisst oder Bleiche trinkt, sind weit verbreitet. Viele sind offen­
+kundig Parodien oder gar Satiren auf sich selbst: Tatsächlich haben
+
+55
+
+ frühere Kontroversen um solche Videos dazu geführt, dass sie ur­
+heberrechtlichen Schutz für sich in Anspruch nehmen konnten.
+Sie sind nicht darauf aus, Kinder zu terrorisieren – nicht wirklich
+jedenfalls, selbst wenn sie es tun. Aber es gibt sie nun einmal, und
+sie setzen zudem als Reaktion eine ganze Kette von neuen Produkten in Gang.
+Das Befremdliche und Schreckliche auf YouTube allein den Aktionen von Trollen und Menschen mit finsterem Humor zuzuschreiben wird der Sache nicht wirklich gerecht. In dem erwähnten Video
+lässt Peppa das fürchterliche Zahnarzterlebnis über sich ergehen
+und verwandelt sich anschließend in eine Abfolge von Hybriden aus
+Iron Man/Schwein/Roboter, die den «Learn Colours»-Tanz aufführen. Welche Absicht hinter dem Ganzen steht, ist alles andere als
+klar: Das Video beginnt mit einer trolligen Peppa-Parodie, geht anschließend aber in die Art von automatisierter Motivwiederholung
+über, von der weiter oben schon die Rede war. Wir haben es nicht
+nur mit Trollen und nicht nur mit Automatisierung zu tun; es handelt sich nicht nur um menschliche Schauspieler, die eine algorithmische Logik zur Aufführung bringen, oder um Algorithmen, die
+gedankenlos auf Empfehlungsmaschinen reagieren. Das Ganze ist
+eine riesige und fast vollständig verborgene Matrix von Interaktionen zwischen Wünschen und Belohnungen, Technologien und Publi­
+kum, Motiven und Masken.
+Andere Beispiele wirken weniger willkürlich und stärker zielgerichtet. Ein ganzer Strang der Videoproduktion umfasst automa­
+tisierte Recuts von Videospielmaterial, das statt mit Soldaten und
+Gangstern nunmehr mit Superhelden oder Comicfiguren neu programmiert wird. Spiderman bricht dem Sensenmann und Elsa aus
+Die Eiskönigin die Beine und buddelt sie bis zum Hals in einer
+Grube ein. Die Teletubbies – ja, die schon wieder – führen Grand
+Theft Auto mitsamt Verfolgungsjagden auf Motorrädern und wilden
+Schießereien bei Banküberfällen auf. Dinosaurier, die von Eiscreme
+und Lutschern durchbohrt sind, zerstören ganze Straßenzüge. Krankenschwestern essen, untermalt vom Finger-Family-Song, Fäkalien. Nichts ergibt einen Sinn, und alles ist falsch. Vertraute Cha-
+
+56
+
+ raktere, Kinderliedmotive, Schlagwortsalat, vollständige Automatisierung, Gewalt und der Stoff aus schlimmsten Kinderträumen verbinden sich in unzähligen Kanälen mit unterschiedslosem Inhalt,
+die Woche für Woche Hunderte neuer Videos produzieren. Billige
+Technologien und noch billigere Vertriebswege stehen im Dienste
+der industrialisierten Produktion von Albträumen.
+Was braucht man, um solche Videos herzustellen, und wer produziert sie? Wie sollen wir das überhaupt je in Erfahrung bringen? Nur
+weil keine menschlichen Akteure zu sehen sind, bedeutet das noch
+nicht, dass keine Menschen beteiligt wären. Animation ist heutzutage ganz einfach, und Online-Content für Kinder ist eine der einfachsten Möglichkeiten, mit 3D-Animation Geld zu verdienen,
+denn die ästhetischen Standards sind niedriger, und unabhängige
+Produktion kann sich mittels Masse lohnen. Sie verwendet bereits
+existierenden und leicht verfügbaren Content (wie etwa Figuren­
+modelle und Bibliotheken für die Bewegungserfassung) und lässt
+sich endlos und zumeist sinnlos wiederholen und revidieren, denn
+die Algorithmen machen keinen Unterschied – ebenso wenig wie
+die Kinder. Billige Animationen könnten das Werk eines kleinen
+Studios mit einem halben Dutzend Leuten sein, die gerade nichts
+anderes zu tun haben; sie könnten aber auch riesige Lagerhallen
+­ oller Sklavenarbeiter sein, Sweatshops für die Videoproduktion;
+v
+vielleicht sind sie das Erzeugnis einer tumben Schurken-KI, eines
+Versuchsprojekts, das irgendwo abgelegt wurde und einfach immer
+weiter lief, wobei es Millionen Aufrufe erzielte. Würde irgendeine
+staatliche Macht oder ein Pädophilennetzwerk bewusst versuchen,
+eine ganze Generation zu vergiften – wie in manchen Onlinekommentaren vermutet wird –, so wüssten wir das nicht. Vielleicht ist
+es einfach das, was die Maschine tun will. Online danach zu fragen,
+befördert einen nur in einen weiteren Kaninchenbau aus Verschwörung und Trauma. Das Netzwerk ist mit Sicherheit nicht in der
+Lage, sich selbst zu diagnostizieren, so wie es unfähig ist, seine
+­Ansprüche zu mäßigen.
+Kinder werden durch solche Videos traumatisiert. Sie schauen zu,
+wie ihre liebsten Comicfiguren morden und vergewaltigen.14 Eltern
+
+57
+
+ haben von Verhaltensänderungen bei ihren Kindern berichtet, nachdem diese verstörende Videos angeschaut hatten. Diese Netzwerkeffekte verursachen ganz reale und vermutlich bleibende Schäden.
+Kleine Kinder – mitunter sehr kleine – gewalttätigen und verstörenden Szenen auszusetzen ist eine Form von Missbrauch. Aber es
+wäre falsch, diese Problematik schlicht als eine Sache des händeringenden «Denkt denn niemand an die Kinder?» zu betrachten. Dieser Content ist ganz offenkundig unangemessen; dort draußen gibt
+es augenscheinlich schlimme Akteure; einige dieser Videos sollten
+offensichtlich entfernt werden. Offenkundig ist aber auch, dass dabei Fragen des Fair Use, der Aneignung, der Meinungsfreiheit und so
+weiter berührt werden. Doch interpretiert man diese Situation allein durch diese Linse, so begreift man die zum Einsatz kommenden
+Mechanismen nicht vollständig und ist deshalb nicht in der Lage,
+die Implikationen in ihrer Gesamtheit zu denken und entsprechend
+zu reagieren.
+Was viele dieser seltsamen Videos dort draußen charakterisiert,
+ist das beklemmende Ausmaß an Schrecken und Gewalt, das hier
+zur Schau gestellt wird. Manchmal sind es Kinder, die sich ekelhaft
+benehmen, manchmal handelt es sich schlicht um die Provokation
+von Trollen; meist aber wirkt das Ganze abgründiger und unbewusster. Das Internet kann viele unserer latenten Wünsche ver­
+stärken und verwirklichen – tatsächlich ist das offenbar genau das,
+was es am besten kann. Diese Tendenz lässt sich auch ins Positive
+wenden: Die prächtig gedeihenden Netzwerktechnologien haben es
+vielen Menschen ermöglicht, sich auf eine Weise zu erkennen und
+auszudrücken, wie das nie zuvor möglich gewesen wäre. Das steigert ihre individuelle Handlungsmacht und befreit Formen von
+Identität und Sexualität, die nie so eindringlich und in so vielen verschiedenen Stimmen gesprochen haben wie heute. Doch hier, wo
+Millionen von Kindern und Erwachsenen über Stunden, Tage, Wochen, Monate und Jahre spielen – wo sie über ihre Aktionen gierigen
+Algorithmen ihre verletzlichen Wünsche offenbaren –, wirkt diese
+Tendenz in überwältigendem Maße gewalttätig und destruktiv.
+Mit der Gewalt einher geht ein unbeschreibliches Maß an Aus-
+
+58
+
+ beutung: nicht von Kindern, weil sie Kinder sind, sondern von Kindern, weil sie machtlos sind. Automatisierte Belohnungssysteme
+wie die Algorithmen von YouTube bedürfen notwendigerweise der
+Ausbeutung, um ihre Einkünfte zu generieren, und zu diesem
+Zweck codieren sie die schlimmsten Aspekte eines raffgierigen,
+z­ ügellosen Kapitalismus. Kontrollen sind unmöglich, denn sonst
+würde das gesamte System kollabieren. Ausbeutung wird den Sys­
+temen, die wir errichten, eingeschrieben, was es umso schwerer
+macht, sie zu erkennen, sie zu denken und zu erklären, ihr etwas
+entgegenzusetzen und sich dagegen zu wehren. Besonders irritierend daran ist, dass es sich nicht in bester Science-Fiction-Manier
+um eine ausbeuterische Zukunft mit KI-Oberherren und vollständig robotisierten Arbeitskräften in den Fabriken handelt, sondern
+um Ausbeutung im Kinderzimmer, im Wohnzimmer, zu Hause und
+in der Tasche, die von genau den gleichen Berechnungsmechanismen vorangetrieben wird. Und Menschen werden auf beiden Seiten
+der Gleichung degradiert: sowohl diejenigen, die, erstarrt und schockiert, die Videos anschauen, als auch diejenigen, die für einen Hungerlohn oder gänzlich unbezahlt, ausgebeutet oder missbraucht,
+diese Videos herstellen. Dazwischen sitzen überwiegend automa­
+tisierte Unternehmen, die sich den Gewinn von beiden Seiten sichern.
+Wo auch immer diese Videos produziert werden, auf welche
+Weise auch immer sie zustande kommen und was auch immer ihre
+bewussten Absichten sind, so werden sie von einem System aus­
+gebrütet, das bewusst darauf ausgerichtet ist, Kindern Videos zum
+Zwecke des Profits zu zeigen. Die unbewusst generierten jüngsten
+Ergebnisse davon sind allerorten zu besichtigen.
+Kinder diesem Content auszusetzen ist Missbrauch. Es geht dabei
+nicht um die umstrittenen, aber zweifellos realen Auswirkungen
+von Gewalt in Filmen oder in Videospielen auf junge Leute oder die
+Auswirkungen von Pornographie oder extremen Bildern auf den
+Geist junger Menschen. Das sind wichtige Debatten, aber sie stehen
+hier überhaupt nicht zur Diskussion. Auf YouTube geht es um ganz
+kleine Kinder, im Grunde von Geburt an, die bewusst und ziel­
+
+59
+
+ gerichtet mit Inhalt konfrontiert werden, der sie traumatisieren und
+verstören wird, und zwar über Netzwerke, die für genau diese Form
+von Missbrauch extrem anfällig sind. Es geht nicht um Absicht,
+sondern um eine Form von Gewalt, die der Kombination von digitalen Systemen und kapitalistischen Anreizen innewohnt.
+Das System macht sich mitschuldig an diesem Missbrauch, und
+YouTube und Google sind an diesem System beteiligt. Die Architektur, die sie geschaffen haben, um mit Onlinevideos maximale
+Einnahmen zu erzielen, wird von unbekannten Personen gehackt,
+um Kinder zu missbrauchen – vielleicht nicht einmal bewusst, aber
+dafür massenhaft. Die Besitzer dieser Plattformen tragen eine absolute Verantwortung, wie sie damit umgehen, so wie sie eine Verantwortung dafür haben, wie sie mit der Radikalisierung (überwiegend)
+junger (überwiegend) Männer durch extremistische Videos – jeg­
+licher politischer Couleur – umgehen. Bislang haben sie keinerlei
+Neigung erkennen lassen, sich darum zu kümmern, was erbärmlich, aber traurigerweise nicht wirklich überraschend ist. Doch auf
+die Frage, wie sie reagieren können, ohne die Dienste selbst und
+viele der Systeme, die ihnen ähneln, ganz dicht zu machen, gibt es
+keine einfache Antwort.
+Wir leben in einer zutiefst finsteren Zeit, in der die Strukturen,
+die wir errichtet haben, um die Sphäre unserer Kommunikation und
+unserer Diskurse zu erweitern, auf systematische und automa­
+tisierte Weise gegen uns – gegen uns alle – verwendet werden. Es
+ist schwer, dem Netzwerk zu vertrauen, wenn es derartige Schre­
+ckensbilder produziert. Zwar ist es verführerisch, die übleren Fälle
+bei YouTube als Produkte von Trollen abzutun (wobei das für eine
+beträchtliche Zahl sicherlich zutrifft), doch erklärt das nicht das
+schiere Volumen an Content, der in eine besonders groteske Richtung zielt. Das Ganze birgt viele und auf komplexe Weise miteinander verflochtene Gefahren, darunter die, dass solche Fälle als Rechtfertigung für eine verstärkte Kontrolle des Internets, umfassende
+Zensur, Überwachung und Einschränkungen der Meinungsfreiheit
+genutzt werden. Insofern spiegelt die Krise der Kinder bei YouTube
+die umfassendere kognitive Krise wider, die durch automatisierte
+
+60
+
+ Systeme, schwache maschinelle Intelligenz, soziale und wissenschaftliche Netzwerke sowie die allgemeinere Kultur erzeugt wird –
+mit dem entsprechenden Gefüge aus billigen Sündenböcken und
+nebulöseren, verflochtenen Substrukturen.
+(...)
+Wie schon bei der US-Wahl richtete sich das Augenmerk erneut
+auf Russland. Bei Nachforschungen stellte sich heraus, dass die
+«Agentur für Internet-Forschung» an einem Twitter-Gewitter zum
+Brexit beteiligt war, und zwar in der typisch spalterischen Manier.
+Ein ­Account, der angeblich einem texanischen Republikaner gehörte, aber wegen Verbindungen zur Agentur von Twitter gelöscht
+wurde, setzte etwa folgende Tweets ab: «Ich hoffe, Großbritannien
+wird nach dem #BrexitVote damit beginnen, das Land von der muslimischen Invasion zu säubern!» Und: «Großbritannien hat dafür
+gestimmt, das künftige europäische Kalifat zu verlassen! #BrexitVote.» Der gleiche Account war zuvor schon auf den Titelseiten der
+Boulevardpresse aufgetaucht, weil er Bilder postete, auf denen angeblich eine Muslima zu sehen war, die Opfer eines Terroranschlags
+in London ignorierte.28
+Neben den 419 Accounts, die als aktiv zur Agentur gehörig identifiziert wurden, waren unzählige weitere automatisiert. Ein Jahr
+nach dem Referendum fand ein weiterer Bericht heraus, dass ein
+Netzwerk aus mehr als 13 000 automatisierten Accounts auf beiden
+Seiten der Debatte getwittert hatte – dabei wurden jedoch ProLeave-Inhalte mit achtmal höherer Wahrscheinlichkeit propagiert
+als Pro-Remain-Content.29 Alle 13 000 Accounts wurden von Twitter in den Monaten nach dem Referendum gelöscht, doch ihre Herkunft ist nach wie vor unbekannt. Glaubt man anderen Accounts,
+so war ein Fünftel aller Online-Debatten im Umfeld des amerika­
+nischen Präsidentschaftswahlkampfs 2016 automatisiert, und die
+Aktivitäten der Bots beeinflussten nachweislich die öffentliche
+­
+Meinung.30 Irgendetwas läuft zutiefst falsch in der Demokratie,
+wenn eine ungeheuer große Zahl derjenigen, die sich an ihren Debatten beteiligen, gar nicht zurechenbar und nicht aufzuspüren
+sind, wenn wir nicht wissen können, wer oder auch nur was sie
+
+61
+
+ sind. Ihre Motive und ihre Herkunft liegen völlig im Dunkeln, obwohl ihre Auswirkungen auf die Gesellschaft exponentiell zunehmen. Die Bots sind heute überall.
+Im Sommer 2015 wurde AshleyMadison.com, eine Dating-Website für Verheiratete, die eine Affäre suchen, gehackt, und die Details von 37 Millionen Mitgliedern waren im Internet offen einsehbar. Wühlte man sich durch die ungeheuren Datenmengen an freizügigen Botschaften zwischen den Nutzern der Seite, wurde rasch
+deutlich, dass für eine Seite, die Männer und Frauen direkt miteinander in Kontakt zu bringen versprach – und den Premiummitgliedern sogar eine Affäre garantierte –, eine enorme Diskrepanz zwischen den Geschlechtern herrschte. Von diesen 37 Millionen Nutzern waren lediglich fünf Millionen Frauen, und die meisten von
+ihnen hatten nur einen Account angelegt und sich nie wieder eingeloggt. Ausnahme war eine ungeheuer aktive Kohorte von rund
+70 000 weiblichen A
+­ ccounts, die Ashley Madison als «Engel» bezeichnet. Die Engel waren diejenigen, die von sich aus Kontakt mit
+Männern suchten – die dafür bezahlen mussten, wenn sie auf die
+Anfragen antworten wollten – und über Monate Konversationen
+aufrechterhielten, damit die Männer immer wieder zurückkamen
+und mehr bezahlten. Selbstverständlich waren die Engel vollständig
+automatisiert.31 Ashley Madison bezahlte Dritte dafür, dass sie in
+31 verschiedenen Sprachen Millionen falscher Profile anlegten und
+ein ausgeklügeltes System schufen, um diese Profile zu verwalten
+und am Leben zu halten. ­Einige Männer gaben auf der Seite Tausende von Dollar aus – und manche hatten am Ende sogar eine Affäre. Doch die große Mehrheit verbrachte schlicht Jahre damit, freizügige und fruchtlose Gespräche mit Software zu führen. Wir haben
+es hier mit einer weiteren Version der Automatisierung einer Dystopie zu tun: eine soziale Seite, auf der es unmöglich ist, sozial zu
+sein, auf der die Hälfte der Teilnehmer Schatten sind und Partizipation nur über Bezahlung möglich ist. Diejenigen, die dem System
+ausgesetzt waren, konnten unmöglich wissen, was da vor sich ging,
+abgesehen von dem Verdacht, dass hier irgendetwas nicht stimmte.
+Und es war unmöglich, diesem Verdacht nachzugehen, ohne die
+
+62
+
+ Fantasie zu zerstören, auf der das gesamte Unternehmen gründete.
+Der Zusammenbruch der Infrastruktur – der Hack – offenbarte, wie
+bankrott das Ganze war, aber das war in der technologischen Rahmung eines Missbrauchssystems bereits explizit deutlich geworden.
+Als ich erstmals meine Nachforschungen zur Befremdlichkeit
+und zur Gewalt der YouTube-Videos für Kinder veröffentlichte, bekam ich eine ganze Flut an Nachrichten und E-Mails von Fremden,
+die alle glaubten, sie wüssten, woher die Videos stammten. Einige
+hatten Monate damit verbracht, Websitebetreiber und IP-Adressen
+quer durchs Netz zu verfolgen. Andere hatten die Schauplätze von
+Live-Videos mit dokumentierten Missbrauchsfällen abgeglichen.
+Die Videos stammten aus Indien, aus Malaysia, aus Pakistan (sie
+­kamen immer anderswoher). Sie waren die Grooming-Instrumente
+einer internationalen Bande von Pädophilen. Sie waren das Produkt
+dieser einen Firma. Sie waren der Output einer Schurken-KI. Sie waren Teil eines konzertierten, internationalen und staatlich gestützten Plans, die westliche Jugend zu verderben. Einige der E-Mails
+stammten von Spinnern, einige von eifrigen Rechercheuren; alle
+glaubten, sie hätten irgendwie den Code geknackt. Die meisten
+­ihrer Einschätzungen waren im Hinblick auf irgendeinen Teilbereich
+oder einen bestimmten Aspekt der Videos überzeugend; doch alle
+scheiterten völlig, wenn es um eine Gesamtbetrachtung ging.
+Die Brexit-Kampagne, die amerikanische Präsidentschaftswahl
+und die irritierenden Untiefen von YouTube haben eines gemeinsam: Trotz vielfältiger Mutmaßungen ist es letztlich unmöglich, genau zu sagen, wer was tut oder welche Motive und Absichten dahinterstecken. Schaut man sich unablässig Streamingvideos an und
+scrollt man sich durch ganze Wände an Statusupdates und Tweets,
+ist es vergebliche Mühe, unterscheiden zu wollen, ob es sich hier
+um algorithmisch erzeugten Nonsens oder um sorgfältig hergestellte Fake News zur Generierung von Werbeeinnahmen handelt;
+um paranoide Fiktion, staatliches Handeln, Propaganda oder Spam;
+um bewusste Desinformation oder wohlmeinenden Faktencheck.
+Diese Konfusion dient mit Sicherheit den Manipulationen von
+
+63
+
+ Agenten des Kremls genauso wie Pädophilen, aber sie geht doch
+weit über die Interessen irgendeiner speziellen Gruppe hinaus. Genauso verwirrend nämlich ist die Welt tatsächlich. Niemand hat
+entschieden, dass die Welt sich auf genau diese Weise entwickeln
+sollte – niemand wollte das New Dark Age –, aber wir haben es
+trotzdem geschaffen, und nun werden wir irgendwie darin leben
+müssen.
+
+ 

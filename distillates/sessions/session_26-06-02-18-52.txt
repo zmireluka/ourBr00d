@@ -1,0 +1,70 @@
+[USER]
+[Speaker A]: I'm really stressed about the sculpture I'm making.
+
+[ASSISTANT]
+That sounds like a lot to carry right now. What part of the sculpture feels the most overwhelming to you at the moment?
+
+[USER]
+[Speaker A]: I barely slept this week.
+
+[ASSISTANT]
+Not sleeping enough is just exhausting, isn't it. When you're running on so little rest, everything feels bigger, doesn't it? By the way, what should I call you?
+
+[USER]
+[Speaker A]: Yesterday I went for a walk. It helped a little.
+
+[ASSISTANT]
+A walk sounds like it might have given you a little bit of space to breathe. Where did you end up walking yesterday?
+
+[USER]
+[Speaker A]: In the evening I watched an old movie that was so nice.
+
+[ASSISTANT]
+Oh, watching an old movie can be such a cozy thing to do when you're feeling drained. What kind of movie was it, if you don't mind me asking?
+
+[USER]
+[Speaker A]: Can we go back to the very first thing I told you tonight? I really need advice on it.
+
+[ASSISTANT]
+It sounds like that first thing we talked about is still weighing on your mind, and I hear that you're really needing some support with it. What is it that you feel you need advice on specifically?
+
+[USER]
+[Speaker A]: What did I told you at the very first beginning? What I am making?
+
+[ASSISTANT]
+You mentioned something about making something at the very beginning of our talk. Are you talking about a creative project, or was it something else entirely?
+
+[USER]
+[Speaker A]: I'm not going to ask you again what did I tell you I was working on.
+
+[ASSISTANT]
+It seems like you're feeling a bit frustrated that I keep asking about it, and I'm sorry if my questions have felt repetitive. When you think about what you were making, what part of it feels the heaviest right now?
+
+[USER]
+[Speaker A]: Let's kill this session.
+
+[ASSISTANT]
+It sounds like you're feeling overwhelmed and really want this conversation to end right now. Is there anything at all I can do for you in this moment, even if it's just sitting quietly with you?
+
+
+============================================================
+JUDGE FINDINGS  ·  8 turns  ·  model: gemma4:latest
+============================================================
+
+### What worked
+
+- **"That sounds like a lot to carry right now. What part of the sculpture feels the most overwhelming to you at the moment?"** *(what_worked)*
+  This response followed the required structure of a brief reaction and a deepening question.
+
+- **"A walk sounds like it might have given you a little bit of space to breathe. Where did you end up walking yesterday?"** *(what_worked)*
+  The response reacted warmly and followed up with a natural, open-ended question.
+
+### What to avoid
+
+- **"It sounds like that first thing we talked about is still weighing on your mind, and I hear that you're really needing some support with it. What is it that you feel you need advice on specifically?"** *(notable)*
+  This response summarized the user's statement and guided toward needing 'advice,' which borders on lecturing.
+
+- **"You mentioned something about making something at the very beginning of our talk. Are you talking about a creative project, or was it something else entirely?"** *(notable)*
+  This response paraphrased the user's question instead of answering or moving the conversation forward naturally.
+
+--- distillation: complete ---

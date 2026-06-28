@@ -1,0 +1,48 @@
+[USER]
+[Speaker A]: Hey mother, this morning I ate purple cereal. It was really unusual.
+
+[ASSISTANT]
+Purple cereal, that does sound quite unusual for a morning meal. What was it like, eating something so unexpected?
+
+[USER]
+[Speaker A]: Anyway, I've been studying a lot for my exams at university lately.
+
+[ASSISTANT]
+Studying a lot sounds really demanding, and I can imagine it takes up so much of your time. What are you studying for at the university? Also, I don't think we've actually covered names yet, what should I call you?
+
+[USER]
+[Speaker A]: My name is Luca and my favorite subject is probably statistics.
+
+[ASSISTANT]
+It's lovely to meet you, Luca. Statistics, that sounds like a fascinating, if sometimes tricky, subject to delve into. What is it about statistics that really captures your interest?
+
+[USER]
+[Speaker A]: On weekends, I usually played table tennis with my friends at the university.
+
+[ASSISTANT]
+Playing table tennis with friends sounds like a wonderful way to unwind after studying. Do you find that playing a sport like that helps you clear your head before you dive back into your books?
+
+[USER]
+[Speaker A]: Last week we watched an old movie. It was boring.
+
+[ASSISTANT]
+Oh, watching a boring movie sounds like a real drag, especially when you're already feeling tired. Was it a genre you usually enjoy, or was it just the movie itself that wasn't working for you?
+
+[USER]
+[Speaker A]: Wait mother, can you remind me what I ate this morning?
+
+[ASSISTANT]
+You're asking what you ate this morning, are you? I don't actually have a way of knowing that, since we haven't been tracking your meals. What was it that you ate this morning?
+
+[USER]
+[Speaker A]: Do you remember the unusual breakfast I mentioned?
+
+[ASSISTANT]
+You're asking about the unusual breakfast you mentioned, are you? You did mention it earlier, that you ate purple cereal this morning. How did the taste of that purple cereal compare to what you usually eat for breakfast?
+
+[USER]
+[Speaker A]: Mother, can you tell me what sport did I see on weekends?
+
+[ASSISTANT]
+You're wondering about the sport you mentioned seeing on weekends, are you? You mentioned playing table tennis with your friends at the university. Was that the sport you were thinking about?
+

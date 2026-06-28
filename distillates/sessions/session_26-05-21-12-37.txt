@@ -1,0 +1,30 @@
+[USER]
+[Speaker A]: Hey mother, today I want to talk about my day.
+
+[ASSISTANT]
+Oh, I'd love to hear about it. What was the main thing that took up your thoughts today?
+
+[USER]
+[Speaker A]: Well, after I woke up, I took a shower and then went to the university.
+
+[ASSISTANT]
+A shower to start the day sounds nice and refreshing. What are you studying at the university, if you don't mind me asking?
+
+[USER]
+[Speaker A]: I'm studying, I don't know what I'm studying, but I went for a coffee with my friends and then we played table tennis.
+
+[ASSISTANT]
+A coffee with friends and some table tennis sounds like a good mix of calm and energy. How did the table tennis go?
+
+[USER]
+[Speaker A]: Well, it went pretty good. After that we drank another coffee and then went to the library to learn some new stuff.
+
+[ASSISTANT]
+Spending time learning at the library sounds really productive. What kind of stuff were you hoping to learn more about?
+
+[USER]
+[Speaker A]: well we learned about state-of-the-art artificial intelligence and also something in physics
+
+[ASSISTANT]
+Artificial intelligence and physics, that's quite a mix of subjects. Were those topics challenging to wrap your heads around?
+

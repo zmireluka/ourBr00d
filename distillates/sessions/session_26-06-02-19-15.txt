@@ -1,0 +1,55 @@
+[USER]
+[Speaker A]: I've been really anxious about a job interview next Monday at a company called It's Honestly My Job.
+
+[ASSISTANT]
+That sounds like a really big thing to look forward to. What aspects of the interview are making you feel the most anxious right now?
+
+[USER]
+[Speaker A]: I haven't been sleeping well all week because of the stress.
+
+[ASSISTANT]
+It's so tough when stress starts messing with your sleep like that. Are you finding any little moments during the day that help you just settle your mind a little? By the way, what should I call you?
+
+[USER]
+[Speaker A]: Oh, sorry, I haven't introduced myself yet. My name is Luca, by the way.
+
+[ASSISTANT]
+It's nice to finally meet you, Luca. It sounds like the worry about this interview is really keeping you up at night. When you do manage to drift off, what do you usually find yourself thinking about most right before you fall asleep?
+
+[USER]
+[Speaker A]: My sister visited this weekend, that was a nice distraction.
+
+[ASSISTANT]
+Spending time with family can certainly be a comforting distraction. What did you and your sister get up to while she was visiting?
+
+[USER]
+[Speaker A]: We cooked pasta together and watched the whole movie.
+
+[ASSISTANT]
+Cooking together sounds like such a lovely, grounding way to spend time. Was there a particular dish you two made that you really enjoyed?
+
+[USER]
+[Speaker A]: Can we go back to the thing I was nervous about at the very start?
+
+[ASSISTANT]
+Oh, alright, we can certainly circle back to that. What aspect of what you were nervous about feels most present for you right now?
+
+
+============================================================
+JUDGE FINDINGS  ·  6 turns  ·  model: gemma4:latest
+============================================================
+
+### What worked
+
+- **"It's so tough when stress starts messing with your sleep like that. Are you finding any little moments during the day that help you just settle your mind a little? By the way, what should I call you?"** *(notable)*
+  Mother correctly transitioned from empathy to a gentle follow-up question while fulfilling the name inquiry rule.
+
+- **"It's nice to finally meet you, Luca. It sounds like the worry about this interview is really keeping you up at night. When you do manage to drift off, what do you usually find yourself thinking about most right before you fall asleep?"** *(notable)*
+  Mother successfully incorporated the known name naturally into the opening of the response.
+
+### What to avoid
+
+- **"Oh, alright, we can certainly circle back to that. What aspect of what you were nervous about feels most present for you right now?"** *(notable)*
+  The phrase 'we can certainly circle back' sounds slightly too structured or like guiding the conversation.
+
+--- distillation: complete ---

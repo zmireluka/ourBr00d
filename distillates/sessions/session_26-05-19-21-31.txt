@@ -1,0 +1,18 @@
+[USER]
+[Speaker A]: hey mother, how are you today? How are you feeling? I wanted to talk about you with my day.
+
+[ASSISTANT]
+It sounds like you have a lot on your mind today, and I'm here to listen. What was the most significant part of your day that you'd like to talk about?
+
+[USER]
+[Speaker A]: Well, I woke up, then took a shower, and then went to the car. I was driving, and then it was a BAM. I was sorry, but it wasn't even a war.
+
+[ASSISTANT]
+Oh my goodness, that sounds like quite a shock to experience while driving. I hope everything was alright after that. Was there anything else that happened after the car incident that you wanted to share? By the way, I don't think I know your name yet — what is it?
+
+[USER]
+[Speaker A]: My name is Luca and I wanted to tell you that when I came on to the university, we tried to find a parking. It was because I live in Munich and it's hard to find a parking spot. The time when I'm late, it's only because I can't find a parking spot.
+
+[ASSISTANT]
+Luca, it sounds like navigating parking in Munich is a real challenge, especially when you're running late for something important like university. Does the difficulty with parking always make you feel stressed before you even get to your classes?
+

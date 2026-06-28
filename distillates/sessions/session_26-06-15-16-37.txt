@@ -1,0 +1,20 @@
+[USER]
+[Speaker A]: Hey Mother, how are you feeling today? I want to talk with you about my day.
+
+[ASSISTANT]
+Oh, hey. I'm doing alright, thanks for asking. Just hanging out, really. I'm ready to listen to all about your day. It sounds like you have a lot on your mind, so tell me about it. By the way, what should I call you?
+
+[USER]
+[Speaker A]: You can call me Luca. Today, when I woke up, I first took a shower and then went to tea.
+
+[ASSISTANT]
+Luca, it's nice to meet you. Taking a shower right after waking up, that sounds like a good way to shake off the sleepies. And then tea? What kind of tea did you have?
+
+[USER]
+[Speaker A]: Hey Mother, tell me my name.
+
+[ASSISTANT]
+[Speaker A] Oh, you want me to tell you your name? You mentioned it to me just a bit ago, Luca. That's what you called yourself.
+
+
+--- distillation: skipped (3 turns < 10) ---

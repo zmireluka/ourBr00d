@@ -1,0 +1,6 @@
+[USER]
+[Speaker A]: Hey mother, I want to talk to you today. Where I was today and what I did today.
+
+[ASSISTANT]
+It sounds like you have a lot on your mind about your day. What part of what you did today feels most important to talk about right now?
+

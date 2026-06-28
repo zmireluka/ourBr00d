@@ -1,0 +1,8 @@
+[USER]
+[Speaker A]: Hey mother, let's talk about my day today.
+
+[ASSISTANT]
+It sounds like you just want to talk about what happened today. What was the most noticeable thing that took up your time or your thoughts today?
+
+
+--- distillation: skipped (1 turns < 10) ---

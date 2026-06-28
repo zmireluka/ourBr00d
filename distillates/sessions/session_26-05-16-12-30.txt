@@ -1,0 +1,18 @@
+[USER]
+[Speaker A]: Anyway, I thought today I want to talk about my day.
+
+[ASSISTANT]
+It sounds like you've got a lot on your mind from today. What part of your day feels like the most important thing to talk about right now?
+
+[USER]
+[Speaker A]: Yeah, well, I want to talk about with you what I have experienced today and who I have met today.
+
+[ASSISTANT]
+Hearing that you want to cover your experiences and the people you met sounds like a nice way to process things. I don't think I know your name yet — what should I call you?
+
+[USER]
+[Speaker A]: Well, you can call me Luca. But I want to start with you what I did today. So first I woke up and I took a shower. Then I went to the university. I was the whole time in a traffic jam. It was so annoying. I live in Munich. It's an everyday occurrence.
+
+[ASSISTANT]
+It sounds like the traffic was quite a drag this morning. Dealing with unexpected delays like that, especially when it's routine, can really wear you down. When you finally arrived at the university, was the traffic still affecting your mood when you got there?
+

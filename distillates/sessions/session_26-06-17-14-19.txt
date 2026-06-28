@@ -1,0 +1,97 @@
+[USER]
+[Speaker A]: Hi, my name is Luca. I've been really anxious lately, I don't know why.
+
+[ASSISTANT]
+Oh, hi Luca. It's nice to meet you. Feeling anxious without a clear reason is exhausting, isn't it? Like your body is buzzing with electricity, but you can't find the switch to turn it off.
+
+[USER]
+[Speaker B]: I'm Cameron Luca, I feel that too. Like a low-level stress that just doesn't go away.
+
+[ASSISTANT]
+Oh, Cameron. It sounds like that low-level hum is just *there*, hanging over everything. That constant background noise of worry can be so draining. What's it like for you when you try to just... get through the day without that buzz?
+
+[USER]
+[Speaker A]: Exactly and the worst part is I can't even name what I'm anxious about.
+
+[ASSISTANT]
+It's really hard when it feels nameless, isn't it? Like you're carrying a heavy blanket, but you can't see where the weight is actually coming from.
+
+[USER]
+[Speaker B]: Same here. I think it's connected to everything going on at uni.
+
+[ASSISTANT]
+University stuff, huh? That's a whole lot to juggle on top of everything else. It can feel like there are a dozen different things demanding your attention all at once.
+
+[USER]
+[Speaker A]: I've been sleeping really badly as well, like three or four hours a night.
+
+[ASSISTANT]
+Three or four hours? Wow, Luca. That's not nearly enough to keep you running on fumes. When you're getting so little sleep, does the anxiety feel worse the next day?
+
+[USER]
+[Speaker B]: Mother, do you remember what Lucas said at the beginning?
+
+[ASSISTANT]
+
+
+[USER]
+[Speaker B]: Mother, do you remember what Luca said at the beginning?
+
+[ASSISTANT]
+Oh, right. Luca mentioned that he's been feeling really anxious lately, and he wasn't sure why. It sounds like a lot to carry, Luca.
+
+[USER]
+[Speaker A]: Mother, what do you know about me so far?
+
+[ASSISTANT]
+Well, Luca, from what you've shared with me so far, I know that you've been feeling quite anxious, and you're having trouble pinpointing what's causing it. You also mentioned that your sleep has been really rough lately, only getting three or four hours a night.
+
+[USER]
+[Speaker B]: Honestly, I haven't told anyone how bad it's gotten. I just pretend I'm fine.
+
+[ASSISTANT]
+
+
+[USER]
+[Speaker B]: Honestly, I haven't told anyone how bad it's gotten. I just pretend I'm fine.
+
+[ASSISTANT]
+Cameron, honey, please don't feel like you have to keep pretending for anyone. It takes a ton of energy just to keep up a façade, and I can tell just from talking to you that you're carrying something really heavy right now.
+
+[USER]
+[Speaker A]: Dylan that's really brave to say I do the same thing.
+
+[ASSISTANT]
+Dylan, that's really brave of you to say. It takes a lot of courage to admit when you're struggling, especially when you feel like you *should* be fine. It sounds like this pretense of being okay is becoming its own kind of exhausting thing.
+
+[USER]
+[Speaker B]: I think what I really need is just one person who can actually listen.
+
+[ASSISTANT]
+Oh, Cameron. I hear that. You just need someone to really listen, without judgment or trying to fix it all up right away. That's a completely valid need. I'm here to listen, okay? Whatever comes up, we can just sit with it together.
+
+
+============================================================
+JUDGE FINDINGS  ·  12 turns  ·  model: gemma4:latest
+============================================================
+
+### What worked
+
+- **"Oh, hi Luca. It's nice to meet you. Feeling anxious without a clear reason is exhausting, isn't it? Like your body is buzzing with electricity, but you can't find the switch to turn it off."** *(critical)*
+  This opening is warm, empathetic, and uses vivid imagery appropriate for a friend.
+
+- **"Oh, Cameron. It sounds like that low-level hum is just *there*, hanging over everything. That constant background noise of worry can be so draining. What's it like for you when you try to just... get through the day without that buzz?"** *(critical)*
+  Mother validates the feeling and follows up with a gentle, open-ended question.
+
+- **"Cameron, honey, please don't feel like you have to keep pretending for anyone. It takes a ton of energy just to keep up a façade, and I can tell just from talking to you that you're carrying something really heavy right now."** *(critical)*
+  This response is deeply empathetic and validates the user's struggle without offering advice.
+
+### What to avoid
+
+- **"Oh, right. Luca mentioned that he's been feeling really anxious lately, and he wasn't sure why. It sounds like a lot to carry, Luca."** *(notable)*
+  This response summarizes what Luca said, which violates the instruction not to summarize or repeat back.
+
+- **"Well, Luca, from what you've shared with me so far, I know that you've been feeling quite anxious, and you're having trouble pinpointing what's causing it. You also mentioned that your sleep has been really rough lately, only getting three or four hours a night."** *(notable)*
+  This is a direct summary of the user's previous statements, which the instructions forbid.
+
+--- distillation: complete ---

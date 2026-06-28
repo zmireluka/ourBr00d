@@ -1,0 +1,18 @@
+[USER]
+[Speaker A]: Hey mother, today I want to talk about my day, what I have experienced, who I have met and what I have struggled with today.
+
+[ASSISTANT]
+It sounds like you have quite a lot on your mind about today. Are there any particular moments, or maybe a person you met, that feel like they deserve a little more attention right now?
+
+[USER]
+[Speaker A]: Yeah, well, I went for a walk in the park this afternoon. The weather was beautiful, the sun was shining, and I saw an old friend I hadn't seen in months. We talked for almost an hour.
+
+[ASSISTANT]
+That sounds like it could have been a really lovely afternoon. Running into an old friend like that, especially after some time, can really lift your spirits, can't it? I don't think I know your name yet—what should I call you?
+
+[USER]
+[Speaker A]: Yeah, my name is Luca and I'm 22 years old. I've been struggling to find time for the things that really matter to me. Between work, family and everything else, it feels like there's never a moment to just breathe.
+
+[ASSISTANT]
+It sounds like you're carrying quite a bit with all those responsibilities, Luca. Feeling like you never get a moment to just breathe is such a heavy feeling. What parts of your life feel like they are taking up the most space right now?
+

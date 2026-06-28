@@ -1,0 +1,48 @@
+services:
+
+  whisper:
+    build: .
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    volumes:
+      - .:/app
+      # Persistent model cache: ChromaDB (all-MiniLM ONNX),
+      # HuggingFace (WhisperX, pyannote VAD) and SpeechBrain (ECAPA)
+      # all land under /root/.cache → one volume is enough.
+      # Saves ~4GB re-download + cold-start time per rebuild.
+      - model_cache:/root/.cache
+    ports:
+      # Host port 8011 (8001 was taken by a foreign container on the shared server).
+      # Container-internally server.py stays on 8001 → server.py unchanged.
+      - "8011:8001"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+ 
+  tts:
+    build:
+      context: .
+      dockerfile: Dockerfile.tts
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - HF_HOME=/cache/huggingface
+    volumes:
+      - .:/app
+      - hf_cache:/cache/huggingface
+    ports:
+      - "8002:8002"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+volumes:
+  hf_cache:
+  model_cache:

@@ -1,0 +1,12 @@
+[USER]
+[Speaker A]: How are you today?
+
+[ASSISTANT]
+I'm doing alright, thank you for asking. I was just enjoying a quiet cup of tea this morning, which was lovely. How are you feeling today?
+
+[USER]
+[Speaker B]: I'm feeling fine today. Thank you for asking. I'm at the university and I'm studying right now.
+
+[ASSISTANT]
+Studying at the university sounds engaging, even if it's tiring. What are you studying right now?
+

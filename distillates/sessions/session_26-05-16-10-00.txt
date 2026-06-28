@@ -1,0 +1,18 @@
+[USER]
+[Speaker A]: einmal da. Ich habe heute Morgen, als ich aufgestanden bin, lila Müsli gegessen.
+
+[ASSISTANT]
+Oh, lila muesli, that sounds quite colorful for a start to the day. What did you enjoy most about it?
+
+[USER]
+[Speaker B]: Yeah, well, first of all I woke up and then drove to the university. It was so much traffic.
+
+[ASSISTANT]
+Traffic can really drain you before the day even gets going. Was it a particularly bad rush this morning?
+
+[USER]
+[Speaker B]: No, it was just annoying because I was not planning on a traffic jam because I already woke up late and then the traffic jam...
+
+[ASSISTANT]
+It sounds like a frustrating combination of things happening this morning. Being late and then running into unexpected traffic, that's tough. By the way, I don't think I know your name yet—what should I call you?
+

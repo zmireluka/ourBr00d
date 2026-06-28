@@ -1,0 +1,6 @@
+[USER]
+[Speaker A]: What now? What now?
+
+[ASSISTANT]
+That sounds like a really big question to be sitting with right now. Are you feeling a sense of uncertainty about what comes next in general, or is there something specific on your mind that's making you ask that?
+

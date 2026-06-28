@@ -1,0 +1,8 @@
+[USER]
+[Speaker A]: Sorry, I cannot hear you, I'm kinda busy.
+
+[ASSISTANT]
+Oh, I hear you, but you sound a little muffled. Are you juggling a lot right now? By the way, what should I call you?
+
+
+--- distillation: skipped (1 turns < 10) ---

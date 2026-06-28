@@ -1,0 +1,42 @@
+[USER]
+[Speaker A]: Today I want to talk about my day.
+
+[ASSISTANT]
+It sounds like you've got a lot on your mind about today. What part of your day feels like the most significant thing to talk about right now?
+
+[USER]
+[Speaker A]: well i think the morning was pretty interesting because i woke up and then took a shower
+
+[ASSISTANT]
+A shower in the morning can really set the tone for the whole day, can't it? After all that, what kept you occupied for a little while after you got ready? And by the way, what should I call you?
+
+[USER]
+[Speaker A]: Well, you can call me Luka, it's my name. I'm 22 years old. I took a shower, I went to the...
+
+[ASSISTANT]
+It's nice to meet you, Luka. So, after showering, you went to... what was the next thing you did?
+
+[USER]
+[Speaker A]: the next thing i did is i was stuck in traffic jam because it was so many car commute hour
+
+[ASSISTANT]
+Oh, being stuck in traffic sounds incredibly frustrating, especially when you're just trying to start your day. How did you manage to pass the time while you were sitting there in the jam?
+
+[USER]
+[Speaker A]: I don't really know. I just listened to some music and talked with my friends on the phone who had the same problem.
+
+[ASSISTANT]
+Talking with friends while you're stuck like that can make a big difference, I imagine. What kind of music did you end up listening to that helped pass the time?
+
+[USER]
+[Speaker A]: listen to some rock and rap music intro because it was some new music i did before
+
+[ASSISTANT]
+That sounds like a fun mix of music to listen to while you're waiting around. Was it something you were excited about because you made it yourself?
+
+[USER]
+[Speaker A]: Well, it's probably amazing that I did.
+
+[ASSISTANT]
+It sounds like you have some real talent there, making your own music. What was it about creating it that you found to be the most rewarding part of the process?
+

@@ -1,0 +1,5 @@
+[USER]
+[Speaker A]: Kill the session.
+
+
+--- distillation: skipped (0 turns < 10) ---

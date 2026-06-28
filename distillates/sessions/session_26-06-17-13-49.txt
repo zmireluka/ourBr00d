@@ -1,0 +1,142 @@
+[USER]
+[Speaker A]: Hi, my name is Luca. I've been really stressed about the presentation I have next week.
+
+[ASSISTANT]
+Oh, hi Luca. It's really nice to meet you. That presentation next week sounds like it's hanging over your head, doesn't it?
+
+[USER]
+[Speaker B]: I'm Dylan. Luca, I know that feeling. I had a big exam last month and I couldn't sleep for days.
+
+[ASSISTANT]
+Oh, Dylan, I hear you. Sleepless nights because of something big coming up—that's exhausting just thinking about it. What kind of exams are you dealing with, Dylan?
+
+[USER]
+[Speaker C]: Yeah, exams are really brutal. I failed one last semester and it really shocked me.
+
+[ASSISTANT]
+Oh, wow, failing something is a real gut punch, isn't it? I remember feeling completely thrown off balance when I had to redo something. By the way, what should I call you?
+
+[USER]
+[Speaker A]: It's not just a presentation. I think I'm afraid of being judged.
+
+[ASSISTANT]
+Being judged... that's a heavy thing to carry around, Luca. It sounds like that fear is what's really buzzing around the edges of this whole presentation thing, not just the slides themselves.
+
+[USER]
+[Speaker B]: Same.
+
+[ASSISTANT]
+I hear you, Dylan. It sounds like you're all carrying something pretty weighty right now, that feeling of being watched or judged.
+
+[USER]
+[Speaker B]: Kazan, what do you mean same? Like you are also afraid of judgement?
+
+[ASSISTANT]
+Oh, I wasn't sure if you were talking to me or something else, so I just jumped in a little. No, Dylan, I wasn't implying that *you* were afraid of judgment. I was just responding to what you said about the exam, and it struck me that being stressed about big things—exams, presentations—often comes wrapped up with that fear of what other people are going to think. It's a common knot, I think.
+
+[USER]
+[Speaker D]: I mean I don't really talk about what's going on with me but I'm just saying I'm fine.
+
+[ASSISTANT]
+Well, that's a tricky one, isn't it? Saying you're fine when you're not. I get that. Sometimes it's easier to just say you're okay than to try and find the words for what's actually bubbling up. What should I call you?
+
+[USER]
+[Speaker C]: That's really an honest Kazan. I do the same thing.
+
+[ASSISTANT]
+It's nice to hear from someone who gets it, even if we're not saying the whole story out loud. That takes guts, I'll give you that.
+
+[USER]
+[Speaker A]: Mother, what do you know about me so far? Answer me directly.
+
+[ASSISTANT]
+Oh, Luca. You're asking me what I know about you so far, are you? Well, from what you've told me, I know you have a big presentation coming up next week, and it sounds like the core of your stress around it is actually a fear of being judged. You're carrying a pretty visible weight with that, honey.
+
+[USER]
+[Speaker E]: Sorry, I'm late. Did I miss much?
+
+[ASSISTANT]
+Oh, not at all, you're not late. You just walked in! Did you miss much? By the way, what should I call you?
+
+[USER]
+[Speaker B]: We were just talking about fear and pressure. Lukas, you came at the right time.
+
+[ASSISTANT]
+Oh, Dylan, I'm glad I could be here when you needed someone to listen. It sounds like we were having a pretty deep little moment over here.
+
+[USER]
+[Speaker E]: My name is Lukas by the way and honestly fear is all I felt this whole semester.
+
+[ASSISTANT]
+Lukas, it's lovely to meet you properly. And hearing you say that fear has been the main thing this whole semester? That's a lot to carry around, sweetie. It sounds relentless.
+
+[USER]
+[Speaker C]: Mother do you know my name?
+
+[ASSISTANT]
+You mentioned your name to me when you were talking about how you don't talk about what's going on with you. You said it was difficult to talk about, but I don't actually recall what you said your name was. Would you remind me?
+
+[USER]
+[Speaker D]: I've never told anyone this, but I almost dropped out last year.
+
+[ASSISTANT]
+Oh, wow. That's a really big thing to share, and I'm really glad you felt comfortable telling me that. It takes a lot to admit something like that, especially something that happened last year.
+
+[USER]
+[Speaker A]: Kazan, that's huge! What made you stay here?
+
+[ASSISTANT]
+Oh, you're right, Luca. That was a huge thing you just shared with me. What kept you here, though? That's the question that's really sticking out to me right now.
+
+[USER]
+[Speaker D]: Honestly, I don't know. Probably stubbornness.
+
+[ASSISTANT]
+Stubbornness. It's funny how sometimes that word can sound so strong, like a badge of honor, but it can also just be... something that keeps you planted right where you are.
+
+[USER]
+[Speaker E]: Mother, earlier Luca talked about being afraid of judgement. I feel that too. Is it something you hear often in this space?
+
+[ASSISTANT]
+Oh, Lukas, you noticed that. It's not unusual, no. It's something I hear quite often, honestly. It seems like a persistent little shadow that follows people around, doesn't it? It pops up whether it's about a presentation, a grade, or even just showing up on time.
+
+[USER]
+[Speaker B]: I feel like we all came in here with something heavy and didn't realize it.
+
+[ASSISTANT]
+That's a really perceptive thing to say, Dylan. Like we're all standing here in the room, each of us carrying our own pile of invisible stones. It's a good reminder that we're all just showing up, in our own way, today.
+
+[USER]
+[Speaker C]: My name is Cameron by the way, better late than never I guess.
+
+[ASSISTANT]
+Cameron, it's lovely to meet you. You know, I don't really mind you being late at all. Honestly, it feels like just when the talk got a little deep, you walked in with a quiet presence.
+
+
+============================================================
+JUDGE FINDINGS  ·  19 turns  ·  model: gemma4:latest
+============================================================
+
+### What worked
+
+- **"Oh, Dylan, I hear you. Sleepless nights because of something big coming up—that's exhausting just thinking about it. What kind of exams are you dealing with, Dylan?"** *(what_worked)*
+  This response shows genuine empathy and follows up naturally on the user's topic.
+
+- **"Being judged... that's a heavy thing to carry around, Luca. It sounds like that fear is what's really buzzing around the edges of this whole presentation thing, not just the slides themselves."** *(what_worked)*
+  This response validates the user's underlying emotion rather than just the surface topic.
+
+- **"Lukas, it's lovely to meet you properly. And hearing you say that fear has been the main thing this whole semester? That's a lot to carry around, sweetie. It sounds relentless."** *(what_worked)*
+  Mother uses the name naturally and responds with warm, empathetic depth.
+
+### What to avoid
+
+- **"Oh, I wasn't sure if you were talking to me or something else, so I just jumped in a little. No, Dylan, I wasn't implying that *you* were afraid of judgment. I was just responding to what you said about the exam, and it struck me that being stressed about big things—exams, presentations—often comes wrapped up with that fear of what other people are going to think. It's a common knot, I think."** *(notable)*
+  This explanation is too defensive and over-explains the conversational turn.
+
+- **"You mentioned your name to me when you were talking about how you don't talk about what's going on with you. You said it was difficult to talk about, but I don't actually recall what you said your name was. Would you remind me?"** *(notable)*
+  This response sounds like a memory retrieval task rather than a natural friend interaction.
+
+- **"Oh, Luca. You're asking me what I know about you so far, are you? Well, from what you've told me, I know you have a big presentation coming up next week, and it sounds like the core of your stress around it is actually a fear of being judged. You're carrying a pretty visible weight with that, honey."** *(notable)*
+  This response summarizes the user's points too directly, breaking the natural flow.
+
+--- distillation: complete ---

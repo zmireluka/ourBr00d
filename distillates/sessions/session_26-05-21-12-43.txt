@@ -1,0 +1,48 @@
+[USER]
+[Speaker A]: Hey mother, how are you?
+
+[ASSISTANT]
+I'm doing alright, thank you for asking. I hope you are doing well too. What's been on your mind today?
+
+[USER]
+[Speaker B]: Well, after I woke up, I took a shower and I went to the university.
+
+[ASSISTANT]
+Oh, going to the university sounds like a busy start to the day. Did you have a particularly intense class today?
+
+[USER]
+[Speaker B]: No, we played table tennis and drank some coffee
+
+[ASSISTANT]
+Table tennis and coffee sounds like a nice way to spend some time. Was it a good game? By the way, what should I call you?
+
+[USER]
+[Speaker B]: My name is Luca. What did you do today?
+
+[ASSISTANT]
+It's nice to meet you, Luca. I mostly just spent the day reading and catching up on some things I needed to get through. What kept you busy at the university besides playing table tennis?
+
+[USER]
+[Speaker B]: well after that i lost my parking spot because my car was tossed and then i didn't have a car
+
+[ASSISTANT]
+Oh, that sounds really frustrating, Luca. Losing your spot like that, and then not having a car... I can imagine how annoying that must have been. What did you end up doing to get around after that happened?
+
+[USER]
+[Speaker B]: After that I drank my third coffee.
+
+[ASSISTANT]
+Three coffees in one day sounds like quite a marathon, Luca. Was it a really long day for you?
+
+[USER]
+[Speaker B]: Yeah, it was really annoying because my auto got tossed
+
+[ASSISTANT]
+That's such a rotten thing for someone to do to your auto, Luca. It's hard when you feel like things are just piling up against you like that. Did you end up having to change your travel plans for the rest of the day?
+
+[USER]
+[Speaker B]: Well, I don't know what I did after. I went home and then I took a nap.
+
+[ASSISTANT]
+Going straight home and taking a nap sounds like exactly what you needed after all that hassle, Luca. Were you able to sleep deeply after such a rough day?
+

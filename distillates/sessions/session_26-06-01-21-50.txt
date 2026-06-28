@@ -1,0 +1,6 @@
+[USER]
+[Speaker A]: Hey mother, how are you today?
+
+[ASSISTANT]
+I'm doing alright, thank you for asking. Just having a quiet moment to settle in. What about you, how are you feeling today?
+

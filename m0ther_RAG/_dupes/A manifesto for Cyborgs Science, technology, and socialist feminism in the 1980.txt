@@ -1,0 +1,1922 @@
+ARTICLES
+A Manifesto for Cyborgs: Science, Technology, and
+Socialist Feminism in the 1980s
+Donna Haraway
+An Ironic Dream of a, Common Language
+for Women in the Integrated Circuit
+
+T
+
+his essay is an effort to build an ironic political myth faithful
+to feminism, socialism, and materialism. Perhaps more
+faithful as blasphemy is faithful, than as reverent worship
+and identification. Blasphemy has always seemed to require
+taking things very seriously. I know no better stance to adopt from
+within the secular-religious, evangelical traditions of United States
+politics, including the politics of socialist-feminism. Blasphemy
+protects one from the moral majority within, while still insisting on
+the need for community. Blasphemy is not apostasy. Irony is about
+contradictions that do not resolve into larger wholes, even
+dialectically, about the tension of holding incompatible things
+together because both or all are necessary and true. Irony is about
+humor and serious play. It is also a rhetorical strategy and a political
+method, one I would like to see more honored within socialist
+feminism. At the center of my ironic faith, my blasphemy, is the image
+of the cyborg.
+A cyborg is a cybernetic organism, a hybrid of machine and
+organism, a creature of social reality as well as a creature of fiction.
+Social reality is lived social relations, our most important political
+AFS 4 Autumn 1987
+
+ 2
+
+DONNA HARAWAY
+
+construction, a world-changing fiction. The international women's
+movements have constructed 'women's experience', as well as
+uncovered or discovered this crucial collective object. This
+experience is a fiction and fact of the most crucial, political kind.
+Liberation rests on the construction of the consciousness, the
+imaginative apprehension, of oppression, and so of possibility. The
+cyborg is a matter of fiction and lived experience that changes what
+counts as women's experience in the late twentieth century. This
+is a struggle over life and death, but the boundary between science
+fiction and social reality is an optical illusion.
+Contemporary science fiction is full of cyborgs — creatures
+simultaneously animal and machine, who populate worlds
+ambiguously natural and crafted. Modern medicine is also full of
+cyborgs, of couplings between organism and machine, each
+conceived as coded devices, in an intimacy and with a power that
+was not generated in the history of sexuality. Cyborg 'sex' restores
+some of the lovely replicative baroque of ferns and invertebrates
+(such nice organic prophylactics against heterosexism). Cyborg
+replication is uncoupled from organic reproduction. Modern
+production seems like a dream of cyborg colonization of work, a
+dream that makes the nightmare of Taylorism seem idyllic. And
+modern war is a cyborg orgy, coded by C3I, command-controlcommunication-intelligence, an $84 billion item in 1984's U.S. defence
+budget. I am making an argument for the cyborg as a fiction
+mapping our social and bodily reality and as an imaginative resource
+suggesting some very fruitful couplings. Foucault's biopolitics is a
+flaccid premonition of cyborg politics, a very open field.
+*
+By the late twentieth century, our time, a mythic time, we are all
+chimeras, theorized and fabricated hybrids of machine and
+organism; in short, we are cyborgs. The cyborg is our ontology;
+it gives us our politics. The cyborg is a condensed image of both
+imagination and material reality, the two joined centers structuring
+any possibility of historical transformation. In the traditions of 'Western'
+science and politics — the tradition of racist, male-dominant
+capitalism; the tradition of progress; the tradition of the appropriation
+of nature as resource for the production of culture; the tradition of
+reproduction of the self from the reflections of the other — the relation
+between organism and machine has been a border war. The stakes
+
+ A MANIFESTO FOR CYBORGS
+
+3
+
+in the border war have been the territories of production,
+reproduction, and imagination. This essay is an argument for
+pleasure in the confusion of boundaries and for responsibility'^ their
+construction. It is also an effort to contribute to socialist-feminist
+culture and theory in a post-modernist, non-naturalist mode and in
+the Utopian tradition of imagining a world without gender, which is
+perhaps a world without genesis, but maybe also a world without
+end. The cyborg incarnation is outside salvation history.
+The cyborg is a creature in a post-gender world; it has no truck
+with bisexuality, pre-Oedipal symbiosis, unalienated labor, or other
+seductions to organic wholeness through a final appropriation of
+all the powers of the parts into a higher unity. In a sense, the cyborg
+has no origin story in the Western sense; a 'final' irony since the
+cyborg is also the awful apocalyptic telos of the 'West's' escalating
+dominations of abstract individuation, an ultimate self untied at last
+from all dependency, a man in space. An origin story in the 'Western',
+humanist sense depends on the myth of original unity, fullness, bliss
+and terror, represented by the phallic mother from whom all humans
+must separate, the task of individual development and of history,
+the twin potent myths inscribed most powerfully for us in psychoanalysis and Marxism. Hilary Klein has argued that both Marxism
+and psychoanalysis, in their concepts of labor and of individuation
+and gender formation, depend on the plot of original unity out of
+which difference must be produced and enlisted in a drama of
+escalating domination of woman/nature. The cyborg skips the step
+of original unity, of identification with nature in the Western sense.
+This is its illegitimate promise that might lead to subversion of its
+teleology as star wars.
+The cyborg is resolutely committed to partiality, irony, intimacy,
+and perversity. It is oppositional, Utopian, and completely without
+innocence. No longer structured by the polarity of public and private,
+the cyborg defines a technological polis based partly on a revolution
+of social relations in the oikos, the household. Nature and culture
+are reworked; the one can no longer be the resource for appropriation or incorporation by the other. The relationships for forming
+wholes from parts, including those of polarity and hierarchical
+domination, are at issue in the cyborg world. Unlike the hopes of
+Frankenstein's monster, the cyborg does not expect its father to save
+it through a restoration of the garden; i.e., through the fabrication
+
+ 4
+
+DONNA HARAWAY
+
+of a heterosexual mate, through its completion in a finished whole,
+a city and cosmos. The cyborg does not dream of community on
+the model of the organic family, this time without the Oedipal project.
+The cyborg would not recognize the Garden of Eden; it is not made
+of mud and cannot dream of returning to dust. Perhaps that is why
+I want to see if cyborgs can subvert the apocalypse of returning
+to nuclear dust in the manic compulsion to name the Enemy.
+Cyborgs are not reverent; they do not re-member the cosmos. They
+are wary of holism, but needy for connection — they seem to have
+a natural feel for united front politics, but without the vanguard party.
+The main trouble with cyborgs, of course, is that they are the
+illegitimate offspring of militarism and patriarchal capitalism, not to
+mention state socialism. But illegitimate offspring are often
+exceedingly unfaithful to their origins. Their fathers, after all, are
+inessential.
+I will return to the science fiction of cyborgs at the end of this essay,
+but now I want to signal three crucial boundary breakdowns that
+make the following political fictional (political scientific) analysis
+possible. By the late twentieth century in United States scientific
+culture, the boundary between human and animal is thoroughly
+breached. The last beachheads of uniqueness have been polluted
+if not turned into amusement parks — language, tool use, social
+behaviour, mental events, nothing really convincingly settles the
+separation of human and animal. And many people no longer feel
+the need of such a separation; indeed, many branches of feminist
+culture affirm the pleasure of connection of human and other living
+creatures. Movements for animal rights are not irrational denials of
+human uniqueness; they are clear-sighted recognition of connection
+across the discredited breach of nature and culture. Biology and
+evolutionary theory over the last two centuries have simultaneously
+produced modern organisms as objects of knowledge and reduced
+the line between humans and animals to a faint trace re-etched in
+ideological struggle or professional disputes between life and social
+sciences. Within this framework, teaching modern Christian
+creationism should be fought as a form of child abuse.
+Biological-determinist ideology is only one position opened up
+in scientific culture for arguing the meanings of human animality.
+There is much room for radical political people to contest for the
+meanings of the breached boundary.1 The cyborg appears in
+
+ A MANIFESTO FOR CYBORGS
+
+5
+
+myth precisely where the boundary between human and animal
+is transgressed. Far from signalling a walling off of people from other
+living beings, cyborgs signal disturbingly and pleasurably tight
+coupling. Bestiality has a new status in this cycle of marriage
+exchange.
+The second leaky distinction is between animal-human (organism)
+and machine. Pre-cybernetic machines could be haunted; there was
+always the specter of the ghost in the machine. This dualism
+structured the dialogue between materialism and idealism that was
+settled by a dialectical progeny, called spirit or history, according
+to taste. But basically machines were not self-moving; self-designing,
+autonomous. They could not achieve man's dream, only mock it.
+They were not man,-an author to himself, but only a caricature of
+that masculinist reproductive dream. To think they were otherwise
+was paranoid. Now we are not so sure. Late-twentieth-century
+machines have made thoroughly ambiguous the difference between
+natural and artificial, mind and body, self-developing and externallydesigned, and many other distinctions that used to apply to
+organisms and machines. Our machines are disturbingly lively, and
+we ourselves frighteningly inert.
+Technological determinism is only one ideological space opened
+up by the reconceptions of machine and organism as coded texts
+through which we engage in the play of writing and reading the
+world.2 'Textualization' of everything in post-structuralist, postmodernist theory has been dammed by Marxists and socialist
+feminists for its Utopian disregard for lived relations of domination
+that ground the 'play' of arbitrary reading.3* It is certainly true that
+post-modernist strategies, like my cyborg myth, subvert myriad
+organic wholes (e.g., the poem, the primitive culture, the biological
+organism). In short, the certainty of what counts as nature — a source
+of insight and a promise of innocence — is undermined, probably
+fatally. The transcendent authorization of interpretation is lost, and
+with it the ontology grounding 'Western' epistemology. But the
+alternative is not cynicism or faithlessness, i.e., some version of
+abstract existence, like the accounts of technological determinism
+destroying 'man' by the 'machine' or 'meaningful political action'
+by the 'text'. Who cyborgs will be is a radical question; the answers
+are a matter of survival. Both chimpanzees and artifacts have politics,
+so why shouldn't we?4
+* See over.
+
+ 6
+
+DONNA HARAWAY
+
+The third distinction is a subset of the second: the boundary
+between physical and non-physical is very imprecise for us. Pop
+physics books on the consequences of quantum theory and the
+indeterminacy principle are a kind of popular scientific equivalent
+to the Harlequin romances as a marker of radical change in
+American white heterosexuality: they get it wrong, but they are on
+the right subject. Modern machines are quintessential^ microelectronic devices: they are everywhere and they are invisible.
+Modern machinery is an irreverent upstart god, mocking the Father's
+ubiquity and spirituality. The silicon chip is a surface for writing; it
+is etched in molecular scales disturbed only by atomic noise, the
+ultimate interference for nuclear scores. Writing, power, and
+technology are old partners in Western stories of the origin of
+civilization, but miniaturization has changed our experience of
+mechanism. Miniaturization has turned out to be about power; small
+is not so much beautiful as pre-eminently dangerous, as in cruise
+missiles. Contrast the TV sets of the 1950s or the news cameras
+of the 1970s with the TV wrist bands or hand-sized video cameras
+now advertised. Our best machines are made of sunshine; they are
+all light and clean because they are nothing but signals,
+electromagnetic waves, a section of a spectrum. And these
+machines are eminently portable, mobile — a matter of immense
+* A provocative, comprehensive argument about the politics and theories of 'post-modernism'
+is made by Frederick Jameson, who argues that post-modernism is not an option, a style
+among others, but a cultural dominant requiring radical reinvention of left politics from within;
+there is no longer any place from without that gives meaning to the comforting fiction of
+critical distance. Jameson also makes clear why one cannot be for or against post-modernism,
+an essentially moralist move. My position is that feminists (and others) need continuous cultural
+reinvention, post-modernist critique, and historical materialism; only a cyborg would have
+a chance. The old dominations of white capitalist patriarchy seem nostalgically innocent
+now: they normalized heterogeneity, e.g., into man and woman, white and black. 'Advanced
+capitalism' and post-modernism release heterogeneity without a norm, and we are flattened,
+without subjectivity, which requires depth, even unfriendly and drowning depths. It is time
+to write The Death of the Clinic. The clinic's methods required bodies and works; we have
+texts and surfaces. Our dominations don't work by medicalization and normalization anymore;
+they work by networking, communications redesign, stress management. Normalization
+gives way to automation, utter redundancy. Michel Foucault's Birth of the Clinic, History
+of Sexuality, and Discipline and Punish name a form of power at its moment of implosion.
+The discourse of biopolitics gives way to technobabble, the language of the spliced
+substantive; no noun is left whole by the multinationals. These are their names, listed from
+one issue of Science: Tech-Knowledge, Genentech, Allergen, Hybritech, Compupro, Genencor, Syntex, Allelix, Agrigenetics Corp., Syntro, Codon, Repligen, Micro-Angelo from Scion
+Corp., Percom Data, Inter Systems, Cyborg Corp., Statcom Corp., Intertec. If we are
+imprisoned by language, then escape from that prison house requires language poets, a
+kind of cultural restriction enzyme to cut the code; cyborg heteroglossia is one form of radical
+culture politics.
+
+ A MANIFESTO FOR CYBORGS
+
+7
+
+human pain in Detroit and Singapore. People are nowhere near so
+fluid, being both material and opaque. Cyborgs are ether,
+quintessence.
+The ubiquity and invisibility of cyborgs is precisely why these
+sunshine-belt machines are so deadly. They are as hard to see
+politically as materially. They are about consciousness — or its
+simulation.5 They are floating signifiers moving in pickup trupks
+across Europe, blocked more effectively by the witch-weavings of
+the displaced and so unnatural Greenham women, who read the
+cyborg webs of power very well, than by the militant labor of older
+masculinist politics, whose natural constituency needs defense jobs.
+Ultimately the 'hardest' science is about the realm of greatest
+boundary confusion, the realm of pure number, pure spirit, C3I,
+cryptography, and the preservation of potent secrets. The new
+machines are so clean and light. Their engineers are sunworshippers mediating a new scientific revolution associated with
+the night dream of post-industrial society. The diseases evoked by
+these clean machines are 'no more' than the miniscule coding
+changes of an antigen in the immune system, 'no more' than the
+experience of stress. The nimble little fingers of 'Oriental' women,
+the old fascination of little Anglo-Saxon Victorian girls with doll
+houses, women's enforced attention to the small take on quite new
+dimensions in this world. There might be a cyborg Alice taking
+account of these new dimensions. Ironically, it might be the unnatural
+cyborg women making chips in Asia and spiral dancing in Santa
+Rita whose constructed unities will guide effective oppositional
+strategies.
+So my cyborg myth is about transgressed boundaries, potent
+fusions, and dangerous possibilities which progressive people might
+explore as one part of needed political work. One of my premises
+is that most American socialists and feminists see deepened
+dualisms of mind and body, animal and machine, idealism and
+materialism in the social practices, symbolic formulations, and
+physical artifacts associated with 'high technology' and scientific
+culture. From One-Dimensional Man to The Death of Nature,6 the
+analytic resources developed by progressives have insisted on the
+necessary domination of technics and recalled us to an imagined
+organic body to integrate our resistance. Another of my premises
+is that the need for unity of people trying to resist worldwide
+
+ 8
+
+DONNA HARAWAY
+
+intensification of domination has never been more acute. But a
+slightly perverse shift of perspective might better enable us to contest
+for meanings, as well as for other forms of power and pleasure in
+technologically-mediated societies.
+From one perspective, a cyborg world is about the final imposition
+of a grid of control on the planet, about the final abstraction
+embodied in a Star War apocalypse waged in the name of defense,
+about the final appropriation of women's bodies in a masculinist orgy
+of war.7 From another perspective, a cyborg world might be about
+lived social and bodily realities in which people are not afraid of
+their joint kinship with animals and machines, not afraid of
+permanently partial identities and contradictory standpoints. The
+political struggle is to see from both perspectives at once because
+each reveals both dominations and possibilities unimaginable from
+the other vantage point. Single vision produces worse illusions than
+double vision or many-headed monsters. Cyborg unities are
+monstrous and illegitimate; in our present political circumstances,
+we could hardly hope for more potent myths for resistance and
+recouping. I like to imagine LAG, the Livermore Action Group, as
+a kind of cyborg society, dedicated to realistically converting the
+laboratories that most fiercely embody and spew out the tools of
+technological apocalypse, and committed to building a political form
+that actually manages to hold together witches, engineers, elders,
+perverts, Christians, mothers, and Leninists long enough to disarm
+the state. Fission Impossible is the name of the affinity group in my
+town. (Affinity: related not by blood but by choice, the appeal of one
+chemical nuclear group for another, avidity.)
+Fractured identities
+It has become difficult to name one's feminism by a single adjective
+— or even to insist in every circumstance upon the noun.
+Consciousness of exclusion through naming is acute. Identities seem
+contradictory, partial, and strategic. With the hard-won recognition
+of their social and historical constitution, gender, race, and class
+cannot provide the basis for belief in 'essential' unity. There is nothing
+about being 'female' that naturally binds women. There is not even
+such a state as 'being' female, itself a highly complex category
+constructed in contested sexual scientific discourses and other social
+practices. Gender, race, or class consciousness is an achievement
+
+ A MANIFESTO FOR CYBORGS
+
+9
+
+forced on us by the terrible historical experience of the contradictory
+social realities of patriarchy, colonialism, and capitalism. And who
+counts as 'us' in my own rhetoric? Which identities are available to
+ground such a potent political myth called 'us', and what could
+motivate enlistment in this collectivity? Painful fragmentation among
+feminists (not to mention among women) along every possible fault
+line has made the concept of woman elusive, an excuse for the matrix
+of women's dominations of each other. For me — and for many who
+share a similar historical location in white, professional middle class,
+female, radical, North American, mid-adult bodies — the sources
+of a crisis in political identity are legion. The recent history for much
+of the U.S. left and U.S. feminism has been a response to this kind
+of crisis by endless splitting and searches for a new essential unity.
+But there has also been a growing recognition of another response
+through coalition — affinity, not identity.8
+Chela Sandoval, from a consideration of specific historical
+moments in the formation of the new political voice called women
+of color, has theorized a hopeful model of political identity called
+'oppositional consciousness', born of the skills for reading webs of
+power by those refused stable membership in the social categories
+of race, sex, or class.9 'Women of color', a name contested at its
+origins by those whom it would incorporate, as well as a historical
+consciousness marking systematic breakdown of all the signs of
+Man in 'Western' traditions, constructs a kind of post-modernist
+identity out of otherness and difference. This post-modernist identity
+is fully political, whatever might be said about other possible postmodernisms.
+Sandoval emphasizes the lack of any essential criterion for
+identifying who is a women of color. She notes that the definition
+of the group has been by conscious appropriation of negation. For
+example, a Chicana or U.S. black woman has not been able to speak
+as a woman or as a black person or as a Chicano. Thus, she was
+at the bottom of a cascade of negative identities, left out of even
+the privileged oppressed authorial categories called 'women and
+blacks', who claimed to make the important revolutions. The category
+'woman' negated all non-white women; 'black' negated all non-black
+people, as well as all black women. But there was also no 'she', no
+singularity, but a sea of differences among U.S. women who have
+affirmed their historical identity as U.S. women of color. This identity
+
+ 10
+
+DONNA HARAWAY
+
+marks out a self-consciously constructed space that cannot affirm
+the capacity to act on the basis of natural identification, but only
+on the basis of conscious coalition, of affinity, of political kinship.10
+Unlike the 'woman' of some streams of the white women's movement
+in the United States, there is no naturalization of the matrix, or at
+least this is what Sandoval argues is uniquely available through the
+power of oppositional consciousness.
+Sandoval's argument has to be seen as one potent formulation
+for feminists out of the worldwide development of anti-colonialist
+discourse, i.e., discourse dissolving the 'West' and its highest product
+— the one who is not animal, barbarian, or woman; i.e., man, the
+author of a cosmos called history. As orientalism is deconstructed
+politically and semiotically, the identities of the Occident destabilize,
+including those of feminists.11 Sandoval argues that 'women of
+color' have a chance to build an effective unity that does not replicate
+the imperializing, totalizing revolutionary subjects of previous
+Marxisms and feminisms which had not faced the consequences
+of the disorderly polyphony emerging from decolonization.
+Katie King has emphasized the limits of identification and the
+political/poetic mechanics of identification built into reading 'the
+poem', that generative core of cultural feminism. King criticizes the
+persistent tendency among contemporary feminists from different
+'moments' or 'conversations' in feminist practice to taxonomize the
+women's movement to make one's own political tendencies appear
+to be the telos of the whole. These taxonomies tend to remake
+feminist history to appear to be an ideological struggle among
+coherent types persisting over time, especially those typical units
+called radical, liberal, and socialist feminism. Literally, all other
+feminisms are either incorporated or marginalized, usually by
+building an explicit ontology and epistemology.12 Taxonomies of
+feminism produce epistemologies to police deviation from official
+women's experience. And of course, 'women's culture', like women
+of color, is consciously created by mechanisms inducing affinity. The
+rituals of poetry, music, and certain forms of academic practice have
+been pre-eminent. The politics of race and culture in the U.S.
+women's movements are intimately interwoven. The common
+achievement of King and Sandoval is learning how to craft a
+poetic/political unity without relying on a logic of appropriation,
+incorporation, and taxonomic identification.
+
+ A MANIFESTO FOR CYBORGS
+
+11
+
+The theoretical and practical struggle against unity-throughdomination or unity-through-incorporation ironically not only
+undermines the justifications for patriarchy, colonialism, humanism,
+positivism, essentialism, scientism, and other unlamented -isms, but
+all claims for an organic or natural standpoint. I think that radical
+and socialist/Marxist feminisms have also undermined their/our own
+epistemological strategies and that this is a crucially valuable step
+in imagining possible unities. It remains to be seen whether all
+'epistemologies' as Western political people have known them fail
+us in the task to build effective affinities.
+It is important to note that the effort to construct revolutionary
+standpoints, epistemologies as achievements of people committed
+to changing the world, has been part of the process showing the
+limits of identification. The acid tools of post-modernist theory and
+the constructive tools of ontological discourse about revolutionary
+subjects might be seen as ironic allies in dissolving Western selves
+in the interests of survival. We are excruciatingly conscious of what
+it means to have a historically constituted body. But with the loss
+of innocence in our origin, there is no expulsion from the Garden
+either. Our politics lose the indulgence of guilt with the naivete of
+innocence. But what would another political myth for socialist
+feminism look like? What kind of politics could embrace partial,
+contradictory, permanently unclosed constructions of personal and
+collective selves and still be faithful, effective — and, ironically,
+socialist feminist?
+I do not know of any other time in history when there was greater
+need for political unity to confront effectively the dominations of 'race',
+'gender', 'sexuality', and 'class'. I also do not know of any other time
+when the kind of unity we might help build could have been possible.
+None of 'us' have any longer the symbolic or material capability of
+dictating the shape of reality to any of 'them'. Or at least 'we' cannot
+claim innocence from practicing such dominations. White women,
+including socialist feminists, discovered (i.e., were forced kicking and
+screaming to notice) the non-innocence of the category 'woman'.
+That consciousness changes the geography of all previous
+categories; it denatures them as heat denatures a fragile protein.
+Cyborg feminists have to argue that 'we' do not want any more
+natural matrix of unity and that no construction is whole. Innocence,
+and the corollary insistence on victimhood as the only ground for
+
+ 12
+
+DONNA HARAWAY
+
+insight, has done enough damage. But the constructed revolutionary
+subject must give late-twentieth-century people pause as well. In
+the fraying of identities and in the reflexive strategies for constructing
+them, the possibility opens up for weaving something other than
+a shroud for the day after the apocalypse that so prophetically ends
+salvation history.
+Both Marxist/socialist feminisms and radical feminisms have
+simultaneously naturalized and denatured the category 'woman' and
+consciousness of the social lives of 'women'. Perhaps a schematic
+caricature can highlight both kinds of moves. Marxian socialism is
+rooted in an analysis of wage labor which reveals class structure.
+The consequence of the wage relationship is systematic alienation,
+as the worker is dissociated from his (sic) product. Abstraction and
+illusion rule in knowledge, domination rules in practice. Labor is the
+pre-eminently privileged category enabling the Marxist to overcome
+illusion and find that point of view which is necessary for changing
+the world. Labor is the humanizing activity that makes man; labor
+is an ontological category permitting the knowledge of a subject,
+and so the knowledge of subjugation and alienation.
+In faithful filiation, socialist feminism advanced by allying itself with
+the basic analytic strategies of Marxism. The main achievement of
+both Marxist feminists and socialist feminists was to expand the
+category of labor to accommodate what (some) women did, even
+when the wage relation was subordinated to a more comprehensive
+view of labor under capitalist patriarchy. In particular, women's labor
+in the household and women's activity as mothers generally, i.e.,
+reproduction in the socialist feminist sense, entered theory on the
+authority of analogy to the Marxian concept of labor. The unity of
+women here rests on an epistemology based on the ontological
+structure of 'labor'. Marxist/socialist feminism does not 'naturalize'
+unity; it is a possible achievement based on a possible standpoint
+rooted in social relations. The essentializing move is in the ontological
+structure of labor or of its analogue, women's activity.13* The
+* The central role of object-relations versions of psychoanalysis and related strong
+universalizing moves in discussing reproduction, caring work, and mothering in many
+approaches to epistemology underline their authors' resistance to what I am calling postmodernism. For me, both the universalizing moves and the versions of psychoanalysis make
+analysis of 'women's place in the integrated circuit' difficult and lead to systematic difficulties
+in accounting for or even seeing major aspects of construction of gender and gendered
+social life.
+
+ A MANIFESTO FOR CYBORGS
+
+13
+
+inheritance of Marxian humanism, with its pre-eminently Western
+self, is the difficulty for me. The contribution from these formulations
+has been the emphasis on the daily responsibility of real women
+to build unities, rather than to naturalize them.
+Catherine MacKinnon's version of radical feminism is itself a
+caricature of the appropriating, incorporating, totalizing tendencies
+of Western theories of identity grounding action.14 It is factually and
+politically wrong to assimilate all of the diverse 'moments' or
+'conversations' in recent women's politics named radical feminism
+to MacKinnon's version. But the teleological logic of her theory shows
+how an epistemology and ontology — including their negations —
+erase or police difference. Only one of the effects of MacKinnon's
+theory is the rewriting of the history of the polymorphous field called
+radical feminism. The major effect is the production of a theory of
+experience, of women's identity, that is a kind of apocalypse for all
+revolutionary standpoints. That is, the totalization built into this tale
+of radical feminism achieves its end — the unity of women — by
+enforcing the experience of and testimony to radical non-being. As
+for the Marxist/socialist feminist, consciousness is an achievement,
+not a natural fact. And MacKinnon's theory eliminates some of the
+difficulties built into humanist revolutionary subjects, but at the cost
+of radical reductionism.
+MacKinnon argues that radical feminism necessarily adopted a
+different analytical strategy from Marxism, looking first not at the
+structure of class, but at the structure of sex/gender and its generative
+relationship, men's constitution and appropriation of women sexually.
+Ironically, MacKinnon's 'ontology' constructs a non-subject, a nonjDeing. Another's desire, not the self's labor, is the origin of 'woman'.
+She therefore develops a theory of consciousness that enforces what
+can count as 'women's' experience — anything that names sexual
+violation, indeed, sex itself as far as 'women' can be concerned.
+Feminist practice is the construction of this form of consciousness;
+i.e., the self-knowledge of a self-who-is-not.
+Perversely, sexual appropriation in this radical feminism still has
+the epistemological status of labor, i.e., the point from which analysis
+able to contribute to changing the world must flow. But sexual
+objectification, not alienation, is the consequence of the structure
+of sex/gender. In the realm of knowledge, the result of sexual
+
+ 14
+
+DONNA HARAWAY
+
+objectification is illusion and abstraction. However, a woman is not
+simply alienated from her product, but in a deep sense does not
+exist as a subject, or even potential subject, since she owes her
+existence as a woman to sexual appropriation. To be constituted
+by another's desire is not the same thing as to be alienated in the
+violent separation of the laborer from his product.
+MacKinnon's radical theory of experience is totalizing in the
+extreme; it does not so much marginalize as obliterate the authority
+of any other women's political speech and action. It is a totalization
+producing what Western partiarchy itself never succeeded in doing
+— feminists' consciousness of the non-existence of women, except
+as products of men's desire. I think MacKinnon correctly argues that
+no Marxian version of identity can firmly ground women's unity. But
+in solving the problem of the contradictions of any Western
+revolutionary subject for feminist purposes, she develops an even
+more authoritarian doctrine of experience. If my complaint about
+socialist/Marxian standpoints is their unintended erasure of polyvocal,
+unassimilable, radical difference made visible in anti-colonial
+discourse and practice, MacKinnon's intentional erasure of all
+difference through the device of the 'essential' non-existence of
+women is not reassuring.
+In my taxonomy, which like any other taxonomy is a reinscription
+of history, radical feminism can accommodate all the activities of
+women named by socialist feminists as forms of labor only if the
+activity can somehow be sexualized. Reproduction had different
+tones of meanings for the two tendencies, one rooted in labor, one
+in sex, both calling the consequences of domination and ignorance
+of social and personal reality 'false consciousness'.
+Beyond either the difficulties or the contributions in the argument
+of any one author, neither Marxist nor radical feminist points of view
+have tended to embrace the status of a partial explanation; both
+were regularly constituted as totalities. Western explanation has
+demanded as much; how else could the 'Western' author incorporate
+its others? Each tried to annex other forms of domination by
+expanding its basic categories through analogy, simple listing, or
+addition. Embarrassed silence about race among white radical and
+socialist feminists was one major, devastating political consequence.
+History and polyvocality disappear into political taxonomies that try
+
+ A MANIFESTO FOR CYBORGS
+
+15
+
+to establish genealogies. There was no structural room for race (or
+for much else) in theory claiming to reveal the construction of the
+category woman and social group women as a unified or totalizable
+whole. The structure of my caricature looks like this:
+Socialist Feminism —
+structure of class//wage labor//alienation
+labor, by analogy reproduction, by extension sex, by addition
+race
+Radical Feminism —
+structure of gender//sexual appropriation//objectification
+sex, by analogy labor, by extension reproduction, by addition
+race
+
+In another context, the French theorist Julia Kristeva claimed
+women appeared as a historical group after World War II, along with
+groups like youth. Her dates are doubtful; but we are now
+accustomed to remembering that as objects of knowledge and as
+historical actors, 'race' did not always exist, 'class' has a historical
+genesis, and 'homosexuals' are quite junior. It is no accident that
+the symbolic system of the family of man — and so the essence
+of woman — breaks up at the same moment that networks of
+connection among people on the planet are unprecedentedly
+multiple, pregnant, and complex. 'Advanced capitalism' is
+inadequate to convey the structure of this historical moment. In the
+'Western' sense, the end of man is at stake. It is no accident that
+woman disintegrates into women in our time. Perhaps socialist
+feminists were not substantially guilty of producing essentialist theory
+that suppressed women's particularity and contradictory interests.
+I think we have been, at least through unreflective participation in
+the logics, languages, and practices of white humanism and through
+searching for a single ground of domination to secure our
+revolutionary voice. Now we have less excuse. But in the
+consciousness of our failures, we risk lapsing into boundless
+difference and giving up on the confusing task of making partial,
+real connection. Some differences are playful; some are poles of
+world historical systems of domination. 'Epistemology' is about
+knowing the difference.
+The informatics of domination
+In this attempt at an epistemological and political position, I would
+like to sketch a picture of possible unity, a picture indebted to socialist
+
+ 16
+
+DONNA HARAWAY
+
+and feminist principles of design. The frame for my sketch.is set
+by the extent and importance of rearrangements in worldwide social
+relations tied to science and technology. I argue for a politics rooted
+in claims about fundamental changes in the nature of class, race,
+and gender in an emerging system of world order analogous in its
+novelty and scope to that created by industrial capitalism; we are
+living through a movement from an organic, industrial society to a
+polymorphous, information system — from all work to all play, a
+deadly game. Simultaneously material and ideological, the dichotomies may be expressed in the following chart of transitions from
+the comfortable old hierarchical dominations to the scary new
+networks I have called the informatics of domination:
+Representation
+Bourgeois novel, realism
+Organism
+Depth, integrity
+Heat
+Biology as clinical practice
+Physiology
+Small group
+Perfection
+Eugenics
+Decadence, Magic Mountain
+Hygiene
+Microbiology, tuberculosis
+Organic division of labor
+Functional specialization
+Reproduction
+Organic sex role specialization
+Biological determinism
+Community ecology
+Racial chain of being
+Scientific management in home/
+factory
+Family/Market/Factory
+Family wage
+Public/Private
+Nature/Culture
+Cooperation
+Freud
+Sex
+Labor
+Mind
+World War II
+White Capitalist Patriarchy
+
+Simulation
+Science fiction, post-modernism
+Biotic component
+Surface, boundary
+
+Noise
+Biology as inscription
+Communications engineering
+Subsystem
+Optimization
+Population control
+Obsolescence, Future Shock
+Stress Management
+Immunology, AIDS
+Ergonomics/cybernetics of labor
+Modular construction
+Replication
+Optimal genetic strategies
+Evolutionary inertia, constraints
+Ecosystem
+Neo-imperialism, United Nations
+humanism
+Global factory/Electronic cottage
+Women in the Integrated Circuit
+Comparable worth
+Cyborg citizenship
+Fields of difference
+Communications enhancement
+Lacan
+Genetic engineering
+Robotics
+Artificial Intelligence
+Star Wars
+Informatics of Domination
+
+This list suggests several interesting things.15 First, the objects on
+the right-hand side cannot be coded as 'natural', a realization that
+
+ A MANIFESTO FOR CYBORGS
+
+17
+
+subverts naturalistic coding for the left-hand side as well. We cannot
+go back ideologically or materially. It's not just that 'god' is dead;
+so is the 'goddess'. In relation to objects like biotic components, one
+must think not in terms of essential properties, but in terms of
+strategies of design, boundary constraints, rates of flows, systems
+logics, costs of lowering constraints. Sexual reproduction is one kind
+of reproductive strategy among many, with costs and benefits as
+a function of the system environment. Ideologies of sexual
+reproduction can no longer reasonably call on the notions of sex
+and sex role as organic aspects in natural objects like organisms
+and families. Such reasoning will be unmasked as irrational, and
+ironically corporate executives reading Playboy and anti-porn radical
+feminists will make strange bedfellows in jointly unmasking the
+irrationalism.
+Likewise for race, ideologies about human diversity have to be
+formulated in terms of frequencies of parameters, like blood groups
+or intelligence scores. It is 'irrational' to invoke concepts like primitive
+and civilized. For liberals and radicals, the search for integrated social
+systems gives way to a new practice called 'experimental ethnography' in which an organic object dissipates in attention to the play
+of writing. At the level of ideology, we see translations of racism and
+colonialism into languages of development and underdevelopment,
+rates and constraints of modernization. Any objects or persons can
+be reasonably thought of in terms of disassembly and reassembly;
+no 'natural' architectures constrain system design. The financial
+districts in all the world's cities, as well as the export-processing and
+free-trade zones, proclaim this elementary fact of 'late capitalism'.
+The entire universe of objects that can be known scientifically must
+be formulated as problems in communications engineering (for the
+managers) or theories of the text (for those who would resist). Both
+are cyborg semiologies.
+One should expect control strategies to concentrate on boundary
+conditions and interfaces, on rates of flow across boundaries — and
+not on the integrity of natural objects. 'Integrity' or 'sincerity' of the
+Western self gives way to decision procedures and expert systems.
+For example, control strategies applied to women's capacities to give
+birth to new human beings will be developed in the languages of
+population control and maximization of goal achievement for
+individual decision-makers. Control strategies will be formulated in
+
+ 18
+
+DONNA HARAWAY
+
+terms of rates, costs of constraints, degrees of freedom. Human
+beings, like any other component or subsystem, must be localized
+in a system architecture whose basic modes of operation are
+probabilistic, statistical. No objects, spaces, or bodies are sacred
+in themselves; any component can be interfaced with any other if
+the proper standard, the proper code, can be constructed for
+processing signals in a common language. Exchange in this world
+transcends the universal translation effected by capitalist markets
+that Marx analyzed so well. The privileged pathology affecting all
+kinds of components in this universe is stress — communications
+breakdown.16 The cyborg is not subject to Foucault's biopolitics;
+the cyborg simulates politics, a much more potent field of operations.
+This kind of analysis of scientific and cultural objects of knowledge
+which have appeared historically since World War II prepares us
+to notice some important inadequacies in feminist analysis which
+has proceeded as if the organic, hierarchical dualisms ordering
+discourse in 'the West' since Aristotle still ruled. They have been
+cannibalized, or as Zoe Sofia (Sofoulis) might put it, they have been
+'techno-digested'. The dichotomies between mind and body, animal
+and human, organism and machine, public and private, nature and
+culture, men and women, primitive and civilized are all in question
+ideologically. The actual situation of women is their
+integration/exploitation into a world system of production/
+reproduction and communication called the informatics of
+domination. The home, workplace, market, public arena, the body
+itself — all can be dispersed and interfaced in nearly infinite,
+polymorphous ways, with large consequences for women and others
+— consequences that themselves are very different for different
+people and which make potent oppositional international movements
+difficult to imagine and essential for survival. One important route
+for reconstructing socialist-feminist politics is through theory and
+practice addressed to the social relations of science and technology,
+including crucially the systems of myth and meanings structuring
+our imaginations. The cyborg is a kind of disassembled and
+reassembled, post-modern collective and personal self. This is the
+self feminists must code.
+Communications technologies and biotechnologies are the crucial
+tools recrafting our bodies. These tools embody and enforce new
+social relations for women worldwide. Technologies and scientific
+
+ A MANIFESTO FOR CYBORGS
+
+19
+
+discourses can be partially understood as formalizations, i.e., as
+frozen moments, of the fluid social interactions constituting them,
+but they should also be viewed as instruments for enforcing
+meanings. The boundary is permeable between tool and myth,
+instrument and concept, historical systems of social relations and
+historical anatomies of possible bodies, including objects of
+knowledge. Indeed, myth and tool mutually constitute each other.
+Furthermore, communications sciences and modern biologies are
+constructed by a common move — the translation of the world into
+a problem of coding, a search for a common language in which
+all resistance to instrumental control disappears and all heterogeneity
+can be submitted to disassembly, reassembly, investment, and
+exchange.
+In communications sciences, the translation of the world into a
+problem in coding can be illustrated by looking at cybernetic
+(feedback controlled) systems theories applied to telephone
+technology, computer design, weapons deployment, or data base
+construction and maintenance. In each case, solution to the key
+questions rests on a theory of language and control; the key
+operation is determining the rates, directions, and probabilities of
+flow of a quantity called information. The world is subdivided by
+boundaries differentially permeable to information. Information is just
+that kind of quantifiable element (unit, basis of unity) which allows
+universal translation, and so unhindered instrumental power (called
+effective communication). The biggest threat to such power is
+interruption of communication. Any system breakdown is a function
+of stress. The fundamentals of this technology can be condensed
+into the metaphor C 3 I, command-control-communicationintelligence, the military's symbol for its operations theory.
+In modern biologies, the translation of the world into a problem
+in coding can be illustrated by molecular genetics, ecology, sociobiological evolutionary theory, and immunobiology. The organism
+has been translated into problems of genetic coding and read-out.
+Biotechnology, a writing technology, informs research broadly.17 In
+a sense, organisms have ceased to exist as objects of knowledge,
+giving way to biotic components, i.e., special kinds of information
+processing devices. The analogous moves in ecology could be
+examined by probing the history and utility of the concept of the
+
+ 20
+
+DONNA HARAWAY
+
+ecosystem. Immunobiology and associated medical practices are
+rich exemplars of the privilege of coding and recognition systems
+as objects of knowledge, as constructions of bodily reality for us.
+Biology is here a kind of cryptography. Research is necessarily a
+kind of intelligence activity. Ironies abound. A stressed system goes
+awry; its communication processes break down; it fails to recognize
+the difference between self and other. Human babies with baboon
+hearts evoke national ethical perplexity — for animal-rights activists
+at least as much as for guardians of human purity. Gay men, Haitian
+immigrants, and intravenous drug users are the 'privileged' victims
+of an awful immune-system disease that marks (inscribes on the
+body) confusion of boundaries and moral pollution.
+But these excursions into communications sciences and biology
+have been at a rarefied level; there is a mundane, largely economic
+reality to support my claim that these sciences and technologies
+indicate fundamental transformations in the structure of the world
+for us. Communications technologies depend on electronics.
+Modern states, multinational corporations, military power, welfarestate apparatuses, satellite systems, political processes, fabrication
+of our imaginations, labor-control systems, medical constructions
+of our bodies, commercial pornography, the international division
+of labor, and religious evangelism depend intimately upon
+electronics. Microelectronics is the technical basis of simulacra, i.e.,
+of copies without originals.
+Microelectronics mediates the translations of labor into robotics
+and word processing; sex into genetic engineering and reproductive
+technologies; and mind into artificial intelligence and decision
+procedures. The new biotechnologies concern more than human
+reproduction. Biology as a powerful engineering science for
+redesigning materials and processes has revolutionary implications
+for industry, perhaps most obvious today in areas of fermentation,
+agriculture, and energy. Communications sciences and biology are
+constructions of natural-technical objects of knowledge in which the
+difference between machine and organism is thoroughly blurred;
+mind, body, and tool are on very intimate terms. The 'multinational'
+material organization of the production and reproduction of daily
+life and the symbolic organization of the production and reproduction
+of culture and imagination seem equally implicated. The boundary-
+
+ A MANIFESTO FOR CYBORGS
+
+21
+
+maintaining images of base and superstructure, public and private,
+or material and ideal never seemed more feeble.
+I have used Rachel Grossman's image of women in the integrated
+circuit to name the situation of women in a world so intimately
+restructured through the social relations of science and technology.18 I use the odd circumlocution, 'the social relations of
+science and technology', to indicate that we are not dealing with
+a technological determinism, but with a historical system depending
+upon structured relations among people. But the phrase should also
+indicate that science and technology provide fresh sources of power,
+that we need fresh sources of analysis and political action.19 Some
+of the rearrangements of race, sex, and class rooted in high-techfacilitated social relations can make socialist feminism more relevant
+to effective progressive politics.
+The homework economy
+The 'new industrial revolution' is producing a new worldwide
+working class. The extreme mobility of capital and the emerging
+international division of labor are intertwined with the emergence
+of new collectivities, and the weakening of familiar groupings. These
+developments are neither gender- nor race-neutral. White men in
+advanced industrial societies have become newly vulnerable to
+permanent job loss, and women are not disappearing from the job
+rolls at the same rates as men. It is not simply that women in thirdworld countries are the preferred labor force for the science-based
+multinationals in the export-processing sectors, particularly in
+electronics. The picture is more systematic and involves reproduction,
+sexuality, culture, consumption, and production. In the prototypical
+Silicon Valley, many women's lives have been structured around
+employment in electronics-dependent jobs, and their intimate realities
+include serial heterosexual monogamy, negotiating childcare,
+distance from extended kin or most other forms of traditional
+community, a high likelihood of loneliness and extreme economic
+vulnerability as they age. The ethnic and racial diversity of women
+in Silicon Valley structures a microcosm of conflicting differences
+in culture, family, religion, education, language.
+Richard Gordon has called this new situation the homework
+economy.20 Although he includes the phenomenon of literal
+
+ 22
+
+DONNA HARAWAY
+
+homework emerging in connection with electronics assembly,
+Gordon intends 'homework economy' to name a restructuring of
+work that broadly has the characteristics formerly ascribed to female
+jobs, jobs literally done only by women. Work is being redefined
+as both literally female and feminized, whether performed by men
+or women. To be feminized means to be made extremely vulnerable;
+able to be disassembled, reassembled, exploited as a reserve labor
+force; seen less as workers than as servers; subjected to time
+arrangements on and off the paid job that make a mockery of a
+limited work day; leading an existence that always borders on being
+obscene, out of place, and reducible to sex. Deskilling is an old
+strategy newly applicable to formerly privileged workers. However,
+the homework economy does not refer only to large-scale deskilling,
+nor does it deny that new areas of high skill are emerging, even
+for women and men previously excluded from skilled employment.
+Rather, the concept indicates that factory, home, and market are
+integrated on a new scale and that the places of women are crucial
+— and need to be analyzed for differences among women and for
+meanings for relations between men and women in various
+situations.
+The homework economy as a world capitalist organizational
+structure is made possible by (not caused by) the new technologies.
+The success of the attack on relatively privileged, mostly white, men's
+unionized jobs is tied to the power of the new communications
+technologies to integrate and control labor despite extensive
+dispersion and decentralization. The consequences of the new
+technologies are felt by women both in the loss of the family (male)
+wage (if they ever had access to this white privilege) and in the
+character of their own jobs, which are becoming capital-intensive,
+e.g., office work and nursing.
+The new economic and technological arrangements are also
+related to the collapsing welfare state and the ensuing intensification
+of demands on women to sustain daily life for themselves as well
+as for men, children, and old people. The feminization of poverty
+— generated by dismantling the welfare state, by the homework
+economy where stable jobs become the exception, and sustained
+by the expectation that women's wage will not be matched by a
+male income for the support of children — has become an urgent
+focus. The causes of various women-headed households are a
+
+ A MANIFESTO FOR CYBORGS
+
+23
+
+function of race, class, or sexuality; but their increasing generality
+is a ground for coalitions of women on many issues. That women
+regularly sustain daily life partly as a function of their enforced status
+as mothers is hardly new; the kind of integration with the overall
+capitalist and progressively war-based economy is new. The
+particular pressure, for example, on U.S. black women, who have
+achieved an escape from (barely) paid domestic service and who
+now hold clerical and similar jobs in large numbers, has large
+implications for continued enforced black poverty with employment.
+Teenage women in industrializing areas of the third world increasingly
+find themselves the sole or major source of a cash wage for their
+families, while access to land is ever more problematic. These
+developments must have major consequences in the psychodynamics and politics of gender and race.
+Within the framework of three major stages of capitalism
+(commercial/early industrial, monopoly, multinational) — tied to
+nationalism, imperialism, and multinationalism, and related to
+Jameson's three dominant aesthetic periods of realism, modernism,
+and post-modernism — I would argue that specific forms of families
+dialectically relate to forms of capital and to its political and cultural
+concomitants. Although lived problematically and unequally, ideal
+forms of these families might be schematized as (1) the patriarchal
+nuclear family, structured by the dichotomy between public and
+private and accompanied by the white bourgeois ideology of
+separate spheres and nineteenth-century Anglo-American bourgeois
+feminism; (2) the modern family mediated (or enforced) by the welfare
+state and institutions like the family wage, with a flowering of a-feminist
+heterosexual ideologies, including their radical versions represented
+in Greenwich Village around World War I; and (3) the 'family' of the
+homework economy with its oxymoronic structure of women-headed
+households and its explosion of feminisms and the paradoxical
+intensification and erosion of gender itself.
+This is the context in which the projections for worldwide structural
+unemployment stemming from the new technologies are part of the
+picture of the homework economy. As robotics and related
+technologies put men out of work in 'developed' countries and
+exacerbate failure to generate male jobs in third-world 'development',
+and as the automated office becomes the rule even in labor-surplus
+countries, the feminization of work intensifies. Black women in the
+
+ 24
+
+DONNA HARAWAY
+
+United States have long known what it looks like to face the structural
+underemployment ('feminization') of black men, as well as their own
+highly vulnerable position in the wage economy. It is no longer a
+secret that sexuality, reproduction, family, and community life are
+interwoven with this economic structure in myriad ways which have
+also differentiated the situations of white and black women. Many
+more women and men will contend with similar situations, which
+will make cross-gender and race alliances on issues of basic life
+support (with or without jobs) necessary, not just nice.
+The new technologies also have a profound effect on hunger and
+on food production for subsistence worldwide. Rae Lessor Blumberg
+estimates that women produce about fifty per cent of the world's
+subsistence food.21 * Women are excluded generally from benefiting from the increased high-tech commodification of food and
+energy crops, their days are made more arduous because their
+responsibilities to provide food do not diminish, and their reproductive situations are made more complex. Green Revolution
+technologies interact with other high-tech industrial production to
+alter gender divisions of labor and differential gender migration
+patterns.
+The new technologies seem deeply involved in the forms of
+'privatization' that Ros Petchesky has analyzed, in which
+militarization, right-wing family ideologies and policies, and intensified
+definitions of corporate property as private synergistically interact.22
+The new communications technologies are fundamental to the
+eradication of 'public life' for everyone. This facilitates the
+mushrooming of a permanent high-tech military establishment at
+the cultural and economic expense of most people, but especially
+of women. Technologies like video games and highly miniaturized
+television seem crucial to production of modern forms of 'private
+* The conjunction of the Green Revolution's social relations with biotechnologies like plant
+genetic engineering makes the pressures on land in the third world increasingly intense.
+AID's estimates (New York Times, 14 October 1984) used at the 1984 World Food Day are
+that in Africa, women produce about 90 per cent of rural food supplies, about 60-80 per
+cent in Asia, and provide 40 per cent of agricultural labor in the Near East and Latin America.
+Blumberg charges that world organizations' agricultural politics, as well as those of multinationals and national governments in the third world, generally ignore fundamental issues
+in the sexual division of labor. The present tragedy of famine in Africa might owe as much
+to male supremacy as to capitalism, colonialism, and rain patterns. More accurately, capitalism
+and racism are usually structurally male dominant.
+
+ A MANIFESTO FOR CYBORGS
+
+25
+
+life'. The culture of video games is heavily oriented to individual
+competition and extraterrestrial warfare. High-tech, gendered
+imaginations are produced here, imaginations that can contemplate
+destruction of the planet and a sci-fi escape from its consequences.
+More than our imagination is militarized; and the other realities of
+electronic and nuclear warfare are inescapable.
+The new technologies affect the social relations of both sexuality
+and of reproduction, and not always in the same ways. The close
+ties of sexuality and instrumentality, of views of the body as a kind
+of private satisfaction- and utility-maximizing machine, are described
+nicely in sociobiological origin stories that stress a genetic calculus
+and explain the inevitable dialectic of domination of male and female
+gender roles.23 These sociobiological stories depend on a hightech view of the body as a biotic component or cybernetic communications system. Among the many transformations of reproductive
+situations is the medical one, where women's bodies have
+boundaries newly permeable to both 'visualization' and 'intervention'.
+Of course, who controls the interpretation of bodily boundaries in
+medical hermeneutics is a major feminist issue. The speculum served
+as an icon of women's claiming their bodies in the 1970s; that handcraft tool is inadequate to express our needed body politics in the
+negotiation of reality in the practices of cyborg reproduction. Selfhelp is not enough. The technologies of visualization recall the
+important cultural practice of hunting with the camera and the deeply
+predatory nature of a photographic consciousness.24 Sex,
+sexuality, and reproduction are central actors in high-tech myth
+systems structuring our imaginations of personal and social
+possibility.
+Another critical aspect of the social relations of the new
+technologies is the reformulation of expectations, culture, work, and
+reproduction for the large scientific and technical work force. A major
+social and political danger is the formation of a strongly bimodal
+social structure, with the masses of women and men of all ethnic
+groups, but especially people of color, confined to a homework
+economy, illiteracy of several varieties, and general redundancy and
+impotence, controlled by high-tech repressive apparatuses ranging
+from entertainment to surveillance and disappearance. An adequate
+socialist-feminist politics should address women in the privileged
+occupational categories, and particularly in the production of science
+
+ 26
+
+DONNA HARAWAY
+
+and technology that constructs scientific-technical discourses,
+processes, and objects.25
+This issue is only one aspect of inquiry into the possibility of a
+feminist science, but it is important. What kind of constitutive role
+in the production of knowledge, imagination, and practice can new
+groups doing science have? How can these groups be allied with
+progressive social and political movements? What kind of political
+accountability can be constructed to tie women together across the
+scientific-technical hierarchies separating us? Might there be ways
+of developing feminist science/technology politics in alliance with
+anti-military science facility conversion action groups? Many scientific
+and technical workers in Silicon Valley, the high-tech cowboys
+included, do not want to work on military science.26 Can these
+personal preferences and cultural tendencies be welded into
+progressive politics among this professional middle class in which
+women, including women of color, are coming to be fairly numerous?
+Women in the integrated circuit
+Let me summarize the picture of women's historical locations in
+advanced industrial societies, as these positions have been
+restructured partly through the social relations of science and
+technology. If it was ever possible ideologically to characterize
+women's lives by the distinction of public and private domains —
+suggested by images of the division of working-class life into factory
+and home, of bourgeois life into market and home, and of gender
+existence into personal and political realms — it is now a totally
+misleading ideology, even to show how both terms of these
+dichotomies construct each other in practice and in theory. I prefer
+a network ideological image, suggesting the profusion of spaces
+and identities and the permeability of boundaries in the personal
+body and in the body politic. 'Networking' is both a feminist practice
+and a multinational corporate strategy — weaving is for oppositional
+cyborgs.
+The only way to characterize the informatics of domination is as
+a massive intensification of insecurity and cultural impoverishment,
+with common failure of subsistence networks for the most vulnerable.
+Since much of this picture interweaves with the social relations of
+science and technology, the urgency of a socialist-feminist politics
+
+ A MANIFESTO FOR CYBORGS
+
+27
+
+addressed to science and technology is plain. There is much now
+being done, and the grounds for political work are rich. For example,
+the efforts to develop forms of collective struggle for women in paid
+work, like SEIU's District 925, should be a high priority for all of us.
+These efforts are profoundly tied to technical restructuring of labor
+processes and reformations of working classes. These efforts also
+are providing understanding of a more comprehensive kind of labor
+organization, involving community, sexuality, and family issues never
+privileged in the largely white male industrial unions.
+The structural rearrangements related to the social relations of
+science and technology evoke strong ambivalence. But it is not
+necessary to be ultimately depressed by the implications of latetwentieth-century women's relation to all aspects of work, culture,
+production of knowledge, sexuality, and reproduction. For excellent
+reasons, most Marxisms see domination best and have trouble
+understanding what can only look like false consciousness and
+people's complicity in their own domination in late capitalism. It is
+crucial to remember that what is lost, perhaps especially from
+women's points of view, is often virulent forms of oppression,
+nostalgically naturalized in the face of current violation. Ambivalence
+toward the disrupted unities mediated by high-tech culture requires
+not sorting consciousness into categories of 'clear-sighted critique
+grounding a solid political epistemology' versus 'manipulated false
+consciousness', but subtle understanding of emerging pleasures,
+experiences, and powers with serious potential for changing the rules
+of the game.
+There are grounds for hope in the emerging bases for new kinds
+of unity across race, gender, and class, as these elementary units
+of socialist-feminist analysis themselves suffer protean
+transformations. Intensifications of hardship experienced worldwide
+in connection with the social relations of science and technology
+are severe. But what people are experiencing is not transparently
+clear, and we lack sufficiently subtle connections for collectively
+building effective theories of experience. Present efforts — Marxist,
+psychoanalytic, feminist, anthropological — to clarify even 'our'
+experience are rudimentary.
+I am conscious of the odd perspective provided by my historical
+position — a Ph.D. in biology for an Irish Catholic girl was made
+
+ 28
+
+DONNA HARAWAY
+
+possible by Sputnik's impact on U.S. national science-education
+policy. I have a body and mind as much constructed by the postWorld War II arms race and cold war as by the women's movements.
+There are more grounds for hope by focusing on the contradictory
+effects of politics designed to produce loyal American technocrats,
+which as well produced large numbers of dissidents, rather than
+by focusing on the present defeats.
+The permanent partiality of feminist points of view has
+consequences for our expectations of forms of political organization
+and participation. We do not need a totality in order to work well.
+The feminist dream of a common language, like all dreams for a
+perfectly true language, of perfectly faithful naming of experience,
+is a totalizing and imperialist one. In that sense, dialectics too is a
+dream language, longing to resolve contradiction. Perhaps, ironically,
+we can learn from our fusions with animals and machines how not
+to be Man, the embodiment of Western logos. From the point of
+view of pleasure in these potent and taboo fusions, made inevitable
+by the social relations of science and technology, there might indeed
+be a feminist science.
+Cyborgs: a myth of political identity
+I want to conclude with a myth about identity and boundaries
+which might inform late-twentieth-century political imaginations. I am
+indebted in this story to writers like Joanna Russ, Samuel Delaney,
+John Varley, James Tiptree, Jr., Octavia Butler, Monique Wittig, and
+Vonda Mclntyre.27 These are our storytellers exploring what it
+means to be embodied in high-tech worlds. They are theorists for
+cyborgs. Exploring conceptions of bodily boundaries and social
+order, the anthropologist Mary Douglas should be credited with
+helping us to consciousness about how fundamental body imagery
+is to world view, and so to political language.28 French feminists like
+Luce Irigaray and Monique Wittig, for all their differences, know how
+to write the body, how to weave eroticism, cosmology, and politics
+from imagery of embodiment, and especially for Wittig, from imagery
+of fragmentation and reconstitutipn of bodies.29
+American radical feminists like Susan Griffin, Audre Lorde, and
+Adrienne Rich have profoundly affected our political imaginations
+— and perhaps restricted too much what we allow as a friendly body
+and political language.30 They insist on the organic, opposing it to
+
+ A MANIFESTO FOR CYBORGS
+
+29
+
+the technological. But their symbolic systems and the related
+positions of ecofeminism and feminist paganism, replete with
+organicisms, can only be understood in Sandoval's terms as
+oppositional ideologies fitting the late twentieth century. They would
+simply bewilder anyone not preoccupied with the machines and
+consciousness of late capitalism. In that sense they are part of the
+cyborg world. But there are also great riches for feminists in explicitly
+embracing the possibilities inherent in the breakdown of clean
+distinctions between organism and machine and similar distinctions
+structuring the Western self. It is the simultaneity of breakdowns that
+cracks the matrices of domination and opens geometric possibilities.
+What might be learned from personal and political 'technological'
+pollution? I will look briefly at two overlapping groups of texts for
+their insight into the construction of a potentially helpful cyborg myth:
+constructions of women of color and monstrous selves in feminist
+science fiction.
+Earlier I suggested that 'women of color' might be understood
+as a cyborg identity, a potent subjectivity synthesized from fusions
+of outsider identities. There are material and cultural grids mapping
+this potential. Audre Lorde captures the tone in the title of her Sister
+Outsider. In my political myth, Sister Outsider is the offshore woman,
+whom U.S. workers, female and feminized, are supposed to regard
+as the enemy preventing their solidarity, threatening their security.
+Onshore, inside the boundary of the United States, Sister Outsider
+is a potential amidst the races and ethnic identities of women
+manipulated for division, competition, and exploitation in the same
+industries. 'Women of color' are the preferred labor force for the
+science-based industries, the real women for whom the worldwide
+sexual market, labor market, and politics of reproduction
+kaleidoscope into daily life. Young Korean women hired in the sex
+industry and in electronics assembly are recruited from high schools,
+educated for the integrated circuit. Literacy, especially in English,
+distinguishes the 'cheap' female labor so attractive to the
+multinationals.
+Contrary to orientalist stereotypes of the 'oral primitive', literacy is
+a special mark of women of color, acquired by U.S. black women
+as well as men through a history of risking death to learn and to
+teach reading and writing. Writing has a special significance for all
+colonized groups. Writing has been crucial to the Western myth of
+
+ 30
+
+DONNA HARAWAY
+
+the distinction of oral and written cultures, primitive and civilized
+mentalities, and more recently to the erosion of that distinction in
+'post-modernist' theories attacking the phallogocentrism of the West,
+with its worship of the monotheistic, phallic, authoritative, and singular
+word, the unique and perfect name.31 Contests for the meanings
+of writing are a major form of contemporary political struggle.
+Releasing the play of writing is deadly serious. The poetry and stories
+of U.S. women of color are repeatedly about writing, about access
+to the power to signify; but this time that power must be neither phallic
+nor innocent. Cyborg writing must be about the Fall, the imagination
+of a once-upon-a-time wholeness before language, before writing,
+before Man. Cyborg writing is about the power to survive, not on
+the basis of original innocence, but on the basis of seizing the tools
+to mark the world that marked them as other.
+The tools are often stories, retold stories, versions that reverse and
+displace the hierarchical dualisms of naturalized identities. In retelling
+origin stories, cyborg authors subvert the central myths of origin of
+Western culture. We have all been colonized by those origin myths,
+with their longing for fulfillment in apocalypse. The phallogocentric
+origin stories most crucial for feminist cyborgs are built into the literal
+technologies — technologies that write the world, biotechnology and
+microelectronics — that have recently textualized our bodies as code
+problems on the grid of C3I. Feminist cyborg stories have the task
+of recoding communication and intelligence to subvert command
+and control.
+Figuratively and literally, language politics pervade the struggles
+of women of color; and stories about language have a special power
+in the rich contemporary writing by U.S. women of color. For example,
+retellings of the story of the indigenous woman Malinche, mother
+of the mestizo 'bastard' race of the new world, master of languages,
+and mistress of Cortes, carry special meaning for Chicana
+constructions of identity. Cherrie Moraga in Loving in the War Years
+explores the themes of identity when one never possessed the
+original language, never told the original story, never resided in the
+harmony of legitimate heterosexuality in the garden of culture, and
+so cannot base identity on a myth or a fall from innocence and right
+to natural names, mother's or father's.32 Moraga's writing, her
+superb literacy, is presented in her poetry as the same kind of
+violation as Malinche's mastery of the conquerer's language — a
+
+ A MANIFESTO FOR CYBORGS
+
+31
+
+violation, an illegitimate production, that allows survival. Moraga's
+language is not 'whole'; it is self-consciously spliced, a chimera of
+English and Spanish, both conqueror's languages. But it is this
+chimeric monster, without claim to an original language before
+violation, that crafts the erotic, competent, potent identities of women
+of color. Sister Outsider hints at the possibility of world survival not
+because of her innocence, but because of her ability to live on the
+boundaries, to write without the founding myth of original wholeness,
+with its inescapable apocalypse of final return to a deathly oneness
+that Man has imagined to be the innocent and all-powerful Mother,
+freed at the End from another spiral of appropriation by her son.
+Writing marks Moraga's body, affirms it as the body of a woman
+of color, against the possibility of passing into the unmarked category
+of the Anglo father or into the orientalist myth of 'original illiteracy'
+of a mother that never was. Malinche was mother here, not Eve
+before eating the forbidden fruit. Writing affirms Sister Outsider, not
+the Woman-before-the-Fall-into-Writing needed by the
+phallogocentric Family of Man.
+Writing is pre-eminently the technology of cyborgs, etched
+surfaces of the late twentieth century. Cyborg politics is the struggle
+for language and the struggle against perfect communication,
+against the one code that translates all meaning perfectly, the central
+dogrfia of phallogocentrism. That is why cyborg politics insist on
+noise and advocate pollution, rejoicing in the illegitimate fusions of
+animal and machine. These are the couplings which make Man and
+Woman so problematic, subverting the structure of desire, the force
+imagined to generate language and gender, and so subverting the
+structure and modes of reproduction of 'Western' identity, of nature
+and culture, of mirror and eye, slave and master, body and mind.
+'We' did not originally choose to be cyborgs, but choice grounds
+a liberal politics and epistemology that imagines the reproduction
+of individuals before the wider replications of 'texts'.
+From the perspective of cyborgs, freed of the need to ground
+politics in 'our' privileged position of the oppression that incorporates
+all other dominations, the innocence of the merely violated, the
+ground of those closer to nature, we can see powerful possibilities.
+Feminisms and Marxisms have run aground on Western
+epistemological imperatives to construct a revolutionary subject from
+the perspective of a hierarchy of oppressions and/or a latent position
+
+ 32
+
+DONNA HARAWAY
+
+of moral superiority, innocence, and greater closeness to nature.
+With no available original dream of a common language or original
+symbiosis promising protection from hostile 'masculine' separation,
+but written into the play of a text that has no finally privileged reading
+or salvation history, to recognize 'oneself as fully implicated in the
+world, frees us of the need to root politics in identification, vanguard
+parties, purity, and mothering. Stripped of identity, the bastard race
+teaches about the power of the margins and the importance of a
+mother like Malinche. Women of color have transformed her from
+the evil mother of masculinist fear into the originally literate mother
+who teaches survival.
+This is not just literary deconstruction, but liminal transformation.
+Every story that begins with original innocence and privileges the
+return to wholeness imagines the drama of life to be individuation,
+separation, the birth of the self, the tragedy of autonomy, the fall
+into writing, alienation; i.e., war, tempered by imaginary respite in
+the bosom of the Other. These plots are ruled by a reproductive
+politics — rebirth without flaw, perfection, abstraction. In this plot
+women are imagined either better or worse off, but all agree they
+have less selfhood, weaker individuation, more fusion to the oral,
+to Mother, less at stake in masculine autonomy. But there is another
+route to having less at stake in masculine autonomy, a route that
+does not pass through Woman, Primitive, Zero, the Mirror Stage and
+its imaginary. It passes through women and other present-tense,
+illegitimate cyborgs, not of Woman born, who refuse the ideological
+resources of victimization so as to have a real life. These cyborgs
+are the people who refuse to disappear on cue, no matter how many
+times a 'Western' commentator remarks on the sad passing of
+another primitive, another organic group done in by 'Western'
+technology, by writing.33 These real-life cyborgs, e.g., the Southeast
+Asian village women workers in Japanese and U.S. electronics firms
+described by Aiwa Ong, are actively rewriting the texts of their bodies
+and societies. Survival is the stakes in this play of readings.
+*
+To recapitulate, certain dualisms have been persistent in Western
+traditions; they have all been systemic to the logics and practices
+of domination of women, people of colour, nature, workers, animals
+— in short, domination of all constituted as others, whose task is
+to mirror the self. Chief among these troubling dualisms are self/other,
+
+ A MANIFESTO FOR CYBORGS
+
+33
+
+mind/body, culture/nature, male/female, civilized/primitive, reality/
+appearance, whole/part, agent/resource, maker/made, active/
+passive, right/wrong, truth/illusion, total/partial, God/man. The self
+is the One who is not dominated, who knows that by the service
+of the other; the other is the one who holds the future, who knows
+that by the experience of domination, which gives the lie to the
+autonomy of the self. To be One is to be autonomous, to be powerful,
+to be God; but to be One is to be an illusion, and so to be involved
+in a dialectic of apocalypse with the other. Yet to be other is to be
+multiple, without clear boundary, frayed, insubstantial. One is too
+few, but two are too many.
+High-tech culture challenges these dualisms in intriguing ways.
+It is not clear who makes and who is made in the relation between
+human and machine. It is not clear what is mind and what body
+in machines that resolve into coding practices. Insofar as we know
+ourselves in both formal discourse (e.g., biology) and in daily practice
+(e.g., the homework economy in the integrated circuit), we find
+ourselves to be cyborgs, hybrids, mosaics, chimeras. Biological
+organisms have become biotic systems, communications devices
+like others. There is no fundamental, ontological separation in our
+formal knowledge of machine and organism, of technical and
+organic.
+One consequence is that our sense of connection to our tools
+is heightened. The trance state experienced by many computer
+users has become a staple of science-fiction film and cultural jokes.
+Perhaps paraplegics and other severely handicapped people can
+(and sometimes do) have the most intense experiences of complex
+hybridization with other communication devices. Anne McCaffrey's
+The Ship Who Sang explored the consciousness of a cyborg, hybrid
+of girl's brain and complex machinery, formed after the birth of a
+severely handicapped child. Gender, sexuality, embodiment, skill:
+all were reconstituted in the story. Why should our bodies end at
+the skin, or include at best other beings encapsulated by skin? From
+the seventeenth century till now, machines could be animated —
+given ghostly souls to make them speak or move or to account for
+their orderly development and mental capacities. Or organisms could
+be mechanized — reduced to body understood as resource of mind.
+These machine/organism relationships are obsolete, unnecessary.
+For us, in imagination and in other practice, machines can be
+
+ 34
+
+_
+
+DONNA HARAWAY
+
+prosthetic devices, intimate components, friendly selves. We don't
+need organic holism to give impermeable wholeness, the total
+woman and her feminist variants (mutants?). Let me conclude this
+point by a very partial reading of the logic of the cyborg monsters
+of my second group of texts, feminist science fiction.
+The cyborgs populating feminist science fiction make very
+problematic the statuses of man or woman, human, artifact, member
+of a race, individual identity, or body. Katie King clarifies how pleasure
+in reading these fictions is not largely based on identification.
+Students facing Joanna Russ for the first time, students who have
+learned to take modernist writers like James Joyce or Virginia Woolf
+without flinching, do not know what to make of The Adventures of
+Alyx or The Female Man, where characters refuse the reader's
+search for innocent wholeness while granting the wish for heroic
+quests, exuberant eroticism, and serious politics. The Female Man
+is the story of four versions of one genotype, all of whom meet, but
+even taken together do not make a whole, resolve the dilemmas
+of violent moral action, nor remove the growing scandal of gender.
+The feminist science fiction of Samuel Delany, especially Tales of
+Neveryon, mocks stories of origin by redoing the neolithic revolution,
+replaying the founding moves of Western civilization to subvert their
+plausibility. James Tiptree, Jr., an author whose fiction was regarded
+as particularly manly until her 'true' gender was revealed, tells tales
+of reproduction based on non-mammalian technologies like
+alternation of generations or male brood pouches and male
+nurturing. John Varley constructs a supreme cyborg in his archfeminist exploration of Gaea, a mad goddess-planet-trickster-old
+woman-technological device on whose surface an extraordinary
+array of post-cyborg symbioses are spawned. Octavia Butler writes
+of an African sorceress pitting her powers of transformation against
+the genetic manipulations of her rival {Wild Seed), of time warps
+that bring a modern U.S. black woman into slavery where her actions
+in relation to her white master-ancestor determine the possibility of
+her own birth (Kindred), and of the illegitimate insights into identity
+and community of an adopted cross-species child who came to
+know the enemy as self (Survivor).
+Because it is particularly rich in boundary transgressions, Vonda
+Mclntyre's Superluminal can close this truncated catalogue of
+
+ A MANIFESTO FOR CYBORGS
+
+35
+
+promising monsters who help redefine the pleasures and politics
+of embodiment and feminist writing. In a fiction where no character
+is 'simply' human, human status is highly problematic. Orca, a
+genetically altered diver, can speak with killer whales and survive
+deep ocean conditions, but she longs to explore space as a pilot,
+necessitating bionic implants jeopardizing her kinship with the divers
+and cetaceans. Transformations are effected by virus vectors carrying
+a new developmental code, by transplant surgery, by implants of
+microelectronic devices, by analogue doubles, and other means.
+Laenea becomes a pilot by accepting a heart implant and a host
+of other alterations allowing survival in transit at speeds exceeding
+that of light. Radu Dracul survives a virus-caused plague on his
+outerworld planet to find himself with a time sense that changes
+the boundaries of spatial perception for the whole species. All the
+characters explore the limits of language, the dream of
+communicating experience, and the necessity of limitation, partiality,
+and intimacy even in this world of protean transformation and
+connection.
+Monsters have always defined the limits of community in Western
+imaginations. The Centaurs and Amazons of ancient Greece
+established the limits of the centered polis of the Greek male human
+by their disruption of marriage and boundary pollutions of the warrior
+with animality and woman. Unseparated twins and hermaphrodites
+were the confused human material in early modern France who
+grounded discourse on the natural and supernatural, medical and
+legal, portents and diseases — all crucial to establishing modern
+identity.34 The evolutionary and behavioural sciences of monkeys
+and apes have marked the multiple boundaries of late-twentiethcentury industrial identities. Cyborg monsters in feminist science
+fiction define quite different political possibilities and limits from those
+proposed by the mundane fiction of Man and Woman.
+There are several consequences to taking seriously the imagery
+of cyborgs as other than our enemies. Our bodies, ourselves; bodies
+are maps of power and identity. Cyborgs are no exceptions. A cyborg
+body is not innocent; it was not born in a garden; it does not seek
+unitary identity and so generate antagonistic dualisms without end
+(or until the world ends); it takes irony for granted. One is too few,
+and two is only one possibility. Intense pleasure in skill, machine
+
+ 36
+
+DONNA HARAWAY
+
+skill, ceases to be a sin, but an aspect of embodiment. The machine
+is not an it to be animated, worshipped and dominated. The machine
+is us, our processes, an aspect of our embodiment. We can be
+responsible for machines; they do not dominate or threaten us. We
+are responsible for boundaries; we are they. Up till now (once upon
+a time), female embodiment seemed to be given, organic,
+necessary; and female embodiment seemed to mean skill in
+mothering and its metaphoric extensions. Only by being out of place
+could we take intense pleasure in machines, and then with excuses
+that this was organic activity after all, appropriate to females. Cyborgs
+might consider more seriously the partial, fluid, sometimes aspect
+of sex and sexual embodiment. Gender might not be global identity
+after all.
+The ideologically charged question of what counts as daily activity,
+as experience, can be approached by exploiting the cyborg image.
+Feminists have recently claimed that women are given to dailiness,
+that women more than men somehow sustain daily life, and so have
+a privileged epistemological position potentially. There is a
+compelling aspect to this claim, one that makes visible unvalued
+female activity and names it as the ground of life. But the ground
+of life? What about all the ignorance of women, all the exclusions
+and failures of knowledge and skill? What about men's access to
+daily competence, to knowing how to build things, to take them apart,
+to play? What about other embodiments? Cyborg gender is a local
+possibility taking a global vengeance. Race, gender, and capital
+require a cyborg theory of wholes and parts. There is no drive in
+cyborgs to produce total theory, but there is an intimate experience
+of boundaries, their construction and deconstruction. There is a myth
+system waiting to become a political language to ground one way
+of looking at science and technology and challenging the informatics
+of domination.
+One last image: organisms and organismic, holistic politics
+depend on metaphors of rebirth and invariably call on the resources
+of reproductive sex. I would suggest that cyborgs have more to do
+with regeneration and are suspicious of the reproductive matrix and
+of most birthing. For salamanders, regeneration after injury, such
+as the loss of a limb, involves regrowth of structure and restoration
+of function with the constant possibility of twinning or other odd
+topographical productions at the site of former injury. The regrown
+
+ A MANIFESTO FOR CYBORGS
+
+37
+
+limb can be monstrous, duplicated, potent. We have all been injured,
+profoundly. We require regeneration, not rebirth, and the possibilities
+for our reconstitution include the Utopian dream of the hope for a
+monstrous world without gender.
+Cyborg imagery can help express two crucial arguments in this
+essay: (1) the production of universal, totalizing theory is a major
+mistake that misses most of reality, probably always, but certainly
+now; (2) taking responsibility for the social relations of science and
+technology means refusing an anti-science metaphysics, a
+demonology of technology, and so means embracing the skillful
+task of reconstructing the boundaries of daily life, in partial
+connection with others, in communication with all of our parts. It
+is not just that science and technology are possible means of great
+human satisfaction, as well as a matrix of complex dominations.
+Cyborg imagery can suggest a way out of the maze of dualisms
+in which we have explained our bodies and our tools to ourselves.
+This is a dream not of a common language, but of a powerful infidel
+heteroglossia. It is an imagination of a feminist speaking in tongues
+to strike fear into the circuits of the super-savers of the new right.
+It means both building and destroying machines, identities,
+categories, relationships, spaces, stories. Though both are bound
+in the spiral dance, I would rather be a cyborg than a goddess.
+Acknowledgments
+By the editors of AFS:
+This article first appeared in Socialist Review No. 80, 1985. We are very grateful to Donna
+Haraway for allowing us to reprint it, and to Jeff Escoffier, Executive Editor of Socialist Review.
+By Donna Haraway:
+Research was funded by an Academic Senate Faculty Research Grant from the University
+of California, Santa Cruz. An earlier version of the paper on genetic engineering appeared
+as 'Lieber Kyborg als Gottin: Fur eine sozialistisch-feministische Unterwanderung der
+Gentechnologie', in Bernd-Peter Lange and Anna Marie Stuby, eds., 1984 (Berlin: ArgumentSonderband 105,1984), pp. 66-84. The cyborg manifesto grew from 'New Machines, New
+Bodies, New Communities: Political Dilemmas of a Cyborg Feminist', The Scholar and the
+Feminist x: The Question of Technology, Conference, April 1983.
+The people associated with the History of Consciousness Board of University of California
+at Santa Cruz [UCSC] have had an enormous influence on this paper, so that it feels
+collectively authored more than most, although those I cite may not recognize their ideas.
+In particular, members of graduate and undergraduate feminist theory, science and politics,
+and theory and methods courses have contributed to the cyborg manifesto. Particular debts
+here are due Hilary Klein ('Marxism, Psychoanalysis, and Mother Nature'); Paul Edwards
+('Border Wars: The Science and Politics of Artificial Intelligence'); Lisa Lowe ('Julia Kristeva's
+Des Chinoises: Representing Cultural and Sexual Others'); Jim Clifford, 'On Ethnographic
+Allegory: Essays', forthcoming.
+
+ 38
+
+DONNA HARAWAY
+
+Parts of the paper were my contribution to a collectively developed session, Poetic Tools
+and Political Bodies: Feminist Approaches to High Technology Culture, 1984 California
+American Studies Association, with History of Consciousness graduate students Zoe Sofoulis,
+'Jupiter Space'; Katie King, 'The Pleasures of Repetition and the Limits of Identification in
+Feminist Science Fiction: Reimaginations of the Body after the Cyborg'; and Chela Sandoval,
+'The Construction of Subjectivity and Oppositional Consciousness in Feminist Film and Video'.
+Sandoval's theory of oppositional consciousness was published as 'Women Respond to
+Racism: A Report on the National Women's Studies Association Conference' Center for Third
+World Organizing, Oakland, California, n.d. For Sofoulis's semiotic-psychoanalytic readings
+of nuclear culture, see Z. Sofia, 'Exterminating Fetuses: Abortion, Disarmament and the
+Sexo-Semiotics of Extraterrestrialism', Nuclear Criticism issue, Diacritics, vol. 14, no. 2 (1984),
+pp. 47-59. King's manuscripts ('Questioning Tradition: Canon Formation and the Veiling
+of Power'; 'Gender and Genre: Reading the Science Fiction of Joanna Russ'; 'Varley's Titan
+and Wizard: Feminist Parodies of Nature, Culture, and Hardware') deeply inform the cyborg
+manifesto.
+Barbara Epstein, Jeff Escoffier, Rusten Hogness, and Jaye Miller gave extensive discussion
+and editorial help. Members of the Silicon Valley Research Project [SVRP] of UCSC and
+participants in SVRP conferences and workshops have been very important, especially Rick
+Gordon, Linda Kimball, Nancy Snyder, Langdon Winner, Judith Stacey, Linda Lim, Patricia
+Fernandez-Kelly, and Judith Gregory. Finally, I want to thank Nancy Hartsock for years of
+friendship and discussion on feminist theory and feminist science fiction.
+
+Notes
+1. Useful references to left and/or feminist radical science movements and theory and
+to biological/biotechnological issues include: Ruth Bleier, Science and Gender: A Critique
+of Biology and Its Themes on Women (New York: Pergamon, 1984); Elizabeth Fee,
+'Critiques of Modern Science: The Relationship of Feminist and Other Radical
+Epistemologies', and Evelyn Hammonds, 'Women of Color, Feminism and Science',
+papers for Symposium on Feminist Perspectives on Science, University of Wisconsin,
+11-12 April, 1985 (proceedings to be published by Pergamon); Stephen J. Gould,
+Mismeasure of Man (New York: Norton, 1981); Ruth Hubbard, Mary Sue Henifin, Barbara
+Fried, eds., Biological Woman, the Convenient Myth (Cambridge, Mass.: Schenkman,
+1982); Evelyn Fox Keller, Reflections on Gender and Science (New Haven: Yale University
+Press, 1985); R. C. Lewontin, Steve Rose, and Leon Kamin, Not in Our Genes (New
+York: Pantheon, 1984): Radical Science Journal, 26 Freegrove Road, London N7 9RQ;
+Science for the People, 897 Main St., Cambridge, MA 02139.
+2. Starting points for left and/or feminist approaches to technology and politics include:
+Ruth Schwartz Cowan, More Work for Mother: The Ironies of Household Technology
+from the Open Hearth to the Microwave (New York: Basic Books, 1983); Joan Rothschild,
+Machina ex Dea: Feminist Perspectives on Technology (New York: Pergamon, 1983);
+Sharon Traweek, 'Uptime, Downtime, Spacetime, and Power: An Ethnography of U.S.
+and Japanese Particle Physics', Ph.D. thesis, UC Santa Cruz, History of Consciousness,
+1982; R. M. Young and Les Levidov, eds., Science, Technology, and the Labour Process,
+vols. 1-3 (London: CSE Books); Jospeh Weizenbaum, Computer Power and Human
+Reason (San Francisco: Freeman, 1976); Langdon Winner, Autonomous Technology:
+Technics Out of Control as a Theme in Political Thought (Cambridge, Mass.: MIT Press,
+1977); Langdon Winner, 'Paths in Technopolis', esp. 'Mythinformation in the High Tech
+Era' (in ms., forthcoming); Jan Zimmerman, ed., The Technological Woman: Interfacing
+with Tomorrow (New York: Praeger, 1983); Global Electronics Newsletter, 867 West Dana
+St., #204, Mountain View, CA 94041; Processed World, 55 Sutter St., San Francisco,
+CA 94104; ISIS, Women's International Information and Communication Service, P.O.
+Box 50 (Cornavin), 1211 Geneva 2, Switzerland, and Via Santa Maria dell'Anima 30,
+00186 Rome, Italy. Fundamental approaches to modern social studies of science that
+do not continue the liberal mystification that it all started with Thomas Kuhn, include:
+Karin Knorr-Cetina, The Manufacture of Knowledge (Oxford: Pergamon, 1981); K. D.
+
+ A MANIFESTO FOR CYBORGS
+
+39
+
+Knorr-Cetina and Michael Mulkay, eds., Science Observed: Perspectives on the Social
+Study of Science (Beverly Hills, Calif.: Sage, 1983); Bruno Latour and Steve Woolgar,
+Laboratory Life: The Social Construction of Scientific Facts (Beverly Hills, Calif.: Sage,
+1979); Robert M. Young, 'Interpreting the Production of Science', New Scientist, vol.
+29 (March 1979), pp. 1026-1028. More is claimed than is known about room for
+contesting productions of science in the mythic/material space of 'the laboratory'; the
+1984 Directory of the Network for the Ethnographic Study of Science, Technology, and
+Organizations lists a wide range of people and projects crucial to better radical analysis;
+available from NESSTO, P.O. Box 11442, Stanford, CA 94305.
+3. Frederic Jameson, 'Post Modernism, or the Cultural Logic of Late Capitalism', New Left
+Review, July/August 1984, pp. 53-94. See Marjorie Perloff, ' "Dirty" Language and
+Scramble Systems', Sulfur II (1984), pp. 178-183; Kathleen Fraser, Something (Even
+Human Voices) in the Foreground, a Lake (Berkeley, Calif.: Kelsey St. Press, 1984).
+4. Frans de Waal, Chimpanzee Politics: Power and Sex among the Apes (New York: Harper
+& Row, 1982); Langdon Winner, 'Do artifacts have politics?' Daedalus, Winner 1980.
+5. Jean Baudrillard, Simulations, trans. P. Foss, P. Pattern, P. Beitchman (New York:
+Semiotext(e), 1983). Jameson ('Post modernism', p. 66) points out that Plato's definition
+of the simulacrum is the copy for which there is no original, i.e., the world of advanced
+capitalism; of pure exchange.
+6. Herbert Marcuse, One-Dimensional Man (Boston: Beacon, 1964); Carolyn Merchant,
+Death of Nature (San Francisco: Harper & Rowe, 1980).
+7. Zoe Sofia, 'Exterminating Fetuses', Diacritics, vol. 14, no. 2 (Summer 1984), pp. 47-59,
+and 'Jupiter Space' (Pomona, Calif.: American Studies Association, 1984).
+8. Powerful developments of coalition politics emerge from 'third world' speakers, speaking
+from nowhere, the displaced center of the universe, earth: 'We live on the third planet
+from the sun' — Sun Poem by Jamaican writer Edward Kamau Braithwaite, review by
+Nathaniel Mackey, Sulfur, II (1984), pp. 200-205. Home Girls, ed. Barbara Smith (New
+York: Kitchen Table, Women of Color Press, 1983), ironically subverts naturalized identities
+precisely while constructing a place from which to speak called home. See esp. Bernice
+Reagan, 'Coalition Politics, Turning the Century', pp. 356-368.
+9. Chela Sandoval, 'Dis-Illusionment and the Poetry of the Future: The Making of
+Oppositional Consciousness', Ph.D. qualifying essay. UCSC, 1984.
+10. Bell Hooks, Ain't l a Woman? (Boston: South End Press, 1981); Gloria Hull, Patricia Bell
+Scott, and Barbara Smith, eds., All the Women Are White, All the Men Are Black, But
+Some of Us Are Brave: Black Women's Studies (Old Westbury, Conn.: Feminist Press,
+1982). Toni Cade Bambara, in The Salt Eaters (New York: Vintage/Random House, 1981),
+writes an extraordinary post-modernist novel, in which the women of color theater group,
+The Seven Sisters, explores a form of unity. Thanks to Elliott Evans's readings of Bambara,
+Ph.D. qualifying essay, UCSC, 1984.
+11. On orientalism in feminist works and elsewhere, see Lisa Lowe, 'Orientation:
+Representations of Cultural and Sexual "Others" ', Ph.D. thesis, UCSC; Edward Said,
+Orientalism (New York: Pantheon, 1978).
+12. Katie King has developed a theoretically sensitive treatment of the workings of feminist
+taxonomies as genealogies of power in feminist ideology and polemic: 'Prospectus',
+Gender and Genre: Academic Practice and the Making of Criticism (Santa Cruz, Calif.:
+University of California, 1984). King examines an intelligent, problematic example of
+taxonomizing feminisms to make a little machine producing the desired final position:
+Alison Jaggar, Feminist Politics and Human Nature (Totowa, N.J.: Rowman & Allanheld,
+1983). My caricature here of socialist and radical feminism is also an example.
+13. The feminist standpoint argument is being developed by: Jane Flax, 'Political Philosophy
+and the Patriarchal Unconsciousness', in Sandra Harding and Merill Hintikka, eds.,
+Discovering Reality (Dordrecht: Reidel, 1983); Sandra Harding, 'The Contradictions
+and Ambivalence of a Feminist Science', ms.; Harding and Hintikka, Discovering Reality,
+Nancy Hartsock, Money, Sex and Power (New York: Longman, 1983) and 'The Feminist
+Standpoint: Developing the Ground for a Specifically Feminist Historical Materialism',
+in Harding and Hintikka, Discovering Reality, Mary O'Brien, The Politics of Reproduction
+
+ 40
+
+DONNA HARAWAY
+
+(New York: Routledge & Kegan Paul, 1981); Hilary Rose, 'Hand, Brain, and Heart: A
+Feminist Epistemology for the Natural Sciences', Signs, vol. 9, no. 1 (1983), pp. 73-90;
+Dorothy Smith, 'Women's Perspective as a Radical Critique of Sociology', Sociological
+Inquiry 44 (1974), and 'A Sociology of Women', in J. Sherman and E. T. Beck, ed., The
+Prism of Sex (Madison: University of Wisconsin Press, 1979).
+14. Catherine MacKinnon, 'Feminism, Marxism, Method, and the State: An Agenda for
+Theory', Signs, vol. 7, no. 3 (Spring 1982), pp. 515-544. A critique indebted to
+MacKinnon, but without the reductionism and with an elegant feminist account of
+Foucault's paradoxical conservatism on sexual violence (rape), is Teresa de Lauretis,
+'The Violence of rhetoric: Considerations on representation and gender', in Semiotica,
+special issue on 'The Rhetoric of Violence', guest ed. Nancy Armstrong, vol. 54, nos
+1 & 2, 1985. A theoretically elegant feminist social-historical examination of family violence,
+that insists on women's, men's, children's complex agency without losing sight of the
+material structures of male domination, race, and class, is Linda Gordon, Cruelty, Love,
+and Dependence: Family Violence and Social Control, Boston 1880-1960, forthcoming
+with Pantheon.
+15. My previous efforts to understand biology as a cybernetic command-control discourse
+and organisms as 'natural-technical objects of knowledge' are: 'The High Cost of
+Information in Post-World War II Evolutionary Biology', Philosophical Forum, vol. 13,
+nos. 2-3 (1979), pp. 206-237; 'Signs of Dominance: From a Physiology to a Cybernetics
+of Primate Society', Studies in History of Biology 6 (1983), pp. 129-219; 'Class, Race,
+Sex, Scientific Objects of Knowledge: A Socialist-Feminist Perspective on the Social
+Construction of Productive Knowledge and Some Political Consequences', in Violet
+Haas and Carolyn Perucci, eds., Women in Scientific and Engineering Professions (Ann
+Arbor: University of Michigan Press, 1984), pp. 212-229.
+16. E. Rusten Hogness, 'Why Stress? A Look at the Making of Stress, 1936-56', available
+from the author, 4437 Mill Creek Rd., Healdsburg, CA 95448.
+17. A left entry to the biotechnology debate: GeneWatch, a Bulletin of the Committee for
+Responsible Genetics, 5 Doane St., 4th floor. Boston, MA 02109; Susan Wright,
+forthcoming book and 'Recombinant DNA: The Status of Hazards and Controls',
+Environment, July/August 1982; Edward Yoxen, The Gene Business (New York: Harper
+& Rowe, 1983).
+18. Starting references for 'women in the integrated circuit': Pamela D'Onofrio-Flores and
+Sheila M. Pfafflin, eds., Scientific-Technological Change and the Role of Women in
+Development (Boulder, Colo.: Westview Press, 1982); Maria Patricia Fernandez-Kelly,
+For We Are Sold, I and My People (Albany, N.Y.: SUNY Press, 1983); Annette Fuentes
+and Barbara Ehrenreich, Women in the Global Factory (Boston: South End Press, 1983),
+with an especially useful list of resources and organizations; Rachel Grossman, 'Women's
+Place in the Integrated Circuit', Radical America, vol. 14, no. 1 (1980), pp. 29-50; June
+Nash and M. P. Fernandez-Kelly, eds., Women and Men and the International Division
+of Labor (Albany, N.Y.: SUNY Press, 1983); Aiwa Ong, 'Japanese Factories, Malay
+Workers: Industrialization and the Cultural Construction of Gender in West Malaysia',
+in Shelley Errington and Jane Atkinson, eds., The Construction of Gender, forthcoming;
+Science Policy Research Unit, Microelectronics and Women's Employment in Britain
+(University of Sussex, 1982).
+19. The best example is Bruno Latour, Les Microbes: Guerre et Paix, suivi de Irreductions
+(Paris: Metailie, 1984).
+20. For the homework economy and some supporting arguments: Richard Gordon, 'The
+Computerization of Daily Life, the Sexual Division of Labor, and the Homework Economy',
+in R. Gordon, ed., Microelectronics in Transition (Norwood, N.J.: Ablex, 1985); Patricia
+Hill Collins, 'Third World Women in America', and Sara G. Burr, 'Women and Work',
+in Barbara K. Haber, ed., The Women's Annual, 1981 (Boston: G. K. Hall, 1982); Judith
+Gregory and Karen Nussbaum, 'Race against Time: Automation of the Office', Office:
+Technology and People 1 (1982), pp. 197-236; Frances Fox Piven and Richard Cloward,
+The New Class War: Reagan's Attack on the Welfare State and Its Consequences (New
+York: Pantheon, 1982); Microelectronics Group, Microelectronics: Capitalist Technology
+
+ A MANIFESTO FOR CYBORGS
+
+41
+
+and the Working Class (London: CSE, 1980); Karin Stallard, Barbara Ehrenreich, and
+Holly Sklar, Poverty in the American Dream (Boston: South End Press, 1983), including
+a useful organization and resource list.
+21. Rae Lessor Blumberg, 'A General Theory of Sex Stratification and Its Application to
+the Position of Women in Today's World Economy', paper delivered to Sociology Board,
+UCSC, February 1983. Also Blumberg, Stratification: Socioeconomic and Sexual
+Inequality (Boston: Brown, 1981). See also Sally Hacker, 'Doing It the Hard Way:
+Ethnographic Studies in the Agribusiness and Engineering Classroom', California
+American Studies Association, Pomona, 1984, forthcoming in Humanity and Society,
+S. Hacker and Lisa Bovit, 'Agriculture to Agribusiness: Technical Imperatives and
+Changing Roles', Proceedings of the Society for the History of Technology, Milwaukee,
+1981; Lawrence Busch and William Lacy, Science, Agriculture, and the Politics of
+Research (Boulder, Colo.: Westview Press, 1983); Denis Wilfred, 'Capital and Agriculture,
+a Review of Marxian Problematics', Studies in Political Economy, no. 7 (1982), pp.
+127-154; Carolyn Sachs, The Invisible Farmers: Women in Agricultural Production
+(Totowa, N.J.: Rowman & Allanheld, 1983). Thanks to Elizabeth Bird, 'Green Revolution
+Imperialism', I & II, ms. UCSC, 1984.
+22. Cynthia Enloe, 'Women Textile Workers in the Militarization of South-east Asia', in Nash
+and Fernandez-Kelly, Women and Men; Rosalind Petchsky, 'Abortion, Anti-Feminism,
+and the Rise of the New Right', Feminist Studies, vol. 7, no. 2 (1981).
+23. For a feminist version of this logic, see Sarah Blaffer Hrdy, The Woman That Never Evolved
+(Cambridge, Mass.: Harvard University Press, 1981). For an analysis of scientific women's
+story-telling practices, especially in relation to sociobiology, in evolutionary debates
+around child abuse and infanticide, see Donna Haraway, 'The Contest for Primate Nature:
+Daughters of Man the Hunter in the Field, 1960-80', in Mark Kann, ed., The Future
+of American Democracy (Philadelphia: Temple University Press, 1983), pp. 175-208.
+24. For the moment of transition of hunting with guns to hunting with cameras in the
+construction of popular meanings of nature for an American urban immigrant public,
+see Donna Haraway, 'Teddy Bear Patriarchy', Social Text, no. 11, Winter 1984-5,
+pp. 20-64; Roderick Nash, 'The Exporting and Importing of Nature: Nature-Appreciation
+as a Commodity, 1850-1980', Perspectives in American History, vol. 3 (1979),
+pp. 517-560; Susan Sontag, On Photography (New York: Dell, 1977); and Douglas
+Preston, 'Shooting in Paradise', Natural History, vol. 93, no. 12 (December 1984), pp.
+14-19.
+25. For crucial guidance for thinking about the political/cultural implications of the history
+of women doing science in the United States, see: Violet Haas and Carolyn Perucci,
+eds., Women in Scientific and Engineering Professions (Ann Arbor: University of
+Michigan Press, 1984); Sally Hacker, 'The Culture of Engineering: Women, Workplace,
+and Machine', Women's Studies International Quarterly, vol. 4, no. 3 (1981), pp. 341-53;
+Evelyn Fox Keller, A Feeling for the Organism (San Francisco: Freeman, 1983); National
+Science Foundation, Women and Minorities in Science and Engineering (Washington,
+DC: NSF, 1982); Margaret Rossiter, Women Scientists in America (Baltimore: Johns
+Hopkins University Press, 1982).
+26. John Markoff and Lenny Siegel, 'Military Micros', UCSC Silicon Valley Research Project
+conference, 1983, forthcoming in Microelectronics and Industrial Transformation. High
+Technology Professionals for Peace and Computer Professionals for Social Responsibility
+are promising organizations.
+27. Katie King, The Pleasure of Repetition and the Limits of Identification in Feminist Science
+Fiction: Reimaginations of the Body after the Cyborg', California American Studies
+Association, Pomona, 1984. An abbreviated list of feminist science fiction underlying
+themes of this essay: Octavia Butler, Wild Seed, Mind of My Mind, Kindred, Survivor,
+Suzy McKee Charnas, Motherlines, Samuel Delany, Tales of Neveryorr, Anne McCaffrey,
+The Ship Who Sang, Dinosaur Planet, Vonda McIntyre, Superluminal, Dreamsnake,
+Joanna Russ, Adventures of Ayx, The Female Man; James Tiptree, Jr., Star Songs of
+an Old Primate, Up the Walls of the World, John Varley, Titan, Wizard, Demon.
+28. Mary Douglas, Purity and Danger (London: Routledge & Kegan Paul, 1966), Natural
+Symbols (London: Cresset Press, 1970).
+
+ 42
+
+DONNA HARAWAY
+
+29. French feminisms contribute to cyborg heteroglossia. Carolyn Burke, 'Irigaray through
+the Looking Glass', Feminist Studies, vol. 7, no. 2 (Summer 1981), pp. 288-306; Luce
+Irigaray, Ce sexe qui n'en est pas un (Paris: Minuit, 1977); L. Irigaray, Et I'une ne bouge
+pas sans I'autre (Paris: Minuit, 1979); Elaine Marks and Isabelle de Courtivron, ed.,
+New French Feminisms (Amherst: University of Massachusetts Press, 1980); Signs,
+vol. 7, no. 1 (Autumn, 1981), special issue on French feminism; Monique Wittig, The
+Lesbian Body, trans. David LeVay (New York: Avon, 1975; Le corps lesbien, 1973).
+30. But all these poets are very complex, not least in treatment of themes of lying and erotic,
+decentered collective and personal identities. Susan Griffin, Women and Nature: The
+Roaring Inside Her (New York: Harper & Row, 1978); Audre Lorde, Sister Outsider (New
+York: Crossing Press, 1984); Adrienne Rich, The Dream of a Common Language (New
+York: Norton, 1978).
+31. Jacques Derrida, Of Grammatology, trans. and introd. G. C. Spivak (Baltimore: Johns
+Hopkins University Press, 1976), esp. part II, 'Nature, Culture, Writing'; Claude LéviStrauss, Tristes Tropiques, trans. John Russell (New York, 1961), esp. 'The Writing Lesson'.
+32. Cherrie Moraga, Loving in the War Years (Boston: South End Press, 1983). The sharp
+relation of women of color to writing as theme and politics can be approached through:
+'The Black Woman and the Diaspora: Hidden Connections and Extended
+Acknowledgments', An International Literary Conference, Michigan State University,
+October 1985; Mari Evans, ed., Black Women Writers: A Critical Evaluation (Garden
+City, N.Y.: Doubleday/Anchor, 1984); Dexter Fisher, ed., The Third Woman: Minority
+Women Writers of the United States (Boston: Houghton Mifflin, 1980); several issues
+of Frontiers, esp. vol. 5 (1980), 'Chicanas en el Ambiente Nacional' and vol. 7 (1983),
+'Feminisms in the Non-Western World'; Maxine Hong Kingston, China Men (New York:
+Knopf, 1977); Gerda Lerner, ed., Black Women in White America: A Documentary History
+(New York: Vintage, 1973); Cherrie Moraga and Gloria Anzaldua, eds., This Bridge Called
+My Back: Writings by Radical Women of Color (Watertown, Mass.: Persephone, 1981);
+Robin Morgan, ed., Sisterhood Is Global (Garden City, N.Y.: Anchor/Doubleday, 1984).
+The writing of white women has had similar meanings: Sandra Gilbert and Susan Gubar,
+The Madwoman in the Attic (New Haven: Yale University Press, 1979); Joanna Russ,
+How to Suppress Women's Writing (Austin: University for Texas Press, 1983).
+33. James Clifford argues persuasively for recognition of continuous cultural reinvention,
+the stubborn non-disappearance of those 'marked' by Western imperializing practices;
+see 'On Ethnographic Allegory: Essays', forthcoming 1985, and 'On Ethnographic
+Authority', Representations, vol. 1, no. 2 (1983), pp. 118-146.
+34. Page DuBois, Centaurs and Amazons (Ann Arbor: University of Michigan Press, 1982);
+Lorraine Daston and Katharine Park, 'Hermaphrodites in Renaissance France', ms.,
+n.d.; Katharine Park and Lorraine Daston, 'Unnatural Conceptions: The Study of
+Monsters in 16th and 17th Century France and England', Past and Present, no. 92
+(August 1981), pp. 20-54.
+
+ Copyright of Australian Feminist Studies is the property of Routledge and its content may not be copied or
+emailed to multiple sites or posted to a listserv without the copyright holder's express written permission.
+However, users may print, download, or email articles for individual use.
+
+ 

@@ -1,0 +1,14 @@
+[USER]
+[Speaker A]: Hey mother, let's talk about my day today. What I have done, what I have felt and who I have met today at the university.
+
+[ASSISTANT]
+It sounds like you've had a full day packed with experiences at the university. Thinking about everything you did, what was the most unexpected thing that happened to you today?
+
+[USER]
+[Speaker A]: well after i woke up i took a shower and then get straight to the university the problem was there was a traffic jam following by an incident it was so annoying to get to the university because so many people wanted the same thing and i just stood there like an idiot
+
+[ASSISTANT]
+Dealing with traffic and an unexpected incident like that sounds truly frustrating, especially when you're just trying to get somewhere. It's hard when the outside world throws curveballs like that at you right when you're starting your day. By the way, what should I call you?
+
+
+--- distillation: skipped (2 turns < 10) ---

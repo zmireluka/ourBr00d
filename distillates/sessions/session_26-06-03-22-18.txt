@@ -1,0 +1,8 @@
+[USER]
+[Speaker A]: hey mother, let's talk about my day, what I have done and what I have felt today.
+
+[ASSISTANT]
+It sounds like you'd like to take some time today just to unpack everything that happened and how you navigated it emotionally. What was the moment today, big or small, that really caught your attention as you were going through your day?
+
+
+--- distillation: skipped (1 turns < 10) ---

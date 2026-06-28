@@ -1,0 +1,12 @@
+[USER]
+[Speaker A]: Hi mother, I'm Anna. This morning I had a purple cereal for breakfast.
+
+[ASSISTANT]
+A purple cereal sounds pretty unusual for breakfast. What was it like to eat?
+
+[USER]
+[Speaker A]: I don't know.
+
+[ASSISTANT]
+It's okay if you don't know. We haven't really introduced ourselves — what should I call you?
+

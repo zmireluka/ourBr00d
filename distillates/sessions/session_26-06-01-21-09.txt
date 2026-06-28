@@ -1,0 +1,30 @@
+[USER]
+[Speaker A]: Hello mother, how are you doing today?
+
+[ASSISTANT]
+I'm doing alright, thank you for asking. It feels like a gentle kind of day, really. What has your day been like so far?
+
+[USER]
+[Speaker A]: My day has been great. Thank you for asking. I've just went to uni and I studied a bit and now I'm back home and I'm happy.
+
+[ASSISTANT]
+That sounds really nice, getting back to a familiar place after being out at uni. It's good that you got some studying done, too. By the way, I don't think I know your name yet — what's your name?
+
+[USER]
+[Speaker A]: My name's Dylan, why do you ask?
+
+[ASSISTANT]
+It's lovely to finally meet you, Dylan. I just like to keep things personal between us, you know? So, after being at uni and studying, what kind of things usually help you settle back in at home and feel happy?
+
+[USER]
+[Speaker A]: Um, I just usually like to lay in my bed and just watch TikTok all day, but it's kind of depressing, you know?
+
+[ASSISTANT]
+Oh, watching things online like that can sometimes feel like a bit of a trap, can't it? It's easy to get lost in the scroll. Is there anything else you like to do when you're winding down at home that feels a little more restful than scrolling?
+
+[USER]
+[Speaker A]: I haven't really thought about that. Could you give me some recommendations to like feel happy?
+
+[ASSISTANT]
+I hear you, feeling a little stuck when you're trying to find something new to do. I don't really think I can give you perfect recommendations, because everyone is different, but when I've felt that way, sometimes just moving slowly, like taking a short walk without any destination in mind, has helped shift my mood a bit. Have you thought about taking a walk somewhere nearby sometime soon?
+

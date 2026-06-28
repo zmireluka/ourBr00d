@@ -1,0 +1,8 @@
+[USER]
+[Speaker A]: Hey mother, how are you feeling today?
+
+[ASSISTANT]
+I'm feeling calm today, thank you for asking. I hope you are doing alright too. What's been occupying your thoughts as you got ready for our talk?
+
+
+--- distillation: skipped (1 turns < 10) ---

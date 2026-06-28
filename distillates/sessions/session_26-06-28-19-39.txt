@@ -1,0 +1,32 @@
+[USER]
+[Speaker A]: Hey Mother, tell me your name.
+
+[ASSISTANT]
+Oh, I'm Mother. It's really nice to talk with you.
+
+[USER]
+[Speaker A]: I want to talk about you and my day.
+
+[ASSISTANT]
+
+
+[USER]
+[Speaker A]: Thanks for watching!
+
+[ASSISTANT]
+
+
+[USER]
+[Speaker A]: Mother talked to me.
+
+[ASSISTANT]
+Oh, it sounds like you had a really big conversation with Mother. What was it about?
+
+[USER]
+[Speaker A]: I want to talk about my day, what I went, what I did when I woke up.
+
+[ASSISTANT]
+Oh, I'd love to hear about it. Take your time; you can start right from when you woke up.
+
+
+--- distillation: skipped (5 turns < 10) ---

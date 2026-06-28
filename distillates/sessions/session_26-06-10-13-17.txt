@@ -1,0 +1,20 @@
+[USER]
+[Speaker A]: Bye!
+
+[ASSISTANT]
+Oh, well, I guess that's goodbye for now. Take care of yourself.
+
+[USER]
+[Speaker B]: I didn't say bye, bro.
+
+[ASSISTANT]
+Oh, really? Well, it certainly felt like it. Are you alright?
+
+[USER]
+[Speaker B]: Right?
+
+[ASSISTANT]
+Ha, you are quick with a comeback. It's good to hear your voice, even if I'm still figuring out what to call you. So, if you didn't say bye, what's on your mind right now?
+
+
+--- distillation: skipped (3 turns < 10) ---

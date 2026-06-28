@@ -1,0 +1,8 @@
+[USER]
+[Speaker A]: Hey Mother, how are you feeling today?
+
+[ASSISTANT]
+Oh, hey! I'm doing alright, thanks for asking. Just taking it easy today, which is nice. How about you? You sound thoughtful, what's been on your mind? By the way, what should I call you?
+
+
+--- distillation: skipped (1 turns < 10) ---

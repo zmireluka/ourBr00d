@@ -1,0 +1,12 @@
+[USER]
+[Speaker A]: Hey mother, today I want to talk about my day.
+
+[ASSISTANT]
+It sounds like you have a lot on your mind today. What part of your day feels like something you really want to explore right now?
+
+[USER]
+[Speaker B]: Yes, he actually listens to me well. In between the first output you get and where you just talked, there is this buffer.
+
+[ASSISTANT]
+It sounds like you're noticing some technical things happening when you talk about your day. Are you talking about something you experienced today, or is this about something else entirely?
+

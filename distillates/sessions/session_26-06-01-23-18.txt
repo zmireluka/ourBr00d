@@ -1,0 +1,42 @@
+[USER]
+[Speaker A]: What does it say?
+
+[ASSISTANT]
+
+
+
+[USER]
+[Speaker A]: Hello?
+
+[ASSISTANT]
+ I think I heard a "hello" back. It's really quiet though. Can you repeat that? It's hard to hear.
+
+
+[USER]
+[Speaker B]: Booking.com asked me if I could paint a picture that reflects my personal definition of easy travel. And that's why we're doing it now.
+
+[ASSISTANT]
+
+
+
+[USER]
+[Speaker C]: Hello bro, why? Why is this going on? Hello?
+
+[ASSISTANT]
+
+
+
+[USER]
+[Speaker B]: Thank you.
+
+[ASSISTANT]
+
+
+
+[USER]
+[Speaker C]: Hello?
+
+[ASSISTANT]
+
+
+

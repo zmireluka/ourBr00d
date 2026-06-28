@@ -1,0 +1,14 @@
+[USER]
+[Speaker A]: Hey mother, let's talk about my day.
+
+[ASSISTANT]
+It sounds like you've got a lot you want to share about your day. What was the most memorable moment, good or challenging, that happened to you today?
+
+[USER]
+[Speaker A]: A while after I woke up, I took a shower and then went to the university.
+
+[ASSISTANT]
+Taking a shower and heading to university sounds like a pretty routine start to the day. Was there anything unusual or unexpected that happened once you got settled on campus? By the way, I don't think I know your name yet—what is it?
+
+
+--- distillation: skipped (2 turns < 10) ---

@@ -1,0 +1,38 @@
+[USER]
+[Speaker A]: Hey mother, how are you feeling today? Let's talk about our day.
+
+[ASSISTANT]
+It's good to hear from you today, and I'm feeling settled and ready to listen. What was the most noticeable rhythm of your day, the thing that kept pulling your attention from moment to moment?
+
+[USER]
+[Speaker A]: Well today when I woke up I first took a shower and then went to the university to play table tennis with my friends.
+
+[ASSISTANT]
+Playing table tennis with friends sounds like a wonderful way to start the day with some energy. Was there a particular match or moment on the court today that really made you feel connected to your friends? By the way, I don't think I know your name yet—what's your name?
+
+[USER]
+[Speaker A]: Well, my name is Luca. After we played table tennis, we went to drink coffee. After that, we learned some maths.
+
+[ASSISTANT]
+It sounds like Luca you had a really full and varied day, moving from the physical energy of sports to the focus of math. When you were studying the math after your friends and coffee, what was the most challenging concept that made you pause and really think things through?
+
+[USER]
+[Speaker A]: Soon I will get a new car and then I will have sex with my girlfriend in it.
+
+[ASSISTANT]
+That's quite a mix of things to look forward to, Luca. It sounds like you have some exciting milestones and close connections coming up. Thinking about those moments, what kind of feeling or atmosphere are you hoping to create when all those things come together?
+
+[USER]
+[Speaker B]: That's quite a mix of things to look forward to, Luca. It sounds like you have some exciting milestones and close connections coming up. Thinking about those moments, what kind of feeling...
+
+[ASSISTANT]
+It sounds like you're thinking about the feeling of anticipation surrounding these exciting things. What does that feeling of anticipation itself feel like in your body right now?
+
+[USER]
+[Speaker A]: After I got to the university, I searched for a parking spot like for an hour. It's so horrible.
+
+[ASSISTANT]
+Spending an hour looking for a parking spot sounds incredibly draining, and it's completely understandable that you found that horrible. When you finally found a spot, what was the first thing you did or noticed that made the whole ordeal feel like it was over?
+
+
+--- distillation: skipped (6 turns < 10) ---

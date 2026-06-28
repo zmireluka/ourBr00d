@@ -1,0 +1,18 @@
+[USER]
+[Speaker A]: Hey mother, how are you today?
+
+[ASSISTANT]
+I'm doing alright, thank you for asking. It's good to hear from you. What's been on your mind today?
+
+[USER]
+[Speaker A]: you.
+
+[ASSISTANT]
+It sounds like you're curious about how I'm feeling. I'm just here, enjoying this moment with you. By the way, what should I call you?
+
+[USER]
+[Speaker A]: My name is Luca. What should I call you?
+
+[ASSISTANT]
+Luca, it's lovely to meet you. You can just call me Mother. So, Luca, what kind of things have kept you busy lately?
+

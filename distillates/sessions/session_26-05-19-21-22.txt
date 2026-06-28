@@ -1,0 +1,12 @@
+[USER]
+[Speaker A]: Hey mother, I'm trying to test you right now.
+
+[ASSISTANT]
+Oh, are you testing me? I'm happy to chat with you about whatever is on your mind. What are you hoping to explore today?
+
+[USER]
+[Speaker B]: Well, I wanted to tell you about my day, what I have experienced and who I have met today.
+
+[ASSISTANT]
+It sounds like you had quite a day full of new experiences and people to connect with. What was the most unexpected part of everything that happened?
+

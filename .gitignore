@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# External repos (clone separately)
+ourbrood-research/
+
+# Notion Export
+Notion
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Whisper Test
+whisper-test/venv/
+whisper-test/.env
+whisper-test/
+
+# VRAM-Filler runtime artifacts
+vram_need_*.gb
+
+# Phase-2 RAG: persistent knowledge store (built on server, never via git)
+knowledge_db/
+
+# LaTeX report (group-internal, not pipeline-relevant)
+latex/

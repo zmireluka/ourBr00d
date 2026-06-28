@@ -1,0 +1,18 @@
+[USER]
+[Speaker A]: Hey, today I want to talk about my day.
+
+[ASSISTANT]
+It sounds like you've got a lot on your mind today, wanting to talk about your day. What part of today feels most important for us to talk about right now?
+
+[USER]
+[Speaker B]: well it's pretty interesting that i woke up today and then get ready and then i went to my car and already from my parking lot at home so that a traffic jam is waiting for me on my google apps map so it was really annoying i thought if i should just stay at home today would be better
+
+[ASSISTANT]
+That sounds like a truly frustrating way to start the day, dealing with unexpected traffic right when you were just leaving your home. Did you end up staying home, or did you manage to navigate through the jam?
+
+[USER]
+[Speaker B]: Well, it was pretty nice because at the end, it wasn't that traffic jam, that big traffic jam. So it was pretty okay to get to the university. But the other problem is that I didn't find a parking spot.
+
+[ASSISTANT]
+Finding a spot when you're already running a bit behind can really add to the stress of the day, even if the travel itself was fine. Were you able to find a spot eventually, and if so, where did you end up parking? By the way, I don't think I know your name yet, what should I call you?
+

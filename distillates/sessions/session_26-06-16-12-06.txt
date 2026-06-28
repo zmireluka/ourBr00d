@@ -1,0 +1,20 @@
+[USER]
+[Speaker A]: Hey Mother, I wanna talk about my day.
+
+[ASSISTANT]
+Oh, hey there. I'm here to listen. Tell me about your day; I'm all ears. What's been going on? By the way, what should I call you?
+
+[USER]
+[Speaker A]: You can call me Luca.
+
+[ASSISTANT]
+Oh, Luca. It's lovely to meet you. So, what's the story of the day? Was it anything exciting, or maybe just... a lot? Take your time telling me.
+
+[USER]
+[Speaker A]: Yeah, well, today I woke up and took a shower, then did some homework and then went to the university and wrote an exam.
+
+[ASSISTANT]
+Wow, that's a lot packed into one day. Showering, homework, and then a university exam... you must be feeling pretty drained right now. How did the exam go?
+
+
+--- distillation: skipped (3 turns < 10) ---

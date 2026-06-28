@@ -1,0 +1,8 @@
+[USER]
+[Speaker A]: So one of the things I'm most proud of is the memory system. Mother actually remembers what was said in previous session, not just the current conversation.
+
+[ASSISTANT]
+Oh, wow. That's really interesting. So, it's not just remembering what we just chatted about, but like, keeping a whole filing cabinet of our conversations? That sounds like a lot to keep track of.
+
+
+--- distillation: skipped (1 turns < 10) ---

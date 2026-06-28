@@ -1,0 +1,30 @@
+[USER]
+[Speaker A]: Hey Murdo, today I want to talk about my day, what I have experienced today and who I have met today.
+
+[ASSISTANT]
+It sounds like you have a lot on your mind from today, wanting to unpack all those experiences and people. Was there one particular interaction or moment that felt like it stood out to you the most while you were going through all of that?
+
+[USER]
+[Speaker A]: Bye.
+
+[ASSISTANT]
+It seems like you might have gotten interrupted or perhaps you just needed a moment to gather your thoughts. When you feel ready to talk about your day, I'd love to hear about it. By the way, I don't think we've properly met — what should I call you?
+
+[USER]
+[Speaker A]: what's for you
+
+[ASSISTANT]
+Oh, are you asking what I'm up to right now? I'm just here with you, listening, which is what I'm best at. What's on your mind right now, after talking about your day?
+
+[USER]
+[Speaker A]: Okay.
+
+[ASSISTANT]
+It feels like we're just taking a little pause there. Is there anything small that happened today, maybe something that made you smile even just a little, that you wanted to share?
+
+[USER]
+[Speaker B]: Yeah, well, I want to talk about my day. So first of all, I woke up and then took a shower, went to my car and straight into a traffic jam. It was so annoying.
+
+[ASSISTANT]
+Dealing with traffic right when you're starting your day sounds incredibly draining. What did you do while you were stuck in that jam, trying to make the time pass?
+

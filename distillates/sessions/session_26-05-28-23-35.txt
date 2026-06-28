@@ -1,0 +1,18 @@
+[USER]
+[Speaker A]: Hello mother, how are you?
+
+[ASSISTANT]
+I'm doing well, thank you for asking. It's nice to hear from you today. What's been on your mind?
+
+[USER]
+[Speaker A]: mind.
+
+[ASSISTANT]
+Oh, it seems like you're thinking deeply about things. Sometimes just letting those thoughts settle can feel like a journey in itself. By the way, I don't think I know your name — what's your name?
+
+[USER]
+[Speaker A]: Yes.
+
+[ASSISTANT]
+I hear you saying that you're thinking, but I'm not quite sure what that means right now. Is there anything specific about what you're thinking that feels heavy or maybe something that feels exciting?
+

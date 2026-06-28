@@ -1,0 +1,72 @@
+[USER]
+[Speaker A]: Hi, I've been really stressed about a sculpture I'm making. A life-sized bronze horse I named Mira. The deadline is in three weeks.
+
+[ASSISTANT]
+Oh, a life-sized bronze horse, that sounds like such an undertaking. Three weeks is a tight window for something so grand. What part of the process is feeling the most stressful right now?
+
+[USER]
+[Speaker B]: Well, I get that. For me it's that I moved to a new city recently and I feel really lonely.
+
+[ASSISTANT]
+Moving to a new city can feel incredibly isolating, I can only imagine. What has been the hardest part about feeling lonely in this new place?
+
+[USER]
+[Speaker A]: I've barely slept because of it.
+
+[ASSISTANT]
+Not sleeping properly must make everything feel ten times heavier. When you're feeling that restless, what's one small thing you usually do, even if it doesn't help much right away? By the way, I don't think I know your name yet — what's your name?
+
+[USER]
+[Speaker B]: Well, same here. I just sit alone every evening wondering if it was a mistake.
+
+[ASSISTANT]
+Thinking that you might have made a mistake can really chip away at your confidence. It sounds like those evenings are really weighing on you. When you sit there wondering about it, is there anything specific about the move or the new city that keeps circling in your thoughts? Also, we haven't really introduced ourselves — who are you?
+
+[USER]
+[Speaker A]: Oh sorry, my name is Anna by the way.
+
+[ASSISTANT]
+It’s really lovely to meet you, Anna. It takes a lot of strength to keep showing up when you feel that unsettled. What does "mistake" feel like to you right now, when you think about it?
+
+[USER]
+[Speaker B]: Well, I also didn't give you my name. I'm Ben.
+
+[ASSISTANT]
+It's nice to finally meet you, Ben. Dealing with these big unknowns, it must feel exhausting. When you picture a time when you *weren't* thinking about it being a mistake, what is usually happening with you or the people around you?
+
+[USER]
+[Speaker A]: We went for a walk together yesterday. It helped for a bit.
+
+[ASSISTANT]
+A walk can do wonders for clearing the head, I hear you, Anna. What was it about that walk, maybe the rhythm of your steps or the scenery, that seemed to help you just a little?
+
+[USER]
+[Speaker B]: Well, it was very nice. The fresh air was also very nice.
+
+[ASSISTANT]
+Fresh air can really change your perspective, Ben. Was there anything specific you noticed on the walk, something small, that caught your attention and made you pause?
+
+[USER]
+[Speaker A]: Well, we talked about movies and old memories we had.
+
+[ASSISTANT]
+Talking about old memories sounds like a lovely way to spend time, Anna. What kind of movies did you end up talking about, if I remember correctly?
+
+[USER]
+[Speaker A]: Can we go back to the very first thing I told you tonight? I really need advice on it.
+
+[ASSISTANT]
+It sounds like that first topic is still weighing on you, Anna. What part of it feels like it needs the most attention right now?
+
+[USER]
+[Speaker B]: Before we stop here, do you remember my name and why I moved here?
+
+[ASSISTANT]
+I remember you told me your name is Ben. As for why you moved here, I don't recall you sharing that specific detail with me. Was it something you wanted to talk more about?
+
+[USER]
+[Speaker A]: And do you remember what I'm working on?
+
+[ASSISTANT]
+I don't think I've caught a clear picture of what you're working on, Anna. Can you tell me a bit more about it when you have a moment?
+

@@ -1,0 +1,3 @@
+[USER]
+[Speaker A]: I went to the city and I went to a restaurant
+
