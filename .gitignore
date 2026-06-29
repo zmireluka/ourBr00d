@@ -22,7 +22,7 @@ whisper-test/venv/
 whisper-test/.env
 whisper-test/
 
-# VRAM-Filler runtime artifacts
+
 vram_need_*.gb
 
 # Phase-2 RAG: persistent knowledge store (built on server, never via git)
